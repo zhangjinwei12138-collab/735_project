@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Local outputs
+outputs/
+pca_umap_out*/
+ae_out*/
+
+# Large data files (do not commit by default)
+data/
+data copy/
+*.zip
+*.h5ad
+*.pt
+
+# macOS
+.DS_Store
