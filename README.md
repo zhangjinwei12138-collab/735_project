@@ -129,8 +129,8 @@ Generate one figure with:
 
 ```bash
 python plot_label_comparison.py \
-  --pca-dir ./outputs/pca_umap_hvg3000_seed42 \
-  --ae-dir ./outputs/ae_poisson_hvg3000_seed42 \
+  --pca-dir ./pca_umap_out_hvg3000_var80_seed123 \
+  --ae-dir ./ae_out_run1 \
   --outdir ./outputs/fig_compare \
   --viz-space umap
 ```
@@ -165,3 +165,43 @@ Outputs:
 - `runtime_vs_k.png`
 - `runtime_vs_d.png`
 
+## 9. Reproducible Commands (Seed 123)
+
+Autoencoder:
+
+```bash
+python /proj/daiweilab/users/jinweizh/735/project_data/run_autoencoder.py \
+  --counts '/proj/daiweilab/users/jinweizh/735/project_data/data copy/brain_counts.csv' \
+  --metadata '/proj/daiweilab/users/jinweizh/735/project_data/data copy/brain_metadata.csv' \
+  --outdir /proj/daiweilab/users/jinweizh/735/project_data/ae_out_run1 \
+  --n-hvg 3000 \
+  --loss poisson \
+  --hidden-dims 1024,512,128 \
+  --latent-dim 32 \
+  --epochs 200 \
+  --patience 30 \
+  --batch-size 128 \
+  --lr 5e-4 \
+  --weight-decay 1e-4 \
+  --cluster-method both \
+  --cluster-on latent \
+  --n-clusters 7 \
+  --dp-max-components 20 \
+  --seed 123 \
+  --device auto
+```
+
+PCA/UMAP (cluster on PCA, 80% cumulative explained variance target):
+
+```bash
+python /proj/daiweilab/users/jinweizh/735/project_data/run_pca_umap.py \
+  --counts '/proj/daiweilab/users/jinweizh/735/project_data/data copy/brain_counts.csv' \
+  --metadata '/proj/daiweilab/users/jinweizh/735/project_data/data copy/brain_metadata.csv' \
+  --outdir /proj/daiweilab/users/jinweizh/735/project_data/pca_umap_out_hvg3000_var80_seed123 \
+  --n-hvg 3000 \
+  --pca-var-threshold 0.8 \
+  --cluster-method both \
+  --cluster-on pca \
+  --n-clusters 7 \
+  --seed 123
+```
