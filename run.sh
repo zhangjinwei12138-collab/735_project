@@ -19,7 +19,7 @@ N_PCS="${N_PCS:-30}"
 N_CLUSTERS="${N_CLUSTERS:-7}"
 DP_MAX_COMPONENTS="${DP_MAX_COMPONENTS:-20}"
 CLUSTER_METHOD="${CLUSTER_METHOD:-both}"      # none|gmm|dp|both
-CLUSTER_ON="${CLUSTER_ON:-both}"              # pca|umap|both (for run_pca_umap.py)
+CLUSTER_ON="${CLUSTER_ON:-pca}"               # pca|umap|both (for run_pca_umap.py)
 RUN_PCA_UMAP="${RUN_PCA_UMAP:-1}"             # 1 or 0
 RUN_AE="${RUN_AE:-1}"                         # 1 or 0
 

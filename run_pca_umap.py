@@ -35,6 +35,12 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument("--outdir", type=Path, required=True, help="Output directory.")
     parser.add_argument("--n-hvg", type=int, default=2000, help="Number of HVGs to keep.")
     parser.add_argument("--n-pcs", type=int, default=30, help="Number of PCs.")
+    parser.add_argument(
+        "--pca-var-threshold",
+        type=float,
+        default=None,
+        help="If set (0,1], choose the smallest number of PCs reaching this cumulative explained variance.",
+    )
     parser.add_argument("--target-sum", type=float, default=1e4, help="Library size target.")
     parser.add_argument(
         "--cluster-method",
@@ -116,6 +122,39 @@ def plot_embedding(
     plt.ylabel(y_name)
     plt.title(title)
     plt.legend(loc="best", markerscale=1.5, fontsize=8, frameon=False)
+    plt.tight_layout()
+    plt.savefig(out_png, dpi=200)
+    plt.close()
+
+
+def plot_pca_variance(
+    evr: np.ndarray,
+    cum_evr: np.ndarray,
+    out_png: Path,
+    threshold: float | None,
+) -> None:
+    x = np.arange(1, len(evr) + 1)
+    fig, ax1 = plt.subplots(figsize=(9, 5))
+
+    ax1.bar(x, evr, alpha=0.45, color="#4C78A8", label="Explained variance ratio")
+    ax1.set_xlabel("Principal Component")
+    ax1.set_ylabel("Explained variance ratio", color="#4C78A8")
+    ax1.tick_params(axis="y", labelcolor="#4C78A8")
+
+    ax2 = ax1.twinx()
+    ax2.plot(x, cum_evr, color="#F58518", linewidth=2, label="Cumulative explained variance")
+    ax2.set_ylabel("Cumulative explained variance", color="#F58518")
+    ax2.tick_params(axis="y", labelcolor="#F58518")
+    ax2.set_ylim(0, 1.02)
+
+    if threshold is not None:
+        ax2.axhline(y=threshold, color="#E45756", linestyle="--", linewidth=1.5, label=f"Threshold={threshold:.2f}")
+
+    lines1, labels1 = ax1.get_legend_handles_labels()
+    lines2, labels2 = ax2.get_legend_handles_labels()
+    ax1.legend(lines1 + lines2, labels1 + labels2, loc="lower right", frameon=False)
+
+    plt.title("PCA Explained Variance")
     plt.tight_layout()
     plt.savefig(out_png, dpi=200)
     plt.close()
@@ -239,12 +278,27 @@ def main() -> None:
     else:
         expr_use, hvg_names = expr_log, gene_names
 
-    n_pcs = min(args.n_pcs, expr_use.shape[0] - 1, expr_use.shape[1])
-    if n_pcs < 2:
+    max_valid_pcs = min(expr_use.shape[0] - 1, expr_use.shape[1])
+    if max_valid_pcs < 2:
         raise ValueError("Not enough data to compute PCA with at least 2 components.")
+    if args.pca_var_threshold is not None and not (0 < args.pca_var_threshold <= 1):
+        raise ValueError("--pca-var-threshold must be in (0, 1].")
 
-    pca_model = PCA(n_components=n_pcs, random_state=args.seed)
-    pca_emb = pca_model.fit_transform(expr_use)
+    # Fit full PCA once so we can select components by variance threshold if requested.
+    pca_full = PCA(n_components=max_valid_pcs, random_state=args.seed)
+    pca_emb_full = pca_full.fit_transform(expr_use)
+    full_evr = pca_full.explained_variance_ratio_
+    full_cum = np.cumsum(full_evr)
+
+    if args.pca_var_threshold is not None:
+        n_pcs = int(np.searchsorted(full_cum, args.pca_var_threshold, side="left") + 1)
+    else:
+        n_pcs = args.n_pcs
+    n_pcs = min(max(2, n_pcs), max_valid_pcs)
+
+    pca_emb = pca_emb_full[:, :n_pcs]
+    evr = full_evr[:n_pcs]
+    cum_evr = full_cum[:n_pcs]
 
     umap_model = umap.UMAP(
         n_components=2,
@@ -273,9 +327,15 @@ def main() -> None:
 
     pd.Series(hvg_names, name="gene").to_csv(args.outdir / "hvg_genes.csv", index=False)
 
-    evr = pca_model.explained_variance_ratio_
-    evr_df = pd.DataFrame({"PC": [f"PC{i+1}" for i in range(len(evr))], "explained_variance_ratio": evr})
+    evr_df = pd.DataFrame(
+        {
+            "PC": [f"PC{i+1}" for i in range(len(evr))],
+            "explained_variance_ratio": evr,
+            "cumulative_explained_variance": cum_evr,
+        }
+    )
     evr_df.to_csv(args.outdir / "pca_explained_variance_ratio.csv", index=False)
+    plot_pca_variance(evr, cum_evr, args.outdir / "pca_explained_variance_ratio.png", args.pca_var_threshold)
 
     plot_embedding(
         pca_emb[:, :2],
@@ -324,8 +384,10 @@ def main() -> None:
     print(f"Done. Output directory: {args.outdir}")
     print(f"Cells: {expr.shape[0]}, genes: {expr.shape[1]}, HVGs used: {expr_use.shape[1]}")
     print(f"PCA components: {pca_emb.shape[1]}")
+    print(f"PCA cumulative explained variance: {cum_evr[-1]:.4f}")
     print("Saved files: pca_embedding.csv, umap_embedding.csv, hvg_genes.csv,")
-    print("             pca_explained_variance_ratio.csv, pca_plot.png, umap_plot.png")
+    print("             pca_explained_variance_ratio.csv, pca_explained_variance_ratio.png,")
+    print("             pca_plot.png, umap_plot.png")
     if metrics_rows:
         print("             clustering_metrics_<space>.csv, cluster_assignments_*.csv, cluster_plot_*.png")
 

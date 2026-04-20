@@ -17,6 +17,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 import pandas as pd
 import torch
+import umap
 from sklearn.metrics import adjusted_rand_score, silhouette_score
 from sklearn.mixture import BayesianGaussianMixture, GaussianMixture
 from sklearn.model_selection import train_test_split
@@ -100,6 +101,13 @@ def parse_args() -> argparse.Namespace:
     )
     parser.add_argument("--gmm-max-iter", type=int, default=200, help="Max iterations for GMM models.")
     parser.add_argument("--gmm-n-init", type=int, default=5, help="Number of random initializations for GMM.")
+    parser.add_argument(
+        "--no-umap",
+        action="store_true",
+        help="Disable UMAP on latent embeddings.",
+    )
+    parser.add_argument("--umap-n-neighbors", type=int, default=15, help="UMAP n_neighbors on latent space.")
+    parser.add_argument("--umap-min-dist", type=float, default=0.3, help="UMAP min_dist on latent space.")
     parser.add_argument("--seed", type=int, default=42, help="Random seed.")
     parser.add_argument("--device", type=str, default="auto", choices=["auto", "cpu", "cuda"])
     return parser.parse_args()
@@ -195,6 +203,21 @@ def plot_latent_2d(latent: np.ndarray, labels: np.ndarray, out_png: Path) -> Non
     plt.xlabel("z1")
     plt.ylabel("z2")
     plt.title("Autoencoder Latent Space (first 2 dims)")
+    plt.legend(loc="best", markerscale=1.5, fontsize=8, frameon=False)
+    plt.tight_layout()
+    plt.savefig(out_png, dpi=200)
+    plt.close()
+
+
+def plot_umap_2d(emb: np.ndarray, labels: np.ndarray, out_png: Path) -> None:
+    plt.figure(figsize=(8, 6))
+    unique_labels = pd.unique(labels.astype(str))
+    for lab in unique_labels:
+        idx = labels == lab
+        plt.scatter(emb[idx, 0], emb[idx, 1], s=10, alpha=0.8, label=lab)
+    plt.xlabel("UMAP1")
+    plt.ylabel("UMAP2")
+    plt.title("UMAP on Autoencoder Latent Space")
     plt.legend(loc="best", markerscale=1.5, fontsize=8, frameon=False)
     plt.tight_layout()
     plt.savefig(out_png, dpi=200)
@@ -417,7 +440,7 @@ def main() -> None:
         history.append({"epoch": epoch, "train_loss": train_loss, "val_loss": val_loss})
         print(f"Epoch {epoch:03d}/{args.epochs} | train={train_loss:.6f} | val={val_loss:.6f}")
 
-        if val_loss < best_val - 1e-6:
+        if val_loss < best_val - 1e-7:
             best_val = val_loss
             best_epoch = epoch
             epochs_no_improve = 0
@@ -445,6 +468,29 @@ def main() -> None:
     latent_df.insert(0, "cell", cell_ids.values)
     latent_df["label"] = labels
     latent_df.to_csv(args.outdir / "autoencoder_latent.csv", index=False)
+
+    run_umap = not args.no_umap
+    if run_umap:
+        if z_all.shape[1] < 2:
+            raise ValueError("Latent dimension must be >=2 to run UMAP.")
+        umap_model = umap.UMAP(
+            n_components=2,
+            n_neighbors=args.umap_n_neighbors,
+            min_dist=args.umap_min_dist,
+            metric="euclidean",
+            random_state=args.seed,
+        )
+        ae_umap = umap_model.fit_transform(z_all)
+        ae_umap_df = pd.DataFrame(
+            {
+                "cell": cell_ids.values,
+                "label": labels,
+                "UMAP1": ae_umap[:, 0],
+                "UMAP2": ae_umap[:, 1],
+            }
+        )
+        ae_umap_df.to_csv(args.outdir / "ae_umap_embedding.csv", index=False)
+        plot_umap_2d(ae_umap, labels, args.outdir / "ae_umap_plot.png")
 
     history_df = pd.DataFrame(history)
     history_df.to_csv(args.outdir / "train_history.csv", index=False)
@@ -505,6 +551,8 @@ def main() -> None:
         print("             latent_2d_plot.png, hvg_genes.csv, autoencoder_model.pt")
     else:
         print("             latent_2d_plot.png, hvg_genes.csv, feature_scaler.csv, autoencoder_model.pt")
+    if run_umap:
+        print("             ae_umap_embedding.csv, ae_umap_plot.png")
     if metrics_rows:
         print("             clustering_metrics_<space>.csv, cluster_assignments_*.csv")
 

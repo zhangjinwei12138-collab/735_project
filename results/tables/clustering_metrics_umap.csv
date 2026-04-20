@@ -1,0 +1,3 @@
+method,space,n_clusters_param,n_clusters_found,ari,silhouette,bic
+gmm,umap,7,7,0.8211210614153089,0.7147505879402161,34091.1543123354
+dp,umap,20,13,0.5125819166129371,0.5247373580932617,

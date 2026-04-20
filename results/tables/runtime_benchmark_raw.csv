@@ -1,0 +1,85 @@
+axis,axis_value,method,repeat,N,D,K,runtime_sec,status,error,covariance_type,reg_covar
+N,500,gmm,0,500,100,7,,failed,"Fitting the mixture model failed because some components have ill-defined empirical covariance (for instance caused by singleton or collapsed samples). Try to decrease the number of components, or increase reg_covar.",diag,0.0001
+N,500,dp,0,500,100,7,0.07939513213932514,ok,,diag,0.0001
+N,500,gmm,1,500,100,7,0.02466494683176279,ok,,diag,0.0001
+N,500,dp,1,500,100,7,0.040169899351894855,ok,,diag,0.0001
+N,500,gmm,2,500,100,7,0.02964345458894968,ok,,diag,0.0001
+N,500,dp,2,500,100,7,0.0633689071983099,ok,,diag,0.0001
+N,1000,gmm,0,1000,100,7,0.06447968818247318,ok,,diag,0.0001
+N,1000,dp,0,1000,100,7,0.07347135525196791,ok,,diag,0.0001
+N,1000,gmm,1,1000,100,7,0.06434391345828772,ok,,diag,0.0001
+N,1000,dp,1,1000,100,7,0.05713640712201595,ok,,diag,0.0001
+N,1000,gmm,2,1000,100,7,,failed,"Fitting the mixture model failed because some components have ill-defined empirical covariance (for instance caused by singleton or collapsed samples). Try to decrease the number of components, or increase reg_covar.",diag,0.0001
+N,1000,dp,2,1000,100,7,0.06545277126133442,ok,,diag,0.0001
+N,2000,gmm,0,2000,100,7,0.204878943040967,ok,,diag,0.0001
+N,2000,dp,0,2000,100,7,0.23661162052303553,ok,,diag,0.0001
+N,2000,gmm,1,2000,100,7,,failed,"Fitting the mixture model failed because some components have ill-defined empirical covariance (for instance caused by singleton or collapsed samples). Try to decrease the number of components, or increase reg_covar.",diag,0.0001
+N,2000,dp,1,2000,100,7,0.2619970552623272,ok,,diag,0.0001
+N,2000,gmm,2,2000,100,7,,failed,"Fitting the mixture model failed because some components have ill-defined empirical covariance (for instance caused by singleton or collapsed samples). Try to decrease the number of components, or increase reg_covar.",diag,0.0001
+N,2000,dp,2,2000,100,7,0.1738673411309719,ok,,diag,0.0001
+N,3000,gmm,0,3000,100,7,0.27063442301005125,ok,,diag,0.0001
+N,3000,dp,0,3000,100,7,0.42516599502414465,ok,,diag,0.0001
+N,3000,gmm,1,3000,100,7,,failed,"Fitting the mixture model failed because some components have ill-defined empirical covariance (for instance caused by singleton or collapsed samples). Try to decrease the number of components, or increase reg_covar.",diag,0.0001
+N,3000,dp,1,3000,100,7,0.34879347681999207,ok,,diag,0.0001
+N,3000,gmm,2,3000,100,7,,failed,"Fitting the mixture model failed because some components have ill-defined empirical covariance (for instance caused by singleton or collapsed samples). Try to decrease the number of components, or increase reg_covar.",diag,0.0001
+N,3000,dp,2,3000,100,7,0.37511908169835806,ok,,diag,0.0001
+K,3,gmm,0,2000,100,3,,failed,"Fitting the mixture model failed because some components have ill-defined empirical covariance (for instance caused by singleton or collapsed samples). Try to decrease the number of components, or increase reg_covar.",diag,0.0001
+K,3,dp,0,2000,100,3,0.10928085166960955,ok,,diag,0.0001
+K,3,gmm,1,2000,100,3,0.09079739823937416,ok,,diag,0.0001
+K,3,dp,1,2000,100,3,0.09814221225678921,ok,,diag,0.0001
+K,3,gmm,2,2000,100,3,0.07025666069239378,ok,,diag,0.0001
+K,3,dp,2,2000,100,3,0.14794697985053062,ok,,diag,0.0001
+K,5,gmm,0,2000,100,5,,failed,"Fitting the mixture model failed because some components have ill-defined empirical covariance (for instance caused by singleton or collapsed samples). Try to decrease the number of components, or increase reg_covar.",diag,0.0001
+K,5,dp,0,2000,100,5,0.15607091132551432,ok,,diag,0.0001
+K,5,gmm,1,2000,100,5,,failed,"Fitting the mixture model failed because some components have ill-defined empirical covariance (for instance caused by singleton or collapsed samples). Try to decrease the number of components, or increase reg_covar.",diag,0.0001
+K,5,dp,1,2000,100,5,0.17899136245250702,ok,,diag,0.0001
+K,5,gmm,2,2000,100,5,,failed,"Fitting the mixture model failed because some components have ill-defined empirical covariance (for instance caused by singleton or collapsed samples). Try to decrease the number of components, or increase reg_covar.",diag,0.0001
+K,5,dp,2,2000,100,5,0.46373623330146074,ok,,diag,0.0001
+K,7,gmm,0,2000,100,7,,failed,"Fitting the mixture model failed because some components have ill-defined empirical covariance (for instance caused by singleton or collapsed samples). Try to decrease the number of components, or increase reg_covar.",diag,0.0001
+K,7,dp,0,2000,100,7,0.1450543710961938,ok,,diag,0.0001
+K,7,gmm,1,2000,100,7,,failed,"Fitting the mixture model failed because some components have ill-defined empirical covariance (for instance caused by singleton or collapsed samples). Try to decrease the number of components, or increase reg_covar.",diag,0.0001
+K,7,dp,1,2000,100,7,0.16143406368792057,ok,,diag,0.0001
+K,7,gmm,2,2000,100,7,0.17048033233731985,ok,,diag,0.0001
+K,7,dp,2,2000,100,7,0.14240879844874144,ok,,diag,0.0001
+K,10,gmm,0,2000,100,10,0.17309926450252533,ok,,diag,0.0001
+K,10,dp,0,2000,100,10,0.2554151676595211,ok,,diag,0.0001
+K,10,gmm,1,2000,100,10,,failed,"Fitting the mixture model failed because some components have ill-defined empirical covariance (for instance caused by singleton or collapsed samples). Try to decrease the number of components, or increase reg_covar.",diag,0.0001
+K,10,dp,1,2000,100,10,0.24239052645862103,ok,,diag,0.0001
+K,10,gmm,2,2000,100,10,0.16608754824846983,ok,,diag,0.0001
+K,10,dp,2,2000,100,10,0.21750586573034525,ok,,diag,0.0001
+K,15,gmm,0,2000,100,15,,failed,"Fitting the mixture model failed because some components have ill-defined empirical covariance (for instance caused by singleton or collapsed samples). Try to decrease the number of components, or increase reg_covar.",diag,0.0001
+K,15,dp,0,2000,100,15,0.25523684173822403,ok,,diag,0.0001
+K,15,gmm,1,2000,100,15,,failed,"Fitting the mixture model failed because some components have ill-defined empirical covariance (for instance caused by singleton or collapsed samples). Try to decrease the number of components, or increase reg_covar.",diag,0.0001
+K,15,dp,1,2000,100,15,0.447138168849051,ok,,diag,0.0001
+K,15,gmm,2,2000,100,15,,failed,"Fitting the mixture model failed because some components have ill-defined empirical covariance (for instance caused by singleton or collapsed samples). Try to decrease the number of components, or increase reg_covar.",diag,0.0001
+K,15,dp,2,2000,100,15,0.5363414036110044,ok,,diag,0.0001
+D,50,gmm,0,2000,50,7,0.11516778916120529,ok,,diag,0.0001
+D,50,dp,0,2000,50,7,0.4565547052770853,ok,,diag,0.0001
+D,50,gmm,1,2000,50,7,,failed,"Fitting the mixture model failed because some components have ill-defined empirical covariance (for instance caused by singleton or collapsed samples). Try to decrease the number of components, or increase reg_covar.",diag,0.0001
+D,50,dp,1,2000,50,7,0.22530002426356077,ok,,diag,0.0001
+D,50,gmm,2,2000,50,7,,failed,"Fitting the mixture model failed because some components have ill-defined empirical covariance (for instance caused by singleton or collapsed samples). Try to decrease the number of components, or increase reg_covar.",diag,0.0001
+D,50,dp,2,2000,50,7,0.1524488888680935,ok,,diag,0.0001
+D,100,gmm,0,2000,100,7,,failed,"Fitting the mixture model failed because some components have ill-defined empirical covariance (for instance caused by singleton or collapsed samples). Try to decrease the number of components, or increase reg_covar.",diag,0.0001
+D,100,dp,0,2000,100,7,0.1778698693960905,ok,,diag,0.0001
+D,100,gmm,1,2000,100,7,,failed,"Fitting the mixture model failed because some components have ill-defined empirical covariance (for instance caused by singleton or collapsed samples). Try to decrease the number of components, or increase reg_covar.",diag,0.0001
+D,100,dp,1,2000,100,7,0.18590511474758387,ok,,diag,0.0001
+D,100,gmm,2,2000,100,7,0.14493985660374165,ok,,diag,0.0001
+D,100,dp,2,2000,100,7,0.18103648349642754,ok,,diag,0.0001
+D,200,gmm,0,2000,200,7,0.20518390648066998,ok,,diag,0.0001
+D,200,dp,0,2000,200,7,0.2206332255154848,ok,,diag,0.0001
+D,200,gmm,1,2000,200,7,,failed,"Fitting the mixture model failed because some components have ill-defined empirical covariance (for instance caused by singleton or collapsed samples). Try to decrease the number of components, or increase reg_covar.",diag,0.0001
+D,200,dp,1,2000,200,7,0.3532196329906583,ok,,diag,0.0001
+D,200,gmm,2,2000,200,7,,failed,"Fitting the mixture model failed because some components have ill-defined empirical covariance (for instance caused by singleton or collapsed samples). Try to decrease the number of components, or increase reg_covar.",diag,0.0001
+D,200,dp,2,2000,200,7,0.1426645303145051,ok,,diag,0.0001
+D,500,gmm,0,2000,500,7,0.4674952020868659,ok,,diag,0.0001
+D,500,dp,0,2000,500,7,0.8121690088883042,ok,,diag,0.0001
+D,500,gmm,1,2000,500,7,,failed,"Fitting the mixture model failed because some components have ill-defined empirical covariance (for instance caused by singleton or collapsed samples). Try to decrease the number of components, or increase reg_covar.",diag,0.0001
+D,500,dp,1,2000,500,7,0.515223128721118,ok,,diag,0.0001
+D,500,gmm,2,2000,500,7,,failed,"Fitting the mixture model failed because some components have ill-defined empirical covariance (for instance caused by singleton or collapsed samples). Try to decrease the number of components, or increase reg_covar.",diag,0.0001
+D,500,dp,2,2000,500,7,0.6086110742762685,ok,,diag,0.0001
+D,1000,gmm,0,2000,1000,7,,failed,"Fitting the mixture model failed because some components have ill-defined empirical covariance (for instance caused by singleton or collapsed samples). Try to decrease the number of components, or increase reg_covar.",diag,0.0001
+D,1000,dp,0,2000,1000,7,0.9184273472055793,ok,,diag,0.0001
+D,1000,gmm,1,2000,1000,7,,failed,"Fitting the mixture model failed because some components have ill-defined empirical covariance (for instance caused by singleton or collapsed samples). Try to decrease the number of components, or increase reg_covar.",diag,0.0001
+D,1000,dp,1,2000,1000,7,1.076025964692235,ok,,diag,0.0001
+D,1000,gmm,2,2000,1000,7,,failed,"Fitting the mixture model failed because some components have ill-defined empirical covariance (for instance caused by singleton or collapsed samples). Try to decrease the number of components, or increase reg_covar.",diag,0.0001
+D,1000,dp,2,2000,1000,7,0.8371387794613838,ok,,diag,0.0001
