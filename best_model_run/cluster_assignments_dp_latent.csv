@@ -1,0 +1,3402 @@
+cell,true_label,cluster
+A1.B003290.3_38_F.1.1,astrocyte,8
+A1.B003728.3_56_F.1.1,astrocyte,11
+A1.MAA000560.3_10_M.1.1,oligodendrocyte,15
+A1.MAA000564.3_10_M.1.1,endothelial cell,10
+A1.MAA000923.3_9_M.1.1,astrocyte,11
+A1.MAA000930.3_8_M.1.1,oligodendrocyte,6
+A1.MAA000932.3_11_M.1.1,endothelial cell,16
+A1.MAA000940.3_8_M.1.1,neuron,0
+A1.MAA001854.3_38_F.1.1,oligodendrocyte,5
+A1.MAA001894.3_39_F.1.1,endothelial cell,2
+A1.MAA001895.3_38_F.1.1,endothelial cell,2
+A10.B003290.3_38_F.1.1,endothelial cell,16
+A10.MAA000564.3_10_M.1.1,oligodendrocyte precursor cell,4
+A10.MAA000641.3_9_M.1.1,oligodendrocyte,17
+A10.MAA000926.3_9_M.1.1,astrocyte,11
+A10.MAA000930.3_8_M.1.1,oligodendrocyte precursor cell,4
+A10.MAA000932.3_11_M.1.1,endothelial cell,16
+A10.MAA000935.3_8_M.1.1,oligodendrocyte,15
+A10.MAA000941.3_8_M.1.1,oligodendrocyte,15
+A10.MAA000944.3_9_M.1.1,oligodendrocyte,15
+A10.MAA001853.3_38_F.1.1,endothelial cell,10
+A10.MAA001854.3_38_F.1.1,oligodendrocyte,1
+A11.B000404.3_56_F.1.1,astrocyte,6
+A11.B003275.3_38_F.1.1,endothelial cell,2
+A11.MAA000560.3_10_M.1.1,oligodendrocyte precursor cell,4
+A11.MAA000561.3_10_M.1.1,oligodendrocyte precursor cell,12
+A11.MAA000564.3_10_M.1.1,neuron,0
+A11.MAA000641.3_9_M.1.1,oligodendrocyte,17
+A11.MAA000902.3_11_M.1.1,oligodendrocyte,15
+A11.MAA000923.3_9_M.1.1,astrocyte,6
+A11.MAA000926.3_9_M.1.1,endothelial cell,2
+A11.MAA000928.3_9_M.1.1,Bergmann glial cell,5
+A11.MAA000930.3_8_M.1.1,oligodendrocyte,15
+A11.MAA000932.3_11_M.1.1,endothelial cell,10
+A11.MAA000942.3_8_M.1.1,neuron,0
+A11.MAA000944.3_9_M.1.1,astrocyte,11
+A12.B001688.3_38_F.1.1,oligodendrocyte precursor cell,4
+A12.B003275.3_38_F.1.1,endothelial cell,2
+A12.B003290.3_38_F.1.1,endothelial cell,10
+A12.MAA000560.3_10_M.1.1,oligodendrocyte,15
+A12.MAA000581.3_10_M.1.1,endothelial cell,16
+A12.MAA000615.3_10_M.1.1,neuron,0
+A12.MAA000641.3_9_M.1.1,oligodendrocyte,17
+A12.MAA000926.3_9_M.1.1,oligodendrocyte precursor cell,4
+A12.MAA000930.3_8_M.1.1,astrocyte,11
+A12.MAA000935.3_8_M.1.1,oligodendrocyte,1
+A12.MAA000941.3_8_M.1.1,oligodendrocyte,14
+A12.MAA000944.3_9_M.1.1,oligodendrocyte,15
+A12.MAA001854.3_38_F.1.1,oligodendrocyte,1
+A13.B003275.3_38_F.1.1,endothelial cell,16
+A13.B003290.3_38_F.1.1,endothelial cell,10
+A13.MAA000424.3_11_M.1.1,neuron,7
+A13.MAA000560.3_10_M.1.1,astrocyte,11
+A13.MAA000563.3_10_M.1.1,oligodendrocyte,15
+A13.MAA000615.3_10_M.1.1,neuron,19
+A13.MAA000923.3_9_M.1.1,astrocyte,11
+A13.MAA000930.3_8_M.1.1,oligodendrocyte,15
+A13.MAA000941.3_8_M.1.1,endothelial cell,16
+A13.MAA000944.3_9_M.1.1,endothelial cell,16
+A14.B003274.3_38_F.1.1,oligodendrocyte,14
+A14.B003275.3_38_F.1.1,endothelial cell,16
+A14.B003290.3_38_F.1.1,endothelial cell,2
+A14.B003728.3_56_F.1.1,oligodendrocyte,15
+A14.MAA000560.3_10_M.1.1,oligodendrocyte,15
+A14.MAA000561.3_10_M.1.1,neuron,19
+A14.MAA000581.3_10_M.1.1,brain pericyte,3
+A14.MAA000926.3_9_M.1.1,oligodendrocyte,1
+A14.MAA000930.3_8_M.1.1,brain pericyte,3
+A14.MAA000942.3_8_M.1.1,neuron,0
+A14.MAA000944.3_9_M.1.1,oligodendrocyte,19
+A14.MAA000947.3_9_M.1.1,brain pericyte,3
+A14.MAA001845.3_39_F.1.1,endothelial cell,2
+A15.B003275.3_38_F.1.1,oligodendrocyte,2
+A15.B003277.3_39_F.1.1,oligodendrocyte,6
+A15.B003290.3_38_F.1.1,endothelial cell,2
+A15.MAA000560.3_10_M.1.1,astrocyte,11
+A15.MAA000561.3_10_M.1.1,brain pericyte,3
+A15.MAA000581.3_10_M.1.1,endothelial cell,2
+A15.MAA000641.3_9_M.1.1,oligodendrocyte,17
+A15.MAA000930.3_8_M.1.1,endothelial cell,2
+A15.MAA000941.3_8_M.1.1,endothelial cell,16
+A15.MAA000942.3_8_M.1.1,neuron,0
+A15.MAA000944.3_9_M.1.1,astrocyte,6
+A15.MAA001895.3_38_F.1.1,endothelial cell,2
+A16.B003275.3_38_F.1.1,oligodendrocyte,13
+A16.MAA000560.3_10_M.1.1,oligodendrocyte,15
+A16.MAA000561.3_10_M.1.1,neuron,7
+A16.MAA000564.3_10_M.1.1,oligodendrocyte precursor cell,12
+A16.MAA000581.3_10_M.1.1,endothelial cell,2
+A16.MAA000641.3_9_M.1.1,oligodendrocyte,19
+A16.MAA000902.3_11_M.1.1,oligodendrocyte,12
+A16.MAA000930.3_8_M.1.1,astrocyte,11
+A16.MAA000932.3_11_M.1.1,endothelial cell,16
+A16.MAA000935.3_8_M.1.1,oligodendrocyte,6
+A16.MAA000941.3_8_M.1.1,neuron,4
+A16.MAA000942.3_8_M.1.1,neuron,0
+A16.MAA000944.3_9_M.1.1,neuron,7
+A16.MAA001894.3_39_F.1.1,astrocyte,11
+A17.B003275.3_38_F.1.1,oligodendrocyte,13
+A17.B003290.3_38_F.1.1,neuron,0
+A17.MAA000560.3_10_M.1.1,astrocyte,11
+A17.MAA000561.3_10_M.1.1,neuron,0
+A17.MAA000581.3_10_M.1.1,endothelial cell,16
+A17.MAA000641.3_9_M.1.1,oligodendrocyte,17
+A17.MAA001895.3_38_F.1.1,endothelial cell,2
+A18.B000621.3_56_F.1.1,oligodendrocyte,9
+A18.MAA000560.3_10_M.1.1,oligodendrocyte,15
+A18.MAA000561.3_10_M.1.1,neuron,7
+A18.MAA000578.3_10_M.1.1,oligodendrocyte,15
+A18.MAA000581.3_10_M.1.1,endothelial cell,2
+A18.MAA000926.3_9_M.1.1,oligodendrocyte,15
+A18.MAA000930.3_8_M.1.1,endothelial cell,16
+A18.MAA000932.3_11_M.1.1,oligodendrocyte,1
+A18.MAA000935.3_8_M.1.1,oligodendrocyte,12
+A18.MAA000941.3_8_M.1.1,endothelial cell,2
+A18.MAA000942.3_8_M.1.1,oligodendrocyte,15
+A18.MAA000944.3_9_M.1.1,oligodendrocyte,15
+A18.MAA001845.3_39_F.1.1,endothelial cell,2
+A19.B003275.3_38_F.1.1,endothelial cell,16
+A19.B003728.3_56_F.1.1,oligodendrocyte,9
+A19.MAA000550.3_10_M.1.1,oligodendrocyte,14
+A19.MAA000560.3_10_M.1.1,oligodendrocyte,15
+A19.MAA000561.3_10_M.1.1,neuron,7
+A19.MAA000581.3_10_M.1.1,brain pericyte,3
+A19.MAA000926.3_9_M.1.1,astrocyte,11
+A19.MAA000930.3_8_M.1.1,astrocyte,11
+A19.MAA000944.3_9_M.1.1,oligodendrocyte,6
+A2.B003277.3_39_F.1.1,oligodendrocyte,9
+A2.B003290.3_38_F.1.1,endothelial cell,2
+A2.MAA000560.3_10_M.1.1,astrocyte,11
+A2.MAA000932.3_11_M.1.1,endothelial cell,10
+A2.MAA000935.3_8_M.1.1,oligodendrocyte,1
+A2.MAA000941.3_8_M.1.1,endothelial cell,10
+A2.MAA000942.3_8_M.1.1,oligodendrocyte,15
+A2.MAA000944.3_9_M.1.1,oligodendrocyte,6
+A2.MAA001854.3_38_F.1.1,oligodendrocyte,17
+A20.B003274.3_38_F.1.1,oligodendrocyte,1
+A20.B003275.3_38_F.1.1,endothelial cell,2
+A20.B003277.3_39_F.1.1,oligodendrocyte,15
+A20.B003290.3_38_F.1.1,neuron,0
+A20.MAA000550.3_10_M.1.1,oligodendrocyte precursor cell,4
+A20.MAA000560.3_10_M.1.1,oligodendrocyte,14
+A20.MAA000561.3_10_M.1.1,brain pericyte,3
+A20.MAA000564.3_10_M.1.1,endothelial cell,2
+A20.MAA000581.3_10_M.1.1,neuron,7
+A20.MAA000926.3_9_M.1.1,brain pericyte,3
+A20.MAA000944.3_9_M.1.1,neuron,7
+A20.MAA000947.3_9_M.1.1,oligodendrocyte precursor cell,4
+A21.B003275.3_38_F.1.1,endothelial cell,2
+A21.B003277.3_39_F.1.1,oligodendrocyte,15
+A21.B003290.3_38_F.1.1,oligodendrocyte,13
+A21.MAA000424.3_11_M.1.1,endothelial cell,2
+A21.MAA000560.3_10_M.1.1,astrocyte,11
+A21.MAA000561.3_10_M.1.1,neuron,0
+A21.MAA000581.3_10_M.1.1,endothelial cell,2
+A21.MAA000925.3_9_M.1.1,oligodendrocyte,15
+A21.MAA000926.3_9_M.1.1,astrocyte,11
+A21.MAA000930.3_8_M.1.1,astrocyte,6
+A21.MAA000944.3_9_M.1.1,endothelial cell,16
+A21.MAA001894.3_39_F.1.1,oligodendrocyte,1
+A21.MAA001895.3_38_F.1.1,oligodendrocyte,13
+A22.B003275.3_38_F.1.1,endothelial cell,2
+A22.MAA000424.3_11_M.1.1,endothelial cell,2
+A22.MAA000560.3_10_M.1.1,astrocyte,19
+A22.MAA000561.3_10_M.1.1,endothelial cell,16
+A22.MAA000564.3_10_M.1.1,oligodendrocyte,15
+A22.MAA000581.3_10_M.1.1,endothelial cell,16
+A22.MAA000641.3_9_M.1.1,oligodendrocyte,15
+A22.MAA000923.3_9_M.1.1,oligodendrocyte,15
+A22.MAA000926.3_9_M.1.1,oligodendrocyte,15
+A22.MAA000935.3_8_M.1.1,astrocyte,11
+A22.MAA000940.3_8_M.1.1,oligodendrocyte,1
+A22.MAA001895.3_38_F.1.1,brain pericyte,3
+A3.B003290.3_38_F.1.1,endothelial cell,2
+A3.MAA000560.3_10_M.1.1,oligodendrocyte precursor cell,4
+A3.MAA000564.3_10_M.1.1,brain pericyte,3
+A3.MAA000615.3_10_M.1.1,oligodendrocyte,1
+A3.MAA000928.3_9_M.1.1,Bergmann glial cell,5
+A3.MAA000930.3_8_M.1.1,oligodendrocyte,15
+A3.MAA000932.3_11_M.1.1,endothelial cell,10
+A3.MAA000944.3_9_M.1.1,astrocyte,11
+A3.MAA001854.3_38_F.1.1,oligodendrocyte,1
+A3.MAA001894.3_39_F.1.1,oligodendrocyte,14
+A3.MAA001895.3_38_F.1.1,brain pericyte,3
+A4.B003290.3_38_F.1.1,endothelial cell,2
+A4.MAA000560.3_10_M.1.1,oligodendrocyte precursor cell,4
+A4.MAA000563.3_10_M.1.1,oligodendrocyte precursor cell,4
+A4.MAA000578.3_10_M.1.1,neuron,7
+A4.MAA000615.3_10_M.1.1,oligodendrocyte,15
+A4.MAA000641.3_9_M.1.1,oligodendrocyte,17
+A4.MAA000902.3_11_M.1.1,oligodendrocyte,15
+A4.MAA000930.3_8_M.1.1,oligodendrocyte,6
+A4.MAA000932.3_11_M.1.1,endothelial cell,16
+A4.MAA000942.3_8_M.1.1,endothelial cell,2
+A4.MAA000944.3_9_M.1.1,oligodendrocyte,14
+A4.MAA001894.3_39_F.1.1,astrocyte,11
+A4.MAA001895.3_38_F.1.1,endothelial cell,2
+A5.B003290.3_38_F.1.1,endothelial cell,2
+A5.MAA000424.3_11_M.1.1,Bergmann glial cell,5
+A5.MAA000560.3_10_M.1.1,astrocyte,11
+A5.MAA000581.3_10_M.1.1,endothelial cell,2
+A5.MAA000923.3_9_M.1.1,oligodendrocyte,1
+A5.MAA000926.3_9_M.1.1,oligodendrocyte,15
+A5.MAA000928.3_9_M.1.1,oligodendrocyte,17
+A5.MAA000932.3_11_M.1.1,endothelial cell,10
+A5.MAA000941.3_8_M.1.1,astrocyte,11
+A5.MAA001845.3_39_F.1.1,endothelial cell,2
+A5.MAA001895.3_38_F.1.1,endothelial cell,2
+A6.B003290.3_38_F.1.1,endothelial cell,2
+A6.B003728.3_56_F.1.1,oligodendrocyte,9
+A6.MAA000550.3_10_M.1.1,oligodendrocyte,15
+A6.MAA000560.3_10_M.1.1,astrocyte,11
+A6.MAA000930.3_8_M.1.1,astrocyte,19
+A6.MAA000932.3_11_M.1.1,endothelial cell,18
+A6.MAA000935.3_8_M.1.1,oligodendrocyte,14
+A6.MAA000942.3_8_M.1.1,neuron,0
+A6.MAA000944.3_9_M.1.1,oligodendrocyte,6
+A6.MAA001895.3_38_F.1.1,endothelial cell,2
+A7.B003275.3_38_F.1.1,endothelial cell,16
+A7.B003290.3_38_F.1.1,endothelial cell,18
+A7.B003728.3_56_F.1.1,oligodendrocyte,6
+A7.MAA000424.3_11_M.1.1,endothelial cell,2
+A7.MAA000560.3_10_M.1.1,oligodendrocyte,15
+A7.MAA000564.3_10_M.1.1,oligodendrocyte,15
+A7.MAA000615.3_10_M.1.1,oligodendrocyte,1
+A7.MAA000926.3_9_M.1.1,oligodendrocyte,15
+A7.MAA000928.3_9_M.1.1,oligodendrocyte,15
+A7.MAA000930.3_8_M.1.1,oligodendrocyte,15
+A7.MAA000932.3_11_M.1.1,oligodendrocyte precursor cell,4
+A7.MAA000935.3_8_M.1.1,oligodendrocyte,15
+A7.MAA000940.3_8_M.1.1,neuron,0
+A7.MAA000942.3_8_M.1.1,oligodendrocyte,15
+A7.MAA000944.3_9_M.1.1,astrocyte,11
+A7.MAA000947.3_9_M.1.1,oligodendrocyte,15
+A7.MAA001845.3_39_F.1.1,endothelial cell,2
+A7.MAA001894.3_39_F.1.1,oligodendrocyte precursor cell,4
+A8.B003277.3_39_F.1.1,oligodendrocyte,15
+A8.B003290.3_38_F.1.1,endothelial cell,2
+A8.MAA000560.3_10_M.1.1,astrocyte,6
+A8.MAA000615.3_10_M.1.1,oligodendrocyte precursor cell,4
+A8.MAA000926.3_9_M.1.1,oligodendrocyte,15
+A8.MAA000928.3_9_M.1.1,oligodendrocyte,12
+A8.MAA000930.3_8_M.1.1,oligodendrocyte,15
+A8.MAA000932.3_11_M.1.1,endothelial cell,16
+A8.MAA000942.3_8_M.1.1,oligodendrocyte,15
+A8.MAA000944.3_9_M.1.1,oligodendrocyte,15
+A8.MAA001845.3_39_F.1.1,endothelial cell,16
+A8.MAA001895.3_38_F.1.1,endothelial cell,10
+A9.B003275.3_38_F.1.1,endothelial cell,2
+A9.B003290.3_38_F.1.1,endothelial cell,2
+A9.MAA000550.3_10_M.1.1,oligodendrocyte,15
+A9.MAA000560.3_10_M.1.1,astrocyte,11
+A9.MAA000923.3_9_M.1.1,oligodendrocyte,15
+A9.MAA000926.3_9_M.1.1,oligodendrocyte,17
+A9.MAA000930.3_8_M.1.1,astrocyte,11
+A9.MAA000941.3_8_M.1.1,oligodendrocyte,15
+A9.MAA000942.3_8_M.1.1,oligodendrocyte,15
+A9.MAA000944.3_9_M.1.1,astrocyte,6
+A9.MAA000947.3_9_M.1.1,oligodendrocyte,15
+A9.MAA001845.3_39_F.1.1,endothelial cell,2
+A9.MAA001894.3_39_F.1.1,astrocyte,11
+A9.MAA001895.3_38_F.1.1,endothelial cell,2
+B1.B003290.3_38_F.1.1,endothelial cell,2
+B1.B003728.3_56_F.1.1,astrocyte,6
+B1.MAA000560.3_10_M.1.1,oligodendrocyte,15
+B1.MAA000641.3_9_M.1.1,oligodendrocyte,17
+B1.MAA000923.3_9_M.1.1,oligodendrocyte,1
+B1.MAA000930.3_8_M.1.1,oligodendrocyte,1
+B1.MAA000932.3_11_M.1.1,endothelial cell,2
+B1.MAA000940.3_8_M.1.1,neuron,0
+B1.MAA001845.3_39_F.1.1,endothelial cell,2
+B1.MAA001894.3_39_F.1.1,oligodendrocyte,15
+B1.MAA001895.3_38_F.1.1,endothelial cell,2
+B10.B003274.3_38_F.1.1,oligodendrocyte,6
+B10.B003275.3_38_F.1.1,endothelial cell,16
+B10.B003290.3_38_F.1.1,endothelial cell,16
+B10.MAA000553.3_10_M.1.1,endothelial cell,16
+B10.MAA000560.3_10_M.1.1,oligodendrocyte,1
+B10.MAA000563.3_10_M.1.1,oligodendrocyte,1
+B10.MAA000581.3_10_M.1.1,oligodendrocyte,4
+B10.MAA000615.3_10_M.1.1,astrocyte,11
+B10.MAA000902.3_11_M.1.1,oligodendrocyte precursor cell,12
+B10.MAA000923.3_9_M.1.1,oligodendrocyte,1
+B10.MAA001854.3_38_F.1.1,astrocyte,5
+B10.MAA001894.3_39_F.1.1,oligodendrocyte,1
+B11.B003275.3_38_F.1.1,endothelial cell,2
+B11.B003290.3_38_F.1.1,endothelial cell,2
+B11.MAA000560.3_10_M.1.1,astrocyte,11
+B11.MAA000564.3_10_M.1.1,neuron,19
+B11.MAA000581.3_10_M.1.1,endothelial cell,16
+B11.MAA000615.3_10_M.1.1,oligodendrocyte,14
+B11.MAA000923.3_9_M.1.1,oligodendrocyte precursor cell,4
+B11.MAA000926.3_9_M.1.1,astrocyte,11
+B11.MAA000932.3_11_M.1.1,endothelial cell,16
+B11.MAA000935.3_8_M.1.1,oligodendrocyte,15
+B11.MAA000940.3_8_M.1.1,oligodendrocyte,14
+B11.MAA000941.3_8_M.1.1,neuron,7
+B11.MAA001845.3_39_F.1.1,endothelial cell,10
+B11.MAA001895.3_38_F.1.1,endothelial cell,16
+B12.B003275.3_38_F.1.1,endothelial cell,2
+B12.B003290.3_38_F.1.1,endothelial cell,16
+B12.B003728.3_56_F.1.1,oligodendrocyte,12
+B12.MAA000563.3_10_M.1.1,oligodendrocyte,15
+B12.MAA000564.3_10_M.1.1,astrocyte,11
+B12.MAA000581.3_10_M.1.1,neuron,7
+B12.MAA000615.3_10_M.1.1,neuron,19
+B12.MAA000923.3_9_M.1.1,oligodendrocyte precursor cell,4
+B12.MAA000926.3_9_M.1.1,endothelial cell,16
+B12.MAA000941.3_8_M.1.1,endothelial cell,18
+B12.MAA000944.3_9_M.1.1,neuron,7
+B12.MAA001845.3_39_F.1.1,brain pericyte,3
+B13.B003275.3_38_F.1.1,endothelial cell,16
+B13.B003290.3_38_F.1.1,oligodendrocyte,19
+B13.MAA000561.3_10_M.1.1,brain pericyte,3
+B13.MAA000581.3_10_M.1.1,endothelial cell,10
+B13.MAA000615.3_10_M.1.1,neuron,19
+B13.MAA000641.3_9_M.1.1,neuron,7
+B13.MAA000923.3_9_M.1.1,oligodendrocyte,1
+B13.MAA000926.3_9_M.1.1,oligodendrocyte,15
+B13.MAA000928.3_9_M.1.1,Bergmann glial cell,5
+B13.MAA000941.3_8_M.1.1,oligodendrocyte precursor cell,4
+B14.B003275.3_38_F.1.1,endothelial cell,2
+B14.B003290.3_38_F.1.1,endothelial cell,16
+B14.MAA000581.3_10_M.1.1,endothelial cell,16
+B14.MAA000926.3_9_M.1.1,oligodendrocyte,15
+B14.MAA000944.3_9_M.1.1,oligodendrocyte precursor cell,4
+B14.MAA001845.3_39_F.1.1,endothelial cell,2
+B15.B003274.3_38_F.1.1,astrocyte,11
+B15.B003275.3_38_F.1.1,endothelial cell,16
+B15.B003290.3_38_F.1.1,endothelial cell,16
+B15.MAA000560.3_10_M.1.1,oligodendrocyte,15
+B15.MAA000581.3_10_M.1.1,endothelial cell,2
+B15.MAA000902.3_11_M.1.1,oligodendrocyte,15
+B15.MAA000926.3_9_M.1.1,astrocyte,1
+B15.MAA000935.3_8_M.1.1,oligodendrocyte,15
+B15.MAA000941.3_8_M.1.1,oligodendrocyte precursor cell,4
+B15.MAA000942.3_8_M.1.1,oligodendrocyte,15
+B15.MAA000944.3_9_M.1.1,oligodendrocyte,15
+B16.B000621.3_56_F.1.1,oligodendrocyte,15
+B16.B003290.3_38_F.1.1,neuron,0
+B16.B003728.3_56_F.1.1,oligodendrocyte,0
+B16.MAA000560.3_10_M.1.1,oligodendrocyte,15
+B16.MAA000561.3_10_M.1.1,brain pericyte,3
+B16.MAA000581.3_10_M.1.1,neuron,7
+B16.MAA000923.3_9_M.1.1,oligodendrocyte,15
+B16.MAA000942.3_8_M.1.1,oligodendrocyte,15
+B17.B003275.3_38_F.1.1,endothelial cell,2
+B17.MAA000560.3_10_M.1.1,oligodendrocyte,15
+B17.MAA000561.3_10_M.1.1,endothelial cell,16
+B17.MAA000581.3_10_M.1.1,brain pericyte,3
+B17.MAA000641.3_9_M.1.1,Bergmann glial cell,5
+B17.MAA000902.3_11_M.1.1,oligodendrocyte,15
+B17.MAA000926.3_9_M.1.1,oligodendrocyte,1
+B17.MAA000935.3_8_M.1.1,oligodendrocyte,15
+B17.MAA000941.3_8_M.1.1,oligodendrocyte,15
+B17.MAA000942.3_8_M.1.1,oligodendrocyte,15
+B17.MAA000944.3_9_M.1.1,oligodendrocyte,15
+B17.MAA001894.3_39_F.1.1,oligodendrocyte,19
+B18.B003275.3_38_F.1.1,brain pericyte,3
+B18.B003728.3_56_F.1.1,astrocyte,9
+B18.MAA000560.3_10_M.1.1,oligodendrocyte precursor cell,12
+B18.MAA000561.3_10_M.1.1,brain pericyte,3
+B18.MAA000564.3_10_M.1.1,oligodendrocyte,15
+B18.MAA000581.3_10_M.1.1,brain pericyte,3
+B18.MAA000925.3_9_M.1.1,neuron,0
+B18.MAA000926.3_9_M.1.1,oligodendrocyte,1
+B18.MAA000942.3_8_M.1.1,oligodendrocyte,1
+B18.MAA000944.3_9_M.1.1,endothelial cell,16
+B19.B003275.3_38_F.1.1,endothelial cell,16
+B19.B003728.3_56_F.1.1,astrocyte,11
+B19.MAA000424.3_11_M.1.1,endothelial cell,2
+B19.MAA000550.3_10_M.1.1,oligodendrocyte,15
+B19.MAA000560.3_10_M.1.1,astrocyte,11
+B19.MAA000561.3_10_M.1.1,brain pericyte,3
+B19.MAA000564.3_10_M.1.1,oligodendrocyte,14
+B19.MAA000581.3_10_M.1.1,brain pericyte,3
+B19.MAA000923.3_9_M.1.1,oligodendrocyte,1
+B19.MAA000926.3_9_M.1.1,oligodendrocyte,15
+B19.MAA000932.3_11_M.1.1,oligodendrocyte precursor cell,4
+B19.MAA000935.3_8_M.1.1,oligodendrocyte,15
+B19.MAA000944.3_9_M.1.1,astrocyte,6
+B19.MAA001894.3_39_F.1.1,oligodendrocyte,15
+B2.B003290.3_38_F.1.1,endothelial cell,16
+B2.B003728.3_56_F.1.1,astrocyte,6
+B2.MAA000560.3_10_M.1.1,oligodendrocyte,15
+B2.MAA000930.3_8_M.1.1,astrocyte,11
+B2.MAA000932.3_11_M.1.1,endothelial cell,10
+B2.MAA000935.3_8_M.1.1,oligodendrocyte,1
+B2.MAA000941.3_8_M.1.1,oligodendrocyte,15
+B2.MAA000942.3_8_M.1.1,oligodendrocyte,15
+B2.MAA001845.3_39_F.1.1,endothelial cell,2
+B2.MAA001854.3_38_F.1.1,neuron,7
+B2.MAA001895.3_38_F.1.1,endothelial cell,2
+B20.B003274.3_38_F.1.1,oligodendrocyte,1
+B20.B003275.3_38_F.1.1,endothelial cell,10
+B20.B003290.3_38_F.1.1,endothelial cell,2
+B20.B003728.3_56_F.1.1,oligodendrocyte,15
+B20.MAA000424.3_11_M.1.1,endothelial cell,16
+B20.MAA000561.3_10_M.1.1,brain pericyte,3
+B20.MAA000564.3_10_M.1.1,endothelial cell,10
+B20.MAA000581.3_10_M.1.1,brain pericyte,3
+B20.MAA000925.3_9_M.1.1,neuron,0
+B20.MAA000930.3_8_M.1.1,endothelial cell,16
+B20.MAA000932.3_11_M.1.1,endothelial cell,19
+B20.MAA000944.3_9_M.1.1,astrocyte,11
+B20.MAA001895.3_38_F.1.1,oligodendrocyte,13
+B21.B003290.3_38_F.1.1,neuron,0
+B21.B003728.3_56_F.1.1,oligodendrocyte,6
+B21.MAA000560.3_10_M.1.1,neuron,19
+B21.MAA000581.3_10_M.1.1,neuron,7
+B21.MAA000925.3_9_M.1.1,astrocyte,6
+B21.MAA000926.3_9_M.1.1,oligodendrocyte,15
+B21.MAA000930.3_8_M.1.1,astrocyte,11
+B21.MAA000941.3_8_M.1.1,oligodendrocyte,15
+B21.MAA000944.3_9_M.1.1,oligodendrocyte,15
+B22.B003275.3_38_F.1.1,endothelial cell,10
+B22.B003290.3_38_F.1.1,neuron,0
+B22.B003728.3_56_F.1.1,astrocyte,11
+B22.MAA000564.3_10_M.1.1,oligodendrocyte,1
+B22.MAA000581.3_10_M.1.1,endothelial cell,2
+B22.MAA000925.3_9_M.1.1,astrocyte,6
+B22.MAA000926.3_9_M.1.1,oligodendrocyte,15
+B22.MAA000930.3_8_M.1.1,oligodendrocyte,15
+B22.MAA000932.3_11_M.1.1,oligodendrocyte,1
+B22.MAA000935.3_8_M.1.1,astrocyte,11
+B22.MAA000940.3_8_M.1.1,oligodendrocyte,15
+B22.MAA000944.3_9_M.1.1,endothelial cell,16
+B22.MAA001895.3_38_F.1.1,oligodendrocyte,13
+B3.B003277.3_39_F.1.1,oligodendrocyte,9
+B3.MAA000550.3_10_M.1.1,oligodendrocyte,15
+B3.MAA000560.3_10_M.1.1,astrocyte,11
+B3.MAA000564.3_10_M.1.1,oligodendrocyte,15
+B3.MAA000581.3_10_M.1.1,oligodendrocyte,1
+B3.MAA000930.3_8_M.1.1,endothelial cell,10
+B3.MAA000932.3_11_M.1.1,oligodendrocyte,9
+B3.MAA000935.3_8_M.1.1,astrocyte,11
+B3.MAA001856.3_39_F.1.1,Bergmann glial cell,5
+B3.MAA001894.3_39_F.1.1,oligodendrocyte,1
+B3.MAA001895.3_38_F.1.1,brain pericyte,3
+B4.B003275.3_38_F.1.1,brain pericyte,3
+B4.B003290.3_38_F.1.1,endothelial cell,2
+B4.MAA000560.3_10_M.1.1,endothelial cell,16
+B4.MAA000563.3_10_M.1.1,oligodendrocyte,15
+B4.MAA000615.3_10_M.1.1,oligodendrocyte,1
+B4.MAA000926.3_9_M.1.1,astrocyte,11
+B4.MAA000930.3_8_M.1.1,astrocyte,11
+B4.MAA000932.3_11_M.1.1,endothelial cell,18
+B4.MAA000935.3_8_M.1.1,astrocyte,11
+B4.MAA000941.3_8_M.1.1,astrocyte,6
+B4.MAA000944.3_9_M.1.1,oligodendrocyte,15
+B4.MAA001845.3_39_F.1.1,endothelial cell,10
+B4.MAA001894.3_39_F.1.1,oligodendrocyte,15
+B5.B003290.3_38_F.1.1,endothelial cell,16
+B5.MAA000560.3_10_M.1.1,oligodendrocyte,15
+B5.MAA000564.3_10_M.1.1,oligodendrocyte,15
+B5.MAA000581.3_10_M.1.1,astrocyte,8
+B5.MAA000641.3_9_M.1.1,oligodendrocyte,17
+B5.MAA000923.3_9_M.1.1,oligodendrocyte,1
+B5.MAA000926.3_9_M.1.1,astrocyte,11
+B5.MAA000932.3_11_M.1.1,endothelial cell,16
+B5.MAA000942.3_8_M.1.1,oligodendrocyte,15
+B5.MAA000944.3_9_M.1.1,astrocyte,11
+B5.MAA001845.3_39_F.1.1,endothelial cell,3
+B5.MAA001894.3_39_F.1.1,oligodendrocyte,1
+B5.MAA001895.3_38_F.1.1,endothelial cell,18
+B6.MAA000560.3_10_M.1.1,oligodendrocyte,1
+B6.MAA000564.3_10_M.1.1,Bergmann glial cell,8
+B6.MAA000581.3_10_M.1.1,oligodendrocyte precursor cell,4
+B6.MAA000926.3_9_M.1.1,astrocyte,11
+B6.MAA000930.3_8_M.1.1,astrocyte,1
+B6.MAA000932.3_11_M.1.1,endothelial cell,2
+B6.MAA000941.3_8_M.1.1,oligodendrocyte,15
+B6.MAA000944.3_9_M.1.1,oligodendrocyte,15
+B6.MAA001845.3_39_F.1.1,endothelial cell,2
+B6.MAA001895.3_38_F.1.1,endothelial cell,16
+B7.B003274.3_38_F.1.1,astrocyte,19
+B7.B003277.3_39_F.1.1,oligodendrocyte precursor cell,4
+B7.B003290.3_38_F.1.1,endothelial cell,2
+B7.MAA000560.3_10_M.1.1,astrocyte,11
+B7.MAA000563.3_10_M.1.1,oligodendrocyte,15
+B7.MAA000564.3_10_M.1.1,oligodendrocyte,15
+B7.MAA000615.3_10_M.1.1,astrocyte,11
+B7.MAA000926.3_9_M.1.1,oligodendrocyte,15
+B7.MAA000932.3_11_M.1.1,oligodendrocyte precursor cell,4
+B7.MAA000935.3_8_M.1.1,endothelial cell,16
+B7.MAA000941.3_8_M.1.1,oligodendrocyte,15
+B7.MAA000942.3_8_M.1.1,neuron,0
+B7.MAA000944.3_9_M.1.1,astrocyte,11
+B7.MAA001845.3_39_F.1.1,endothelial cell,10
+B7.MAA001895.3_38_F.1.1,endothelial cell,2
+B8.B003274.3_38_F.1.1,astrocyte,8
+B8.B003275.3_38_F.1.1,endothelial cell,2
+B8.B003290.3_38_F.1.1,endothelial cell,16
+B8.MAA000424.3_11_M.1.1,oligodendrocyte,15
+B8.MAA000560.3_10_M.1.1,oligodendrocyte,15
+B8.MAA000564.3_10_M.1.1,oligodendrocyte,15
+B8.MAA000615.3_10_M.1.1,endothelial cell,10
+B8.MAA000926.3_9_M.1.1,oligodendrocyte,1
+B8.MAA000930.3_8_M.1.1,oligodendrocyte,15
+B8.MAA000932.3_11_M.1.1,endothelial cell,16
+B8.MAA001854.3_38_F.1.1,endothelial cell,10
+B8.MAA001894.3_39_F.1.1,astrocyte,11
+B8.MAA001895.3_38_F.1.1,brain pericyte,3
+B9.B003277.3_39_F.1.1,oligodendrocyte,9
+B9.B003290.3_38_F.1.1,endothelial cell,2
+B9.MAA000560.3_10_M.1.1,astrocyte,11
+B9.MAA000578.3_10_M.1.1,oligodendrocyte,15
+B9.MAA000615.3_10_M.1.1,astrocyte,11
+B9.MAA000923.3_9_M.1.1,oligodendrocyte,15
+B9.MAA000926.3_9_M.1.1,astrocyte,11
+B9.MAA000930.3_8_M.1.1,oligodendrocyte,15
+B9.MAA000932.3_11_M.1.1,endothelial cell,10
+B9.MAA000935.3_8_M.1.1,oligodendrocyte,15
+B9.MAA000944.3_9_M.1.1,astrocyte,19
+B9.MAA001845.3_39_F.1.1,endothelial cell,2
+B9.MAA001854.3_38_F.1.1,oligodendrocyte,4
+B9.MAA001894.3_39_F.1.1,astrocyte,11
+C1.B000404.3_56_F.1.1,oligodendrocyte precursor cell,4
+C1.B003277.3_39_F.1.1,oligodendrocyte,1
+C1.B003290.3_38_F.1.1,oligodendrocyte,4
+C1.MAA000560.3_10_M.1.1,oligodendrocyte,15
+C1.MAA000563.3_10_M.1.1,astrocyte,11
+C1.MAA000564.3_10_M.1.1,oligodendrocyte,15
+C1.MAA000578.3_10_M.1.1,Bergmann glial cell,5
+C1.MAA000638.3_9_M.1.1,oligodendrocyte,1
+C1.MAA000926.3_9_M.1.1,astrocyte,11
+C1.MAA000930.3_8_M.1.1,oligodendrocyte,1
+C1.MAA000932.3_11_M.1.1,endothelial cell,2
+C1.MAA000940.3_8_M.1.1,neuron,0
+C1.MAA000941.3_8_M.1.1,oligodendrocyte,15
+C1.MAA000942.3_8_M.1.1,astrocyte,6
+C1.MAA001894.3_39_F.1.1,astrocyte,11
+C1.MAA001895.3_38_F.1.1,brain pericyte,3
+C10.B003275.3_38_F.1.1,endothelial cell,2
+C10.B003290.3_38_F.1.1,endothelial cell,18
+C10.MAA000581.3_10_M.1.1,oligodendrocyte,1
+C10.MAA000615.3_10_M.1.1,oligodendrocyte precursor cell,4
+C10.MAA000925.3_9_M.1.1,oligodendrocyte,15
+C10.MAA000926.3_9_M.1.1,oligodendrocyte,15
+C10.MAA000935.3_8_M.1.1,oligodendrocyte,15
+C10.MAA000944.3_9_M.1.1,oligodendrocyte,15
+C10.MAA001845.3_39_F.1.1,endothelial cell,10
+C11.B003275.3_38_F.1.1,oligodendrocyte precursor cell,4
+C11.MAA000553.3_10_M.1.1,endothelial cell,16
+C11.MAA000560.3_10_M.1.1,oligodendrocyte,15
+C11.MAA000638.3_9_M.1.1,endothelial cell,2
+C11.MAA000926.3_9_M.1.1,oligodendrocyte,15
+C11.MAA000932.3_11_M.1.1,endothelial cell,2
+C11.MAA001894.3_39_F.1.1,neuron,19
+C12.B003275.3_38_F.1.1,oligodendrocyte,4
+C12.B003290.3_38_F.1.1,endothelial cell,2
+C12.MAA000553.3_10_M.1.1,endothelial cell,2
+C12.MAA000560.3_10_M.1.1,astrocyte,11
+C12.MAA000561.3_10_M.1.1,neuron,0
+C12.MAA000581.3_10_M.1.1,endothelial cell,2
+C12.MAA000615.3_10_M.1.1,oligodendrocyte,15
+C12.MAA000641.3_9_M.1.1,endothelial cell,16
+C12.MAA000923.3_9_M.1.1,oligodendrocyte,15
+C12.MAA000926.3_9_M.1.1,oligodendrocyte,15
+C12.MAA000942.3_8_M.1.1,astrocyte,11
+C12.MAA000944.3_9_M.1.1,oligodendrocyte,15
+C12.MAA001895.3_38_F.1.1,endothelial cell,10
+C13.B000621.3_56_F.1.1,astrocyte,11
+C13.B003275.3_38_F.1.1,endothelial cell,2
+C13.B003290.3_38_F.1.1,endothelial cell,2
+C13.MAA000560.3_10_M.1.1,oligodendrocyte,15
+C13.MAA000563.3_10_M.1.1,oligodendrocyte,15
+C13.MAA000564.3_10_M.1.1,oligodendrocyte,1
+C13.MAA000581.3_10_M.1.1,endothelial cell,10
+C13.MAA000615.3_10_M.1.1,neuron,19
+C13.MAA000638.3_9_M.1.1,neuron,7
+C13.MAA000923.3_9_M.1.1,oligodendrocyte,15
+C13.MAA000926.3_9_M.1.1,endothelial cell,2
+C13.MAA000935.3_8_M.1.1,astrocyte,11
+C13.MAA000942.3_8_M.1.1,oligodendrocyte,15
+C13.MAA000944.3_9_M.1.1,oligodendrocyte,15
+C13.MAA001894.3_39_F.1.1,astrocyte,11
+C14.B000621.3_56_F.1.1,oligodendrocyte,1
+C14.B003275.3_38_F.1.1,endothelial cell,2
+C14.MAA000560.3_10_M.1.1,oligodendrocyte,15
+C14.MAA000563.3_10_M.1.1,astrocyte,11
+C14.MAA000615.3_10_M.1.1,neuron,19
+C14.MAA000926.3_9_M.1.1,endothelial cell,10
+C14.MAA001894.3_39_F.1.1,oligodendrocyte,15
+C15.B003275.3_38_F.1.1,endothelial cell,2
+C15.B003290.3_38_F.1.1,endothelial cell,2
+C15.MAA000564.3_10_M.1.1,oligodendrocyte,15
+C15.MAA000581.3_10_M.1.1,neuron,7
+C15.MAA000638.3_9_M.1.1,oligodendrocyte,1
+C15.MAA000641.3_9_M.1.1,endothelial cell,2
+C15.MAA000926.3_9_M.1.1,brain pericyte,3
+C15.MAA000935.3_8_M.1.1,endothelial cell,10
+C15.MAA000942.3_8_M.1.1,oligodendrocyte,15
+C15.MAA000944.3_9_M.1.1,oligodendrocyte,15
+C15.MAA001895.3_38_F.1.1,endothelial cell,16
+C16.B003275.3_38_F.1.1,endothelial cell,18
+C16.MAA000560.3_10_M.1.1,astrocyte,11
+C16.MAA000581.3_10_M.1.1,endothelial cell,2
+C16.MAA000926.3_9_M.1.1,endothelial cell,16
+C16.MAA000935.3_8_M.1.1,oligodendrocyte,15
+C16.MAA000942.3_8_M.1.1,neuron,0
+C16.MAA000944.3_9_M.1.1,endothelial cell,2
+C16.MAA000947.3_9_M.1.1,endothelial cell,16
+C16.MAA001853.3_38_F.1.1,neuron,7
+C16.MAA001895.3_38_F.1.1,brain pericyte,3
+C17.B003275.3_38_F.1.1,neuron,19
+C17.B003290.3_38_F.1.1,oligodendrocyte,15
+C17.MAA000561.3_10_M.1.1,brain pericyte,3
+C17.MAA000581.3_10_M.1.1,brain pericyte,3
+C17.MAA000638.3_9_M.1.1,oligodendrocyte,6
+C17.MAA000641.3_9_M.1.1,oligodendrocyte precursor cell,4
+C17.MAA000924.3_8_M.1.1,oligodendrocyte,19
+C17.MAA000925.3_9_M.1.1,oligodendrocyte,15
+C17.MAA000926.3_9_M.1.1,oligodendrocyte,15
+C17.MAA000932.3_11_M.1.1,endothelial cell,10
+C17.MAA000940.3_8_M.1.1,oligodendrocyte,1
+C17.MAA000942.3_8_M.1.1,oligodendrocyte,15
+C17.MAA000944.3_9_M.1.1,astrocyte,11
+C18.B000621.3_56_F.1.1,oligodendrocyte,15
+C18.MAA000560.3_10_M.1.1,oligodendrocyte,15
+C18.MAA000561.3_10_M.1.1,neuron,19
+C18.MAA000564.3_10_M.1.1,oligodendrocyte,15
+C18.MAA000581.3_10_M.1.1,endothelial cell,2
+C18.MAA000925.3_9_M.1.1,oligodendrocyte,15
+C18.MAA000926.3_9_M.1.1,endothelial cell,10
+C18.MAA000930.3_8_M.1.1,oligodendrocyte,1
+C18.MAA000940.3_8_M.1.1,oligodendrocyte,1
+C18.MAA000941.3_8_M.1.1,endothelial cell,18
+C18.MAA000942.3_8_M.1.1,neuron,0
+C18.MAA000944.3_9_M.1.1,oligodendrocyte,14
+C18.MAA000947.3_9_M.1.1,oligodendrocyte precursor cell,4
+C18.MAA001895.3_38_F.1.1,brain pericyte,3
+C19.B003728.3_56_F.1.1,astrocyte,11
+C19.MAA000553.3_10_M.1.1,astrocyte,11
+C19.MAA000560.3_10_M.1.1,oligodendrocyte,15
+C19.MAA000561.3_10_M.1.1,brain pericyte,3
+C19.MAA000564.3_10_M.1.1,oligodendrocyte precursor cell,4
+C19.MAA000581.3_10_M.1.1,endothelial cell,2
+C19.MAA000930.3_8_M.1.1,oligodendrocyte,15
+C19.MAA000932.3_11_M.1.1,oligodendrocyte precursor cell,4
+C19.MAA000940.3_8_M.1.1,neuron,0
+C19.MAA000941.3_8_M.1.1,brain pericyte,3
+C19.MAA000944.3_9_M.1.1,oligodendrocyte,15
+C19.MAA000947.3_9_M.1.1,oligodendrocyte,15
+C19.MAA001895.3_38_F.1.1,brain pericyte,3
+C2.B003290.3_38_F.1.1,endothelial cell,18
+C2.MAA000560.3_10_M.1.1,oligodendrocyte,15
+C2.MAA000564.3_10_M.1.1,oligodendrocyte precursor cell,4
+C2.MAA000641.3_9_M.1.1,oligodendrocyte,17
+C2.MAA000932.3_11_M.1.1,brain pericyte,3
+C2.MAA000935.3_8_M.1.1,oligodendrocyte,15
+C2.MAA000944.3_9_M.1.1,astrocyte,11
+C2.MAA001845.3_39_F.1.1,endothelial cell,18
+C2.MAA001894.3_39_F.1.1,oligodendrocyte,15
+C20.B003277.3_39_F.1.1,oligodendrocyte,9
+C20.B003728.3_56_F.1.1,astrocyte,9
+C20.MAA000560.3_10_M.1.1,oligodendrocyte,15
+C20.MAA000581.3_10_M.1.1,brain pericyte,3
+C20.MAA000940.3_8_M.1.1,neuron,7
+C20.MAA000941.3_8_M.1.1,endothelial cell,16
+C20.MAA000944.3_9_M.1.1,oligodendrocyte,6
+C20.MAA001895.3_38_F.1.1,endothelial cell,2
+C21.B003275.3_38_F.1.1,endothelial cell,2
+C21.MAA000424.3_11_M.1.1,endothelial cell,2
+C21.MAA000560.3_10_M.1.1,oligodendrocyte,1
+C21.MAA000581.3_10_M.1.1,endothelial cell,2
+C21.MAA000926.3_9_M.1.1,oligodendrocyte,1
+C21.MAA000944.3_9_M.1.1,astrocyte,11
+C21.MAA001895.3_38_F.1.1,brain pericyte,3
+C22.B000404.3_56_F.1.1,oligodendrocyte,1
+C22.B003290.3_38_F.1.1,neuron,0
+C22.B003728.3_56_F.1.1,astrocyte,6
+C22.MAA000553.3_10_M.1.1,endothelial cell,16
+C22.MAA000560.3_10_M.1.1,oligodendrocyte,15
+C22.MAA000578.3_10_M.1.1,oligodendrocyte,15
+C22.MAA000581.3_10_M.1.1,brain pericyte,3
+C22.MAA000902.3_11_M.1.1,astrocyte,11
+C22.MAA000932.3_11_M.1.1,oligodendrocyte precursor cell,4
+C22.MAA000940.3_8_M.1.1,neuron,0
+C22.MAA000944.3_9_M.1.1,neuron,0
+C22.MAA001894.3_39_F.1.1,astrocyte,11
+C3.B003290.3_38_F.1.1,endothelial cell,2
+C3.MAA000560.3_10_M.1.1,oligodendrocyte,1
+C3.MAA000564.3_10_M.1.1,neuron,19
+C3.MAA000578.3_10_M.1.1,neuron,7
+C3.MAA000638.3_9_M.1.1,oligodendrocyte,4
+C3.MAA000641.3_9_M.1.1,brain pericyte,3
+C3.MAA000926.3_9_M.1.1,brain pericyte,3
+C3.MAA000930.3_8_M.1.1,oligodendrocyte,14
+C3.MAA000932.3_11_M.1.1,endothelial cell,2
+C3.MAA000944.3_9_M.1.1,astrocyte,11
+C3.MAA001845.3_39_F.1.1,endothelial cell,2
+C4.B003290.3_38_F.1.1,brain pericyte,3
+C4.MAA000424.3_11_M.1.1,oligodendrocyte,1
+C4.MAA000641.3_9_M.1.1,oligodendrocyte,17
+C4.MAA000923.3_9_M.1.1,oligodendrocyte,15
+C4.MAA000926.3_9_M.1.1,oligodendrocyte,15
+C4.MAA000930.3_8_M.1.1,oligodendrocyte,14
+C4.MAA000932.3_11_M.1.1,endothelial cell,16
+C4.MAA000940.3_8_M.1.1,neuron,0
+C4.MAA000942.3_8_M.1.1,oligodendrocyte,15
+C4.MAA000944.3_9_M.1.1,oligodendrocyte,14
+C4.MAA001845.3_39_F.1.1,endothelial cell,2
+C4.MAA001895.3_38_F.1.1,endothelial cell,2
+C5.B003290.3_38_F.1.1,astrocyte,8
+C5.B003728.3_56_F.1.1,oligodendrocyte,15
+C5.MAA000560.3_10_M.1.1,oligodendrocyte,1
+C5.MAA000563.3_10_M.1.1,oligodendrocyte precursor cell,4
+C5.MAA000926.3_9_M.1.1,oligodendrocyte,15
+C5.MAA000930.3_8_M.1.1,oligodendrocyte,15
+C5.MAA000932.3_11_M.1.1,endothelial cell,16
+C5.MAA000942.3_8_M.1.1,oligodendrocyte,15
+C5.MAA000944.3_9_M.1.1,oligodendrocyte,15
+C5.MAA001895.3_38_F.1.1,endothelial cell,2
+C6.B003290.3_38_F.1.1,endothelial cell,2
+C6.MAA000560.3_10_M.1.1,oligodendrocyte,15
+C6.MAA000563.3_10_M.1.1,oligodendrocyte,15
+C6.MAA000615.3_10_M.1.1,oligodendrocyte,15
+C6.MAA000923.3_9_M.1.1,oligodendrocyte,15
+C6.MAA000926.3_9_M.1.1,oligodendrocyte,15
+C6.MAA000930.3_8_M.1.1,oligodendrocyte,15
+C6.MAA000932.3_11_M.1.1,neuron,19
+C6.MAA000941.3_8_M.1.1,brain pericyte,3
+C6.MAA000942.3_8_M.1.1,neuron,19
+C6.MAA000944.3_9_M.1.1,astrocyte,11
+C7.B003277.3_39_F.1.1,neuron,19
+C7.B003290.3_38_F.1.1,endothelial cell,2
+C7.MAA000560.3_10_M.1.1,astrocyte,11
+C7.MAA000615.3_10_M.1.1,oligodendrocyte,15
+C7.MAA000926.3_9_M.1.1,brain pericyte,3
+C7.MAA000930.3_8_M.1.1,oligodendrocyte,15
+C7.MAA000932.3_11_M.1.1,oligodendrocyte precursor cell,4
+C7.MAA000940.3_8_M.1.1,neuron,0
+C7.MAA000942.3_8_M.1.1,oligodendrocyte,15
+C7.MAA001845.3_39_F.1.1,endothelial cell,2
+C8.B003290.3_38_F.1.1,brain pericyte,3
+C8.MAA000581.3_10_M.1.1,oligodendrocyte,15
+C8.MAA000615.3_10_M.1.1,oligodendrocyte,15
+C8.MAA000926.3_9_M.1.1,astrocyte,6
+C8.MAA000930.3_8_M.1.1,oligodendrocyte,15
+C8.MAA000932.3_11_M.1.1,endothelial cell,16
+C8.MAA000944.3_9_M.1.1,oligodendrocyte,1
+C8.MAA001845.3_39_F.1.1,endothelial cell,2
+C8.MAA001894.3_39_F.1.1,oligodendrocyte,15
+C9.B003728.3_56_F.1.1,astrocyte,11
+C9.MAA000560.3_10_M.1.1,oligodendrocyte,1
+C9.MAA000615.3_10_M.1.1,oligodendrocyte,15
+C9.MAA000923.3_9_M.1.1,oligodendrocyte,15
+C9.MAA000926.3_9_M.1.1,astrocyte,11
+C9.MAA000932.3_11_M.1.1,endothelial cell,2
+C9.MAA000944.3_9_M.1.1,oligodendrocyte,15
+C9.MAA001845.3_39_F.1.1,endothelial cell,18
+C9.MAA001895.3_38_F.1.1,brain pericyte,3
+D1.MAA000560.3_10_M.1.1,oligodendrocyte,15
+D1.MAA000926.3_9_M.1.1,oligodendrocyte,15
+D1.MAA000930.3_8_M.1.1,astrocyte,1
+D1.MAA000932.3_11_M.1.1,endothelial cell,2
+D1.MAA000944.3_9_M.1.1,oligodendrocyte,15
+D1.MAA001895.3_38_F.1.1,endothelial cell,2
+D10.B003275.3_38_F.1.1,oligodendrocyte precursor cell,4
+D10.B003728.3_56_F.1.1,oligodendrocyte,9
+D10.MAA000560.3_10_M.1.1,endothelial cell,16
+D10.MAA000578.3_10_M.1.1,neuron,7
+D10.MAA000615.3_10_M.1.1,astrocyte,11
+D10.MAA000926.3_9_M.1.1,oligodendrocyte,15
+D10.MAA000942.3_8_M.1.1,oligodendrocyte,14
+D10.MAA001845.3_39_F.1.1,endothelial cell,2
+D11.B000621.3_56_F.1.1,endothelial cell,18
+D11.B003275.3_38_F.1.1,endothelial cell,2
+D11.MAA000553.3_10_M.1.1,endothelial cell,16
+D11.MAA000560.3_10_M.1.1,oligodendrocyte,15
+D11.MAA000561.3_10_M.1.1,oligodendrocyte,1
+D11.MAA000615.3_10_M.1.1,astrocyte,11
+D11.MAA000638.3_9_M.1.1,endothelial cell,18
+D11.MAA000902.3_11_M.1.1,neuron,19
+D11.MAA000923.3_9_M.1.1,oligodendrocyte,15
+D11.MAA000926.3_9_M.1.1,oligodendrocyte,15
+D11.MAA000935.3_8_M.1.1,oligodendrocyte,15
+D11.MAA000942.3_8_M.1.1,oligodendrocyte,15
+D11.MAA001845.3_39_F.1.1,endothelial cell,3
+D12.B003290.3_38_F.1.1,endothelial cell,2
+D12.MAA000424.3_11_M.1.1,neuron,7
+D12.MAA000560.3_10_M.1.1,oligodendrocyte,15
+D12.MAA000561.3_10_M.1.1,neuron,0
+D12.MAA000641.3_9_M.1.1,oligodendrocyte,15
+D12.MAA000926.3_9_M.1.1,neuron,7
+D12.MAA000941.3_8_M.1.1,oligodendrocyte,15
+D12.MAA000944.3_9_M.1.1,oligodendrocyte,15
+D12.MAA001895.3_38_F.1.1,brain pericyte,3
+D13.B000404.3_56_F.1.1,oligodendrocyte,15
+D13.B003275.3_38_F.1.1,endothelial cell,2
+D13.B003728.3_56_F.1.1,oligodendrocyte,9
+D13.MAA000553.3_10_M.1.1,oligodendrocyte,15
+D13.MAA000615.3_10_M.1.1,neuron,0
+D13.MAA000638.3_9_M.1.1,oligodendrocyte,1
+D13.MAA000926.3_9_M.1.1,astrocyte,6
+D13.MAA000941.3_8_M.1.1,endothelial cell,16
+D13.MAA000944.3_9_M.1.1,endothelial cell,16
+D14.B003275.3_38_F.1.1,endothelial cell,2
+D14.B003290.3_38_F.1.1,endothelial cell,10
+D14.B003728.3_56_F.1.1,oligodendrocyte,6
+D14.MAA000560.3_10_M.1.1,oligodendrocyte,14
+D14.MAA000581.3_10_M.1.1,endothelial cell,2
+D14.MAA000615.3_10_M.1.1,endothelial cell,16
+D14.MAA000926.3_9_M.1.1,endothelial cell,16
+D14.MAA000930.3_8_M.1.1,endothelial cell,16
+D15.B003275.3_38_F.1.1,endothelial cell,10
+D15.MAA000550.3_10_M.1.1,oligodendrocyte,15
+D15.MAA000560.3_10_M.1.1,oligodendrocyte,15
+D15.MAA000561.3_10_M.1.1,brain pericyte,3
+D15.MAA000581.3_10_M.1.1,endothelial cell,2
+D15.MAA000925.3_9_M.1.1,oligodendrocyte,15
+D15.MAA000926.3_9_M.1.1,endothelial cell,16
+D15.MAA000935.3_8_M.1.1,oligodendrocyte precursor cell,4
+D15.MAA000944.3_9_M.1.1,oligodendrocyte,15
+D15.MAA000947.3_9_M.1.1,oligodendrocyte,15
+D16.B000621.3_56_F.1.1,oligodendrocyte,15
+D16.MAA000424.3_11_M.1.1,endothelial cell,16
+D16.MAA000561.3_10_M.1.1,neuron,7
+D16.MAA000581.3_10_M.1.1,endothelial cell,2
+D16.MAA000926.3_9_M.1.1,oligodendrocyte,1
+D16.MAA000944.3_9_M.1.1,oligodendrocyte,1
+D16.MAA000947.3_9_M.1.1,oligodendrocyte,15
+D16.MAA001853.3_38_F.1.1,neuron,7
+D16.MAA001895.3_38_F.1.1,brain pericyte,3
+D17.B000621.3_56_F.1.1,oligodendrocyte,15
+D17.B001688.3_38_F.1.1,oligodendrocyte,15
+D17.B003275.3_38_F.1.1,endothelial cell,2
+D17.B003290.3_38_F.1.1,brain pericyte,3
+D17.MAA000560.3_10_M.1.1,brain pericyte,3
+D17.MAA000561.3_10_M.1.1,brain pericyte,3
+D17.MAA000581.3_10_M.1.1,endothelial cell,16
+D17.MAA000902.3_11_M.1.1,oligodendrocyte,15
+D17.MAA000923.3_9_M.1.1,endothelial cell,16
+D17.MAA000926.3_9_M.1.1,astrocyte,11
+D17.MAA000940.3_8_M.1.1,neuron,0
+D17.MAA000942.3_8_M.1.1,oligodendrocyte,15
+D17.MAA000944.3_9_M.1.1,astrocyte,11
+D17.MAA001845.3_39_F.1.1,neuron,7
+D18.MAA000561.3_10_M.1.1,endothelial cell,16
+D18.MAA000581.3_10_M.1.1,neuron,7
+D18.MAA000923.3_9_M.1.1,oligodendrocyte,15
+D18.MAA000926.3_9_M.1.1,oligodendrocyte,1
+D18.MAA000928.3_9_M.1.1,oligodendrocyte,1
+D18.MAA000935.3_8_M.1.1,astrocyte,11
+D18.MAA000940.3_8_M.1.1,oligodendrocyte,15
+D18.MAA000944.3_9_M.1.1,oligodendrocyte,15
+D18.MAA001894.3_39_F.1.1,oligodendrocyte,4
+D18.MAA001895.3_38_F.1.1,endothelial cell,2
+D19.B003290.3_38_F.1.1,neuron,0
+D19.MAA000553.3_10_M.1.1,astrocyte,11
+D19.MAA000560.3_10_M.1.1,oligodendrocyte,15
+D19.MAA000561.3_10_M.1.1,endothelial cell,16
+D19.MAA000564.3_10_M.1.1,oligodendrocyte,15
+D19.MAA000581.3_10_M.1.1,endothelial cell,2
+D19.MAA000923.3_9_M.1.1,brain pericyte,3
+D19.MAA000926.3_9_M.1.1,oligodendrocyte,15
+D19.MAA000935.3_8_M.1.1,oligodendrocyte,15
+D19.MAA000941.3_8_M.1.1,endothelial cell,10
+D19.MAA000944.3_9_M.1.1,oligodendrocyte,15
+D2.B003290.3_38_F.1.1,endothelial cell,2
+D2.B003728.3_56_F.1.1,oligodendrocyte,15
+D2.MAA000564.3_10_M.1.1,oligodendrocyte,15
+D2.MAA000615.3_10_M.1.1,oligodendrocyte precursor cell,4
+D2.MAA000641.3_9_M.1.1,oligodendrocyte precursor cell,4
+D2.MAA000923.3_9_M.1.1,astrocyte,11
+D2.MAA000926.3_9_M.1.1,oligodendrocyte,15
+D2.MAA000932.3_11_M.1.1,oligodendrocyte precursor cell,4
+D2.MAA000935.3_8_M.1.1,oligodendrocyte,12
+D2.MAA000944.3_9_M.1.1,oligodendrocyte,6
+D20.B003275.3_38_F.1.1,oligodendrocyte,13
+D20.MAA000560.3_10_M.1.1,astrocyte,11
+D20.MAA000563.3_10_M.1.1,oligodendrocyte,1
+D20.MAA000578.3_10_M.1.1,oligodendrocyte precursor cell,12
+D20.MAA000581.3_10_M.1.1,neuron,7
+D20.MAA000926.3_9_M.1.1,oligodendrocyte,1
+D20.MAA000930.3_8_M.1.1,oligodendrocyte,15
+D20.MAA000944.3_9_M.1.1,oligodendrocyte,15
+D20.MAA000947.3_9_M.1.1,astrocyte,11
+D20.MAA001853.3_38_F.1.1,neuron,7
+D20.MAA001895.3_38_F.1.1,endothelial cell,2
+D21.B003275.3_38_F.1.1,endothelial cell,16
+D21.MAA000560.3_10_M.1.1,oligodendrocyte,15
+D21.MAA000561.3_10_M.1.1,endothelial cell,16
+D21.MAA000578.3_10_M.1.1,astrocyte,5
+D21.MAA000930.3_8_M.1.1,oligodendrocyte,15
+D21.MAA000932.3_11_M.1.1,oligodendrocyte,1
+D21.MAA000935.3_8_M.1.1,oligodendrocyte,12
+D21.MAA000947.3_9_M.1.1,oligodendrocyte precursor cell,4
+D22.B003275.3_38_F.1.1,endothelial cell,2
+D22.B003290.3_38_F.1.1,neuron,0
+D22.MAA000561.3_10_M.1.1,neuron,7
+D22.MAA000563.3_10_M.1.1,oligodendrocyte,15
+D22.MAA000578.3_10_M.1.1,oligodendrocyte,1
+D22.MAA000926.3_9_M.1.1,neuron,7
+D22.MAA000930.3_8_M.1.1,oligodendrocyte,15
+D22.MAA000935.3_8_M.1.1,oligodendrocyte,15
+D22.MAA000941.3_8_M.1.1,oligodendrocyte,14
+D22.MAA000944.3_9_M.1.1,oligodendrocyte,15
+D3.B003290.3_38_F.1.1,endothelial cell,2
+D3.MAA000564.3_10_M.1.1,oligodendrocyte precursor cell,4
+D3.MAA000641.3_9_M.1.1,oligodendrocyte,17
+D3.MAA000926.3_9_M.1.1,oligodendrocyte,6
+D3.MAA000928.3_9_M.1.1,oligodendrocyte,1
+D3.MAA000930.3_8_M.1.1,astrocyte,11
+D3.MAA000932.3_11_M.1.1,endothelial cell,10
+D3.MAA000941.3_8_M.1.1,oligodendrocyte,15
+D3.MAA000944.3_9_M.1.1,oligodendrocyte,17
+D3.MAA000947.3_9_M.1.1,astrocyte,11
+D3.MAA001845.3_39_F.1.1,endothelial cell,2
+D3.MAA001895.3_38_F.1.1,endothelial cell,2
+D4.B003274.3_38_F.1.1,oligodendrocyte,1
+D4.B003290.3_38_F.1.1,endothelial cell,2
+D4.MAA000550.3_10_M.1.1,oligodendrocyte,15
+D4.MAA000560.3_10_M.1.1,astrocyte,11
+D4.MAA000564.3_10_M.1.1,astrocyte,11
+D4.MAA000615.3_10_M.1.1,oligodendrocyte,15
+D4.MAA000926.3_9_M.1.1,oligodendrocyte,15
+D4.MAA000935.3_8_M.1.1,oligodendrocyte,15
+D4.MAA000942.3_8_M.1.1,astrocyte,11
+D4.MAA000944.3_9_M.1.1,oligodendrocyte,15
+D4.MAA001845.3_39_F.1.1,endothelial cell,2
+D4.MAA001894.3_39_F.1.1,oligodendrocyte,14
+D4.MAA001895.3_38_F.1.1,endothelial cell,16
+D5.B003274.3_38_F.1.1,oligodendrocyte,1
+D5.MAA000560.3_10_M.1.1,astrocyte,11
+D5.MAA000564.3_10_M.1.1,endothelial cell,2
+D5.MAA000578.3_10_M.1.1,Bergmann glial cell,5
+D5.MAA000615.3_10_M.1.1,oligodendrocyte,15
+D5.MAA000926.3_9_M.1.1,oligodendrocyte,9
+D5.MAA000932.3_11_M.1.1,endothelial cell,10
+D5.MAA000941.3_8_M.1.1,astrocyte,11
+D5.MAA000944.3_9_M.1.1,astrocyte,6
+D5.MAA001845.3_39_F.1.1,endothelial cell,2
+D5.MAA001854.3_38_F.1.1,oligodendrocyte,17
+D6.B003275.3_38_F.1.1,endothelial cell,16
+D6.MAA000563.3_10_M.1.1,oligodendrocyte precursor cell,4
+D6.MAA000615.3_10_M.1.1,astrocyte,11
+D6.MAA000926.3_9_M.1.1,oligodendrocyte,15
+D6.MAA000935.3_8_M.1.1,astrocyte,6
+D6.MAA000942.3_8_M.1.1,neuron,19
+D6.MAA000944.3_9_M.1.1,astrocyte,6
+D6.MAA000947.3_9_M.1.1,oligodendrocyte precursor cell,4
+D6.MAA001894.3_39_F.1.1,endothelial cell,2
+D7.B003275.3_38_F.1.1,endothelial cell,16
+D7.B003290.3_38_F.1.1,astrocyte,6
+D7.MAA000560.3_10_M.1.1,oligodendrocyte precursor cell,12
+D7.MAA000615.3_10_M.1.1,oligodendrocyte,15
+D7.MAA000638.3_9_M.1.1,neuron,7
+D7.MAA000926.3_9_M.1.1,oligodendrocyte,15
+D7.MAA000932.3_11_M.1.1,endothelial cell,10
+D7.MAA000944.3_9_M.1.1,oligodendrocyte,15
+D7.MAA001895.3_38_F.1.1,endothelial cell,2
+D8.MAA000560.3_10_M.1.1,oligodendrocyte,15
+D8.MAA000563.3_10_M.1.1,oligodendrocyte,15
+D8.MAA000564.3_10_M.1.1,oligodendrocyte,15
+D8.MAA000615.3_10_M.1.1,oligodendrocyte,15
+D8.MAA000923.3_9_M.1.1,oligodendrocyte,15
+D8.MAA000926.3_9_M.1.1,oligodendrocyte,15
+D8.MAA000928.3_9_M.1.1,oligodendrocyte,17
+D8.MAA000941.3_8_M.1.1,oligodendrocyte,15
+D9.B003275.3_38_F.1.1,oligodendrocyte precursor cell,4
+D9.B003290.3_38_F.1.1,endothelial cell,16
+D9.MAA000553.3_10_M.1.1,endothelial cell,2
+D9.MAA000560.3_10_M.1.1,oligodendrocyte,15
+D9.MAA000615.3_10_M.1.1,oligodendrocyte,15
+D9.MAA000923.3_9_M.1.1,oligodendrocyte,15
+D9.MAA000925.3_9_M.1.1,oligodendrocyte,15
+D9.MAA000926.3_9_M.1.1,astrocyte,11
+D9.MAA000928.3_9_M.1.1,Bergmann glial cell,5
+D9.MAA000935.3_8_M.1.1,oligodendrocyte,15
+D9.MAA001895.3_38_F.1.1,endothelial cell,16
+E1.B003274.3_38_F.1.1,oligodendrocyte,9
+E1.B003290.3_38_F.1.1,endothelial cell,2
+E1.MAA000560.3_10_M.1.1,astrocyte,11
+E1.MAA000926.3_9_M.1.1,oligodendrocyte precursor cell,4
+E1.MAA000932.3_11_M.1.1,endothelial cell,2
+E1.MAA000935.3_8_M.1.1,oligodendrocyte,12
+E1.MAA000941.3_8_M.1.1,oligodendrocyte,15
+E1.MAA000942.3_8_M.1.1,oligodendrocyte precursor cell,4
+E1.MAA000944.3_9_M.1.1,oligodendrocyte,6
+E1.MAA001845.3_39_F.1.1,endothelial cell,2
+E1.MAA001894.3_39_F.1.1,astrocyte,6
+E1.MAA001895.3_38_F.1.1,endothelial cell,2
+E10.B003275.3_38_F.1.1,endothelial cell,16
+E10.B003277.3_39_F.1.1,oligodendrocyte,9
+E10.B003290.3_38_F.1.1,endothelial cell,10
+E10.MAA000563.3_10_M.1.1,oligodendrocyte precursor cell,12
+E10.MAA000581.3_10_M.1.1,oligodendrocyte,15
+E10.MAA000923.3_9_M.1.1,neuron,7
+E10.MAA000925.3_9_M.1.1,oligodendrocyte,14
+E10.MAA000926.3_9_M.1.1,astrocyte,11
+E10.MAA000935.3_8_M.1.1,oligodendrocyte,15
+E10.MAA000941.3_8_M.1.1,oligodendrocyte,15
+E11.B000621.3_56_F.1.1,astrocyte,11
+E11.B003275.3_38_F.1.1,endothelial cell,10
+E11.B003290.3_38_F.1.1,endothelial cell,2
+E11.MAA000560.3_10_M.1.1,oligodendrocyte,15
+E11.MAA000926.3_9_M.1.1,oligodendrocyte,15
+E11.MAA000932.3_11_M.1.1,endothelial cell,16
+E11.MAA000935.3_8_M.1.1,oligodendrocyte,1
+E11.MAA001894.3_39_F.1.1,astrocyte,11
+E12.MAA000581.3_10_M.1.1,endothelial cell,10
+E12.MAA000902.3_11_M.1.1,oligodendrocyte,14
+E12.MAA000924.3_8_M.1.1,neuron,7
+E12.MAA000926.3_9_M.1.1,oligodendrocyte,15
+E12.MAA000935.3_8_M.1.1,oligodendrocyte,15
+E12.MAA000941.3_8_M.1.1,oligodendrocyte,15
+E12.MAA000944.3_9_M.1.1,astrocyte,19
+E12.MAA000947.3_9_M.1.1,oligodendrocyte,15
+E12.MAA001894.3_39_F.1.1,oligodendrocyte precursor cell,4
+E12.MAA001895.3_38_F.1.1,endothelial cell,16
+E13.B003275.3_38_F.1.1,brain pericyte,3
+E13.B003290.3_38_F.1.1,endothelial cell,16
+E13.MAA000560.3_10_M.1.1,oligodendrocyte,15
+E13.MAA000578.3_10_M.1.1,oligodendrocyte,15
+E13.MAA000581.3_10_M.1.1,endothelial cell,2
+E13.MAA000615.3_10_M.1.1,neuron,19
+E13.MAA000926.3_9_M.1.1,brain pericyte,3
+E13.MAA000935.3_8_M.1.1,oligodendrocyte,15
+E13.MAA000941.3_8_M.1.1,endothelial cell,2
+E13.MAA000942.3_8_M.1.1,neuron,7
+E13.MAA000944.3_9_M.1.1,astrocyte,6
+E14.B003275.3_38_F.1.1,endothelial cell,2
+E14.B003290.3_38_F.1.1,endothelial cell,2
+E14.MAA000560.3_10_M.1.1,oligodendrocyte,15
+E14.MAA000581.3_10_M.1.1,brain pericyte,3
+E14.MAA000641.3_9_M.1.1,brain pericyte,3
+E14.MAA000926.3_9_M.1.1,astrocyte,11
+E14.MAA000932.3_11_M.1.1,oligodendrocyte,15
+E14.MAA000935.3_8_M.1.1,oligodendrocyte,1
+E14.MAA000944.3_9_M.1.1,astrocyte,11
+E15.MAA000581.3_10_M.1.1,neuron,7
+E15.MAA000638.3_9_M.1.1,neuron,7
+E15.MAA000923.3_9_M.1.1,astrocyte,11
+E15.MAA000941.3_8_M.1.1,astrocyte,11
+E16.B001688.3_38_F.1.1,oligodendrocyte,15
+E16.B003275.3_38_F.1.1,endothelial cell,16
+E16.MAA000560.3_10_M.1.1,astrocyte,11
+E16.MAA000581.3_10_M.1.1,brain pericyte,3
+E16.MAA000923.3_9_M.1.1,oligodendrocyte,15
+E16.MAA000925.3_9_M.1.1,oligodendrocyte,15
+E16.MAA000932.3_11_M.1.1,oligodendrocyte,1
+E16.MAA000941.3_8_M.1.1,astrocyte,11
+E16.MAA000944.3_9_M.1.1,oligodendrocyte,15
+E16.MAA000947.3_9_M.1.1,oligodendrocyte,15
+E16.MAA001895.3_38_F.1.1,oligodendrocyte,13
+E17.B003275.3_38_F.1.1,endothelial cell,16
+E17.B003290.3_38_F.1.1,brain pericyte,3
+E17.MAA000561.3_10_M.1.1,neuron,7
+E17.MAA000581.3_10_M.1.1,neuron,7
+E17.MAA000923.3_9_M.1.1,astrocyte,11
+E17.MAA000947.3_9_M.1.1,oligodendrocyte,15
+E17.MAA001895.3_38_F.1.1,brain pericyte,3
+E18.MAA000560.3_10_M.1.1,oligodendrocyte,1
+E18.MAA000581.3_10_M.1.1,endothelial cell,18
+E18.MAA000638.3_9_M.1.1,endothelial cell,18
+E18.MAA000926.3_9_M.1.1,oligodendrocyte,15
+E18.MAA000932.3_11_M.1.1,endothelial cell,2
+E18.MAA000942.3_8_M.1.1,oligodendrocyte,1
+E19.MAA000538.3_8_M.1.1,Bergmann glial cell,5
+E19.MAA000560.3_10_M.1.1,oligodendrocyte precursor cell,4
+E19.MAA000561.3_10_M.1.1,endothelial cell,2
+E19.MAA000581.3_10_M.1.1,endothelial cell,2
+E19.MAA000638.3_9_M.1.1,neuron,7
+E19.MAA000926.3_9_M.1.1,oligodendrocyte,9
+E19.MAA000941.3_8_M.1.1,oligodendrocyte,15
+E19.MAA000944.3_9_M.1.1,oligodendrocyte,15
+E2.B003277.3_39_F.1.1,oligodendrocyte,9
+E2.B003290.3_38_F.1.1,endothelial cell,2
+E2.B003728.3_56_F.1.1,oligodendrocyte,15
+E2.MAA000560.3_10_M.1.1,endothelial cell,16
+E2.MAA000902.3_11_M.1.1,astrocyte,11
+E2.MAA000926.3_9_M.1.1,oligodendrocyte,15
+E2.MAA000932.3_11_M.1.1,endothelial cell,10
+E2.MAA000944.3_9_M.1.1,oligodendrocyte,15
+E2.MAA001894.3_39_F.1.1,oligodendrocyte,1
+E20.B001688.3_38_F.1.1,oligodendrocyte,1
+E20.B003275.3_38_F.1.1,endothelial cell,2
+E20.MAA000560.3_10_M.1.1,oligodendrocyte,15
+E20.MAA000561.3_10_M.1.1,brain pericyte,3
+E20.MAA000563.3_10_M.1.1,oligodendrocyte,1
+E20.MAA000581.3_10_M.1.1,endothelial cell,2
+E20.MAA000923.3_9_M.1.1,astrocyte,11
+E20.MAA000930.3_8_M.1.1,oligodendrocyte,1
+E20.MAA000932.3_11_M.1.1,oligodendrocyte precursor cell,4
+E20.MAA000944.3_9_M.1.1,endothelial cell,16
+E20.MAA001895.3_38_F.1.1,oligodendrocyte,13
+E21.MAA000560.3_10_M.1.1,oligodendrocyte,15
+E21.MAA000581.3_10_M.1.1,endothelial cell,10
+E21.MAA000641.3_9_M.1.1,oligodendrocyte,15
+E21.MAA000923.3_9_M.1.1,oligodendrocyte,15
+E21.MAA000926.3_9_M.1.1,endothelial cell,16
+E21.MAA000941.3_8_M.1.1,astrocyte,11
+E21.MAA000944.3_9_M.1.1,oligodendrocyte,6
+E22.B000621.3_56_F.1.1,endothelial cell,16
+E22.B003275.3_38_F.1.1,oligodendrocyte,13
+E22.MAA000560.3_10_M.1.1,oligodendrocyte,1
+E22.MAA000564.3_10_M.1.1,oligodendrocyte,15
+E22.MAA000581.3_10_M.1.1,oligodendrocyte,13
+E22.MAA000923.3_9_M.1.1,oligodendrocyte,15
+E22.MAA000932.3_11_M.1.1,oligodendrocyte,1
+E22.MAA000935.3_8_M.1.1,oligodendrocyte,9
+E22.MAA000941.3_8_M.1.1,brain pericyte,3
+E22.MAA000944.3_9_M.1.1,oligodendrocyte,15
+E22.MAA001895.3_38_F.1.1,brain pericyte,3
+E3.MAA000538.3_8_M.1.1,neuron,7
+E3.MAA000560.3_10_M.1.1,astrocyte,11
+E3.MAA000564.3_10_M.1.1,oligodendrocyte,15
+E3.MAA000923.3_9_M.1.1,oligodendrocyte precursor cell,4
+E3.MAA000926.3_9_M.1.1,oligodendrocyte,9
+E3.MAA000930.3_8_M.1.1,oligodendrocyte,15
+E3.MAA000932.3_11_M.1.1,endothelial cell,10
+E3.MAA000935.3_8_M.1.1,astrocyte,11
+E3.MAA000941.3_8_M.1.1,oligodendrocyte precursor cell,4
+E3.MAA000944.3_9_M.1.1,oligodendrocyte,15
+E3.MAA001845.3_39_F.1.1,endothelial cell,2
+E3.MAA001894.3_39_F.1.1,oligodendrocyte,15
+E4.MAA000560.3_10_M.1.1,oligodendrocyte,15
+E4.MAA000563.3_10_M.1.1,oligodendrocyte,15
+E4.MAA000615.3_10_M.1.1,oligodendrocyte,15
+E4.MAA000926.3_9_M.1.1,oligodendrocyte,15
+E4.MAA000930.3_8_M.1.1,endothelial cell,2
+E4.MAA000932.3_11_M.1.1,endothelial cell,18
+E4.MAA000935.3_8_M.1.1,oligodendrocyte,15
+E4.MAA000941.3_8_M.1.1,endothelial cell,16
+E4.MAA000944.3_9_M.1.1,astrocyte,11
+E4.MAA001845.3_39_F.1.1,endothelial cell,2
+E4.MAA001894.3_39_F.1.1,astrocyte,6
+E4.MAA001895.3_38_F.1.1,endothelial cell,2
+E5.B003277.3_39_F.1.1,oligodendrocyte precursor cell,4
+E5.B003290.3_38_F.1.1,astrocyte,11
+E5.MAA000638.3_9_M.1.1,oligodendrocyte,1
+E5.MAA000641.3_9_M.1.1,oligodendrocyte,15
+E5.MAA000902.3_11_M.1.1,oligodendrocyte,15
+E5.MAA000924.3_8_M.1.1,neuron,7
+E5.MAA000926.3_9_M.1.1,oligodendrocyte,15
+E5.MAA000928.3_9_M.1.1,oligodendrocyte,17
+E5.MAA000930.3_8_M.1.1,oligodendrocyte,15
+E5.MAA000935.3_8_M.1.1,oligodendrocyte,15
+E5.MAA000944.3_9_M.1.1,oligodendrocyte,15
+E5.MAA001845.3_39_F.1.1,endothelial cell,2
+E6.B003290.3_38_F.1.1,endothelial cell,16
+E6.MAA000550.3_10_M.1.1,oligodendrocyte,14
+E6.MAA000560.3_10_M.1.1,oligodendrocyte,15
+E6.MAA000563.3_10_M.1.1,astrocyte,8
+E6.MAA000615.3_10_M.1.1,oligodendrocyte,15
+E6.MAA000902.3_11_M.1.1,neuron,19
+E6.MAA000926.3_9_M.1.1,astrocyte,11
+E6.MAA000930.3_8_M.1.1,oligodendrocyte precursor cell,4
+E6.MAA000932.3_11_M.1.1,endothelial cell,16
+E6.MAA000935.3_8_M.1.1,oligodendrocyte,14
+E6.MAA000944.3_9_M.1.1,oligodendrocyte,9
+E6.MAA001895.3_38_F.1.1,endothelial cell,2
+E7.B003290.3_38_F.1.1,endothelial cell,16
+E7.MAA000560.3_10_M.1.1,oligodendrocyte,15
+E7.MAA000615.3_10_M.1.1,oligodendrocyte,15
+E7.MAA000923.3_9_M.1.1,oligodendrocyte,15
+E7.MAA000926.3_9_M.1.1,oligodendrocyte,15
+E7.MAA000944.3_9_M.1.1,astrocyte,11
+E8.B001688.3_38_F.1.1,oligodendrocyte,4
+E8.B003275.3_38_F.1.1,endothelial cell,16
+E8.B003290.3_38_F.1.1,endothelial cell,16
+E8.MAA000560.3_10_M.1.1,astrocyte,11
+E8.MAA000926.3_9_M.1.1,oligodendrocyte,15
+E8.MAA000930.3_8_M.1.1,astrocyte,6
+E8.MAA000944.3_9_M.1.1,oligodendrocyte,19
+E9.B003290.3_38_F.1.1,endothelial cell,18
+E9.MAA000560.3_10_M.1.1,oligodendrocyte,1
+E9.MAA000581.3_10_M.1.1,oligodendrocyte,15
+E9.MAA000615.3_10_M.1.1,oligodendrocyte,15
+E9.MAA000638.3_9_M.1.1,neuron,7
+E9.MAA000923.3_9_M.1.1,oligodendrocyte,15
+E9.MAA000926.3_9_M.1.1,astrocyte,11
+E9.MAA000935.3_8_M.1.1,oligodendrocyte,1
+E9.MAA000942.3_8_M.1.1,oligodendrocyte precursor cell,4
+E9.MAA000944.3_9_M.1.1,oligodendrocyte,15
+F1.B003290.3_38_F.1.1,endothelial cell,2
+F1.MAA000564.3_10_M.1.1,oligodendrocyte,15
+F1.MAA000581.3_10_M.1.1,Bergmann glial cell,5
+F1.MAA000926.3_9_M.1.1,neuron,0
+F1.MAA000932.3_11_M.1.1,endothelial cell,10
+F1.MAA000935.3_8_M.1.1,oligodendrocyte,15
+F1.MAA000942.3_8_M.1.1,neuron,19
+F1.MAA000944.3_9_M.1.1,astrocyte,11
+F1.MAA000947.3_9_M.1.1,oligodendrocyte,15
+F10.B003290.3_38_F.1.1,oligodendrocyte precursor cell,4
+F10.MAA000553.3_10_M.1.1,endothelial cell,16
+F10.MAA000560.3_10_M.1.1,oligodendrocyte,15
+F10.MAA000561.3_10_M.1.1,astrocyte,11
+F10.MAA000581.3_10_M.1.1,Bergmann glial cell,5
+F10.MAA000923.3_9_M.1.1,oligodendrocyte,15
+F10.MAA000926.3_9_M.1.1,astrocyte,11
+F10.MAA000932.3_11_M.1.1,endothelial cell,16
+F11.B003275.3_38_F.1.1,endothelial cell,16
+F11.B003290.3_38_F.1.1,oligodendrocyte precursor cell,4
+F11.MAA000538.3_8_M.1.1,oligodendrocyte,1
+F11.MAA000553.3_10_M.1.1,endothelial cell,2
+F11.MAA000560.3_10_M.1.1,astrocyte,11
+F11.MAA000561.3_10_M.1.1,oligodendrocyte,15
+F11.MAA000564.3_10_M.1.1,endothelial cell,16
+F11.MAA000615.3_10_M.1.1,oligodendrocyte,15
+F11.MAA000638.3_9_M.1.1,oligodendrocyte,3
+F11.MAA000932.3_11_M.1.1,endothelial cell,16
+F11.MAA000941.3_8_M.1.1,oligodendrocyte,15
+F11.MAA000942.3_8_M.1.1,oligodendrocyte precursor cell,4
+F12.B003275.3_38_F.1.1,endothelial cell,2
+F12.B003290.3_38_F.1.1,endothelial cell,16
+F12.MAA000550.3_10_M.1.1,oligodendrocyte,15
+F12.MAA000560.3_10_M.1.1,oligodendrocyte,15
+F12.MAA000561.3_10_M.1.1,endothelial cell,16
+F12.MAA000563.3_10_M.1.1,oligodendrocyte precursor cell,12
+F12.MAA000564.3_10_M.1.1,oligodendrocyte precursor cell,12
+F12.MAA000581.3_10_M.1.1,brain pericyte,3
+F12.MAA000926.3_9_M.1.1,brain pericyte,3
+F12.MAA000930.3_8_M.1.1,oligodendrocyte,15
+F12.MAA000947.3_9_M.1.1,oligodendrocyte,15
+F12.MAA001894.3_39_F.1.1,oligodendrocyte,15
+F13.B003275.3_38_F.1.1,endothelial cell,2
+F13.MAA000560.3_10_M.1.1,oligodendrocyte,15
+F13.MAA000561.3_10_M.1.1,neuron,7
+F13.MAA000581.3_10_M.1.1,neuron,7
+F13.MAA000615.3_10_M.1.1,neuron,19
+F13.MAA000923.3_9_M.1.1,oligodendrocyte,1
+F13.MAA000925.3_9_M.1.1,oligodendrocyte,15
+F13.MAA000926.3_9_M.1.1,oligodendrocyte,15
+F13.MAA000942.3_8_M.1.1,endothelial cell,2
+F13.MAA000944.3_9_M.1.1,oligodendrocyte,15
+F14.MAA000424.3_11_M.1.1,endothelial cell,2
+F14.MAA000560.3_10_M.1.1,oligodendrocyte,15
+F14.MAA000564.3_10_M.1.1,oligodendrocyte,15
+F14.MAA000581.3_10_M.1.1,endothelial cell,2
+F14.MAA000926.3_9_M.1.1,astrocyte,11
+F14.MAA000935.3_8_M.1.1,oligodendrocyte,15
+F14.MAA001895.3_38_F.1.1,endothelial cell,10
+F15.B003275.3_38_F.1.1,endothelial cell,2
+F15.B003290.3_38_F.1.1,endothelial cell,16
+F15.MAA000553.3_10_M.1.1,oligodendrocyte precursor cell,12
+F15.MAA000581.3_10_M.1.1,brain pericyte,3
+F15.MAA000638.3_9_M.1.1,neuron,7
+F15.MAA000902.3_11_M.1.1,endothelial cell,16
+F15.MAA000923.3_9_M.1.1,oligodendrocyte,15
+F15.MAA000930.3_8_M.1.1,endothelial cell,2
+F15.MAA000944.3_9_M.1.1,oligodendrocyte,15
+F15.MAA001895.3_38_F.1.1,endothelial cell,16
+F16.B003277.3_39_F.1.1,oligodendrocyte,9
+F16.MAA000560.3_10_M.1.1,oligodendrocyte,15
+F16.MAA000581.3_10_M.1.1,endothelial cell,2
+F16.MAA000638.3_9_M.1.1,oligodendrocyte,1
+F16.MAA000926.3_9_M.1.1,oligodendrocyte,15
+F16.MAA000935.3_8_M.1.1,oligodendrocyte,15
+F16.MAA000947.3_9_M.1.1,oligodendrocyte,15
+F17.B003290.3_38_F.1.1,endothelial cell,2
+F17.MAA000581.3_10_M.1.1,brain pericyte,3
+F17.MAA000926.3_9_M.1.1,oligodendrocyte,15
+F17.MAA000940.3_8_M.1.1,neuron,0
+F17.MAA000941.3_8_M.1.1,oligodendrocyte,15
+F17.MAA000942.3_8_M.1.1,neuron,0
+F17.MAA000944.3_9_M.1.1,astrocyte,11
+F18.B003275.3_38_F.1.1,oligodendrocyte,13
+F18.B003277.3_39_F.1.1,oligodendrocyte,9
+F18.MAA000424.3_11_M.1.1,endothelial cell,16
+F18.MAA000560.3_10_M.1.1,oligodendrocyte,15
+F18.MAA000561.3_10_M.1.1,brain pericyte,15
+F18.MAA000581.3_10_M.1.1,endothelial cell,2
+F18.MAA000923.3_9_M.1.1,oligodendrocyte,15
+F18.MAA000940.3_8_M.1.1,oligodendrocyte,1
+F18.MAA000947.3_9_M.1.1,oligodendrocyte,15
+F18.MAA001895.3_38_F.1.1,endothelial cell,2
+F19.B003275.3_38_F.1.1,endothelial cell,2
+F19.B003277.3_39_F.1.1,oligodendrocyte,9
+F19.MAA000424.3_11_M.1.1,neuron,7
+F19.MAA000560.3_10_M.1.1,oligodendrocyte,1
+F19.MAA000561.3_10_M.1.1,brain pericyte,3
+F19.MAA000581.3_10_M.1.1,brain pericyte,3
+F19.MAA000638.3_9_M.1.1,oligodendrocyte,1
+F19.MAA000902.3_11_M.1.1,oligodendrocyte,15
+F19.MAA000926.3_9_M.1.1,oligodendrocyte precursor cell,4
+F19.MAA000932.3_11_M.1.1,oligodendrocyte precursor cell,4
+F19.MAA000940.3_8_M.1.1,neuron,0
+F19.MAA000941.3_8_M.1.1,astrocyte,11
+F2.B003728.3_56_F.1.1,oligodendrocyte,6
+F2.MAA000560.3_10_M.1.1,astrocyte,11
+F2.MAA000564.3_10_M.1.1,oligodendrocyte,15
+F2.MAA000615.3_10_M.1.1,oligodendrocyte,1
+F2.MAA000923.3_9_M.1.1,oligodendrocyte,15
+F2.MAA000924.3_8_M.1.1,oligodendrocyte,17
+F2.MAA000926.3_9_M.1.1,oligodendrocyte,15
+F2.MAA000932.3_11_M.1.1,endothelial cell,10
+F2.MAA000940.3_8_M.1.1,neuron,0
+F2.MAA000941.3_8_M.1.1,oligodendrocyte,15
+F2.MAA000944.3_9_M.1.1,oligodendrocyte precursor cell,11
+F2.MAA000947.3_9_M.1.1,endothelial cell,16
+F20.B003275.3_38_F.1.1,endothelial cell,2
+F20.MAA000560.3_10_M.1.1,oligodendrocyte,1
+F20.MAA000581.3_10_M.1.1,endothelial cell,16
+F20.MAA000902.3_11_M.1.1,oligodendrocyte,15
+F20.MAA000926.3_9_M.1.1,endothelial cell,2
+F20.MAA000944.3_9_M.1.1,astrocyte,11
+F20.MAA000947.3_9_M.1.1,oligodendrocyte,15
+F20.MAA001895.3_38_F.1.1,endothelial cell,16
+F21.B003290.3_38_F.1.1,neuron,0
+F21.B003728.3_56_F.1.1,astrocyte,6
+F21.MAA000560.3_10_M.1.1,oligodendrocyte,1
+F21.MAA000561.3_10_M.1.1,endothelial cell,16
+F21.MAA000638.3_9_M.1.1,neuron,7
+F21.MAA000924.3_8_M.1.1,neuron,7
+F21.MAA000925.3_9_M.1.1,oligodendrocyte,15
+F21.MAA000926.3_9_M.1.1,oligodendrocyte,15
+F21.MAA000935.3_8_M.1.1,astrocyte,11
+F21.MAA000944.3_9_M.1.1,oligodendrocyte,15
+F22.B003274.3_38_F.1.1,oligodendrocyte,15
+F22.B003275.3_38_F.1.1,neuron,7
+F22.MAA000424.3_11_M.1.1,endothelial cell,16
+F22.MAA000553.3_10_M.1.1,oligodendrocyte,15
+F22.MAA000560.3_10_M.1.1,oligodendrocyte,15
+F22.MAA000563.3_10_M.1.1,oligodendrocyte,15
+F22.MAA000578.3_10_M.1.1,Bergmann glial cell,5
+F22.MAA000581.3_10_M.1.1,endothelial cell,16
+F22.MAA000641.3_9_M.1.1,oligodendrocyte,15
+F22.MAA000935.3_8_M.1.1,oligodendrocyte,15
+F22.MAA000944.3_9_M.1.1,astrocyte,6
+F22.MAA001895.3_38_F.1.1,oligodendrocyte,13
+F3.B003274.3_38_F.1.1,astrocyte,11
+F3.B003277.3_39_F.1.1,astrocyte,11
+F3.B003290.3_38_F.1.1,endothelial cell,16
+F3.B003728.3_56_F.1.1,oligodendrocyte,15
+F3.MAA000424.3_11_M.1.1,endothelial cell,10
+F3.MAA000550.3_10_M.1.1,oligodendrocyte precursor cell,4
+F3.MAA000560.3_10_M.1.1,astrocyte,11
+F3.MAA000564.3_10_M.1.1,astrocyte,11
+F3.MAA000925.3_9_M.1.1,oligodendrocyte,15
+F3.MAA000926.3_9_M.1.1,astrocyte,11
+F3.MAA000932.3_11_M.1.1,endothelial cell,16
+F3.MAA000942.3_8_M.1.1,oligodendrocyte,15
+F3.MAA000944.3_9_M.1.1,astrocyte,11
+F4.B003290.3_38_F.1.1,endothelial cell,16
+F4.MAA000560.3_10_M.1.1,oligodendrocyte,15
+F4.MAA000563.3_10_M.1.1,brain pericyte,3
+F4.MAA000564.3_10_M.1.1,oligodendrocyte precursor cell,12
+F4.MAA000638.3_9_M.1.1,neuron,7
+F4.MAA000930.3_8_M.1.1,oligodendrocyte,15
+F4.MAA000932.3_11_M.1.1,brain pericyte,3
+F4.MAA000935.3_8_M.1.1,oligodendrocyte,15
+F4.MAA000941.3_8_M.1.1,oligodendrocyte,15
+F4.MAA000942.3_8_M.1.1,oligodendrocyte,14
+F4.MAA000947.3_9_M.1.1,oligodendrocyte,1
+F4.MAA001895.3_38_F.1.1,endothelial cell,2
+F5.B003274.3_38_F.1.1,oligodendrocyte,6
+F5.B003275.3_38_F.1.1,endothelial cell,16
+F5.B003290.3_38_F.1.1,endothelial cell,16
+F5.MAA000564.3_10_M.1.1,oligodendrocyte,15
+F5.MAA000641.3_9_M.1.1,oligodendrocyte,1
+F5.MAA000924.3_8_M.1.1,oligodendrocyte,19
+F5.MAA000932.3_11_M.1.1,endothelial cell,2
+F5.MAA000935.3_8_M.1.1,oligodendrocyte,15
+F5.MAA000947.3_9_M.1.1,oligodendrocyte,1
+F5.MAA001894.3_39_F.1.1,endothelial cell,2
+F6.B003290.3_38_F.1.1,endothelial cell,2
+F6.B003728.3_56_F.1.1,astrocyte,11
+F6.MAA000560.3_10_M.1.1,oligodendrocyte,15
+F6.MAA000563.3_10_M.1.1,oligodendrocyte,15
+F6.MAA000926.3_9_M.1.1,oligodendrocyte,15
+F6.MAA000930.3_8_M.1.1,oligodendrocyte,15
+F6.MAA000932.3_11_M.1.1,endothelial cell,16
+F6.MAA000944.3_9_M.1.1,oligodendrocyte,1
+F6.MAA000947.3_9_M.1.1,astrocyte,11
+F6.MAA001854.3_38_F.1.1,neuron,17
+F6.MAA001894.3_39_F.1.1,oligodendrocyte,15
+F7.B003290.3_38_F.1.1,endothelial cell,10
+F7.MAA000560.3_10_M.1.1,oligodendrocyte,15
+F7.MAA000638.3_9_M.1.1,endothelial cell,18
+F7.MAA000902.3_11_M.1.1,oligodendrocyte,15
+F7.MAA000926.3_9_M.1.1,oligodendrocyte,15
+F7.MAA000930.3_8_M.1.1,oligodendrocyte,15
+F7.MAA000932.3_11_M.1.1,endothelial cell,10
+F7.MAA000935.3_8_M.1.1,oligodendrocyte,15
+F7.MAA000942.3_8_M.1.1,oligodendrocyte,15
+F7.MAA000947.3_9_M.1.1,astrocyte,11
+F7.MAA001853.3_38_F.1.1,endothelial cell,2
+F7.MAA001894.3_39_F.1.1,oligodendrocyte,1
+F7.MAA001895.3_38_F.1.1,endothelial cell,10
+F8.B000621.3_56_F.1.1,brain pericyte,3
+F8.B003290.3_38_F.1.1,neuron,19
+F8.B003728.3_56_F.1.1,oligodendrocyte,15
+F8.MAA000560.3_10_M.1.1,oligodendrocyte,15
+F8.MAA000926.3_9_M.1.1,astrocyte,11
+F8.MAA000932.3_11_M.1.1,endothelial cell,16
+F8.MAA000942.3_8_M.1.1,oligodendrocyte,15
+F8.MAA000947.3_9_M.1.1,oligodendrocyte,15
+F9.B001688.3_38_F.1.1,oligodendrocyte,14
+F9.B003277.3_39_F.1.1,oligodendrocyte,15
+F9.B003290.3_38_F.1.1,brain pericyte,3
+F9.B003728.3_56_F.1.1,oligodendrocyte,1
+F9.MAA000560.3_10_M.1.1,oligodendrocyte,15
+F9.MAA000615.3_10_M.1.1,oligodendrocyte,15
+F9.MAA000926.3_9_M.1.1,oligodendrocyte,15
+F9.MAA000932.3_11_M.1.1,endothelial cell,10
+F9.MAA000935.3_8_M.1.1,oligodendrocyte,12
+F9.MAA000941.3_8_M.1.1,oligodendrocyte,15
+F9.MAA000942.3_8_M.1.1,neuron,0
+F9.MAA000944.3_9_M.1.1,oligodendrocyte precursor cell,4
+F9.MAA000947.3_9_M.1.1,oligodendrocyte,14
+G1.B003290.3_38_F.1.1,endothelial cell,2
+G1.B003728.3_56_F.1.1,oligodendrocyte,15
+G1.MAA000560.3_10_M.1.1,oligodendrocyte,14
+G1.MAA000926.3_9_M.1.1,oligodendrocyte,15
+G1.MAA000932.3_11_M.1.1,neuron,19
+G1.MAA000935.3_8_M.1.1,oligodendrocyte,15
+G1.MAA000940.3_8_M.1.1,neuron,0
+G1.MAA000941.3_8_M.1.1,astrocyte,11
+G1.MAA000944.3_9_M.1.1,oligodendrocyte,15
+G10.B003275.3_38_F.1.1,endothelial cell,16
+G10.B003290.3_38_F.1.1,endothelial cell,2
+G10.MAA000553.3_10_M.1.1,endothelial cell,16
+G10.MAA000578.3_10_M.1.1,Bergmann glial cell,5
+G10.MAA000615.3_10_M.1.1,oligodendrocyte,1
+G10.MAA000638.3_9_M.1.1,neuron,7
+G10.MAA000923.3_9_M.1.1,oligodendrocyte,15
+G10.MAA000925.3_9_M.1.1,oligodendrocyte,15
+G10.MAA000930.3_8_M.1.1,oligodendrocyte,15
+G10.MAA000932.3_11_M.1.1,endothelial cell,2
+G10.MAA000944.3_9_M.1.1,astrocyte,11
+G10.MAA000947.3_9_M.1.1,oligodendrocyte,1
+G11.MAA000553.3_10_M.1.1,endothelial cell,10
+G11.MAA000578.3_10_M.1.1,oligodendrocyte,15
+G11.MAA000926.3_9_M.1.1,oligodendrocyte,15
+G11.MAA000942.3_8_M.1.1,oligodendrocyte,15
+G11.MAA001894.3_39_F.1.1,astrocyte,11
+G12.B003290.3_38_F.1.1,endothelial cell,2
+G12.MAA000550.3_10_M.1.1,oligodendrocyte,15
+G12.MAA000926.3_9_M.1.1,oligodendrocyte,15
+G12.MAA000932.3_11_M.1.1,astrocyte,11
+G12.MAA000941.3_8_M.1.1,oligodendrocyte,15
+G13.B003275.3_38_F.1.1,endothelial cell,16
+G13.MAA000560.3_10_M.1.1,oligodendrocyte,15
+G13.MAA000578.3_10_M.1.1,astrocyte,8
+G13.MAA000923.3_9_M.1.1,oligodendrocyte,15
+G13.MAA000925.3_9_M.1.1,endothelial cell,16
+G13.MAA000926.3_9_M.1.1,neuron,7
+G13.MAA000935.3_8_M.1.1,endothelial cell,16
+G13.MAA000944.3_9_M.1.1,astrocyte,11
+G13.MAA001894.3_39_F.1.1,oligodendrocyte,15
+G14.B003275.3_38_F.1.1,endothelial cell,16
+G14.MAA000560.3_10_M.1.1,oligodendrocyte,1
+G14.MAA000564.3_10_M.1.1,neuron,19
+G14.MAA000581.3_10_M.1.1,endothelial cell,16
+G14.MAA000615.3_10_M.1.1,brain pericyte,18
+G14.MAA000940.3_8_M.1.1,neuron,0
+G14.MAA000941.3_8_M.1.1,oligodendrocyte precursor cell,4
+G14.MAA000942.3_8_M.1.1,oligodendrocyte,15
+G14.MAA000944.3_9_M.1.1,oligodendrocyte,15
+G14.MAA000947.3_9_M.1.1,endothelial cell,16
+G15.B003275.3_38_F.1.1,endothelial cell,2
+G15.B003290.3_38_F.1.1,endothelial cell,16
+G15.MAA000424.3_11_M.1.1,neuron,7
+G15.MAA000560.3_10_M.1.1,oligodendrocyte,15
+G15.MAA000581.3_10_M.1.1,neuron,7
+G15.MAA000923.3_9_M.1.1,oligodendrocyte,12
+G15.MAA000926.3_9_M.1.1,oligodendrocyte,14
+G15.MAA000944.3_9_M.1.1,oligodendrocyte,15
+G16.MAA000581.3_10_M.1.1,endothelial cell,2
+G16.MAA000941.3_8_M.1.1,oligodendrocyte,15
+G16.MAA000944.3_9_M.1.1,endothelial cell,16
+G16.MAA000947.3_9_M.1.1,oligodendrocyte,15
+G17.B000404.3_56_F.1.1,oligodendrocyte,15
+G17.B003275.3_38_F.1.1,oligodendrocyte,13
+G17.MAA000581.3_10_M.1.1,endothelial cell,2
+G17.MAA000925.3_9_M.1.1,oligodendrocyte,1
+G17.MAA000935.3_8_M.1.1,oligodendrocyte,15
+G17.MAA000941.3_8_M.1.1,oligodendrocyte,15
+G17.MAA001853.3_38_F.1.1,neuron,7
+G18.B003274.3_38_F.1.1,oligodendrocyte,9
+G18.B003275.3_38_F.1.1,brain pericyte,3
+G18.B003277.3_39_F.1.1,oligodendrocyte,9
+G18.B003728.3_56_F.1.1,oligodendrocyte,17
+G18.MAA000560.3_10_M.1.1,astrocyte,11
+G18.MAA000578.3_10_M.1.1,neuron,7
+G18.MAA000581.3_10_M.1.1,brain pericyte,3
+G18.MAA000926.3_9_M.1.1,oligodendrocyte,15
+G18.MAA000928.3_9_M.1.1,oligodendrocyte,15
+G18.MAA000932.3_11_M.1.1,oligodendrocyte precursor cell,4
+G18.MAA000944.3_9_M.1.1,astrocyte,11
+G18.MAA000947.3_9_M.1.1,oligodendrocyte,1
+G18.MAA001853.3_38_F.1.1,neuron,7
+G19.B003275.3_38_F.1.1,endothelial cell,10
+G19.B003290.3_38_F.1.1,neuron,0
+G19.MAA000424.3_11_M.1.1,endothelial cell,16
+G19.MAA000560.3_10_M.1.1,oligodendrocyte,15
+G19.MAA000561.3_10_M.1.1,oligodendrocyte,15
+G19.MAA000581.3_10_M.1.1,brain pericyte,3
+G19.MAA000926.3_9_M.1.1,oligodendrocyte,15
+G19.MAA000935.3_8_M.1.1,oligodendrocyte precursor cell,4
+G19.MAA000944.3_9_M.1.1,oligodendrocyte,15
+G2.B003290.3_38_F.1.1,endothelial cell,16
+G2.MAA000560.3_10_M.1.1,oligodendrocyte,15
+G2.MAA000564.3_10_M.1.1,oligodendrocyte,15
+G2.MAA000923.3_9_M.1.1,oligodendrocyte,15
+G2.MAA000926.3_9_M.1.1,astrocyte,11
+G2.MAA000932.3_11_M.1.1,endothelial cell,10
+G2.MAA000942.3_8_M.1.1,oligodendrocyte precursor cell,4
+G2.MAA000944.3_9_M.1.1,astrocyte,11
+G2.MAA001854.3_38_F.1.1,oligodendrocyte,1
+G2.MAA001894.3_39_F.1.1,endothelial cell,10
+G20.MAA000553.3_10_M.1.1,oligodendrocyte precursor cell,4
+G20.MAA000560.3_10_M.1.1,astrocyte,11
+G20.MAA000561.3_10_M.1.1,endothelial cell,16
+G20.MAA000564.3_10_M.1.1,oligodendrocyte,15
+G20.MAA000581.3_10_M.1.1,endothelial cell,2
+G20.MAA000638.3_9_M.1.1,neuron,7
+G20.MAA000923.3_9_M.1.1,endothelial cell,10
+G20.MAA000926.3_9_M.1.1,oligodendrocyte,15
+G20.MAA000928.3_9_M.1.1,oligodendrocyte,15
+G20.MAA000941.3_8_M.1.1,oligodendrocyte,15
+G20.MAA000944.3_9_M.1.1,oligodendrocyte,15
+G20.MAA001853.3_38_F.1.1,neuron,7
+G21.B003275.3_38_F.1.1,endothelial cell,16
+G21.MAA000560.3_10_M.1.1,oligodendrocyte precursor cell,12
+G21.MAA000563.3_10_M.1.1,oligodendrocyte,15
+G21.MAA000578.3_10_M.1.1,oligodendrocyte,17
+G21.MAA000581.3_10_M.1.1,endothelial cell,2
+G21.MAA000923.3_9_M.1.1,oligodendrocyte,15
+G21.MAA000926.3_9_M.1.1,oligodendrocyte,15
+G21.MAA000935.3_8_M.1.1,oligodendrocyte,15
+G22.B000621.3_56_F.1.1,oligodendrocyte precursor cell,4
+G22.B003275.3_38_F.1.1,brain pericyte,3
+G22.MAA000578.3_10_M.1.1,oligodendrocyte,15
+G22.MAA000581.3_10_M.1.1,endothelial cell,18
+G22.MAA000923.3_9_M.1.1,oligodendrocyte,14
+G22.MAA000930.3_8_M.1.1,endothelial cell,2
+G22.MAA000947.3_9_M.1.1,neuron,7
+G22.MAA001895.3_38_F.1.1,endothelial cell,10
+G3.B003290.3_38_F.1.1,endothelial cell,2
+G3.MAA000550.3_10_M.1.1,oligodendrocyte,15
+G3.MAA000560.3_10_M.1.1,astrocyte,11
+G3.MAA000615.3_10_M.1.1,oligodendrocyte,15
+G3.MAA000902.3_11_M.1.1,oligodendrocyte precursor cell,4
+G3.MAA000924.3_8_M.1.1,Bergmann glial cell,5
+G3.MAA000925.3_9_M.1.1,neuron,0
+G3.MAA000926.3_9_M.1.1,oligodendrocyte,15
+G3.MAA000930.3_8_M.1.1,oligodendrocyte,15
+G3.MAA000932.3_11_M.1.1,endothelial cell,18
+G3.MAA000942.3_8_M.1.1,oligodendrocyte,15
+G3.MAA000944.3_9_M.1.1,astrocyte,6
+G3.MAA001853.3_38_F.1.1,endothelial cell,2
+G3.MAA001856.3_39_F.1.1,neuron,7
+G4.MAA000560.3_10_M.1.1,astrocyte,11
+G4.MAA000564.3_10_M.1.1,endothelial cell,2
+G4.MAA000615.3_10_M.1.1,oligodendrocyte,15
+G4.MAA000641.3_9_M.1.1,neuron,7
+G4.MAA000923.3_9_M.1.1,oligodendrocyte,15
+G4.MAA000926.3_9_M.1.1,oligodendrocyte,15
+G4.MAA000928.3_9_M.1.1,Bergmann glial cell,5
+G4.MAA000930.3_8_M.1.1,astrocyte,6
+G4.MAA000932.3_11_M.1.1,brain pericyte,3
+G4.MAA000935.3_8_M.1.1,oligodendrocyte,15
+G4.MAA000944.3_9_M.1.1,oligodendrocyte,15
+G4.MAA000947.3_9_M.1.1,oligodendrocyte,15
+G4.MAA001894.3_39_F.1.1,astrocyte,11
+G4.MAA001895.3_38_F.1.1,endothelial cell,10
+G5.B003290.3_38_F.1.1,endothelial cell,2
+G5.MAA000564.3_10_M.1.1,neuron,19
+G5.MAA000930.3_8_M.1.1,oligodendrocyte,1
+G5.MAA000932.3_11_M.1.1,endothelial cell,10
+G5.MAA000935.3_8_M.1.1,neuron,19
+G5.MAA000944.3_9_M.1.1,oligodendrocyte,15
+G5.MAA000947.3_9_M.1.1,oligodendrocyte,15
+G5.MAA001894.3_39_F.1.1,oligodendrocyte,15
+G5.MAA001895.3_38_F.1.1,endothelial cell,2
+G6.MAA000550.3_10_M.1.1,oligodendrocyte,15
+G6.MAA000560.3_10_M.1.1,oligodendrocyte,15
+G6.MAA000563.3_10_M.1.1,oligodendrocyte,15
+G6.MAA000581.3_10_M.1.1,brain pericyte,3
+G6.MAA000926.3_9_M.1.1,oligodendrocyte,15
+G6.MAA000930.3_8_M.1.1,oligodendrocyte,15
+G6.MAA000932.3_11_M.1.1,endothelial cell,2
+G6.MAA000940.3_8_M.1.1,oligodendrocyte,14
+G6.MAA000941.3_8_M.1.1,oligodendrocyte,1
+G6.MAA001894.3_39_F.1.1,oligodendrocyte,14
+G6.MAA001895.3_38_F.1.1,endothelial cell,16
+G7.B001688.3_38_F.1.1,oligodendrocyte,15
+G7.B003290.3_38_F.1.1,endothelial cell,10
+G7.MAA000550.3_10_M.1.1,oligodendrocyte precursor cell,4
+G7.MAA000560.3_10_M.1.1,oligodendrocyte,15
+G7.MAA000615.3_10_M.1.1,astrocyte,11
+G7.MAA000926.3_9_M.1.1,oligodendrocyte,15
+G7.MAA000932.3_11_M.1.1,endothelial cell,16
+G8.B003275.3_38_F.1.1,endothelial cell,16
+G8.B003290.3_38_F.1.1,endothelial cell,2
+G8.MAA000560.3_10_M.1.1,oligodendrocyte,15
+G8.MAA000564.3_10_M.1.1,oligodendrocyte,15
+G8.MAA000581.3_10_M.1.1,neuron,7
+G8.MAA000615.3_10_M.1.1,oligodendrocyte,15
+G8.MAA000932.3_11_M.1.1,endothelial cell,2
+G8.MAA000942.3_8_M.1.1,oligodendrocyte,15
+G8.MAA001854.3_38_F.1.1,oligodendrocyte,17
+G8.MAA001894.3_39_F.1.1,endothelial cell,16
+G9.B001688.3_38_F.1.1,endothelial cell,16
+G9.MAA000550.3_10_M.1.1,oligodendrocyte,15
+G9.MAA000560.3_10_M.1.1,oligodendrocyte,15
+G9.MAA000564.3_10_M.1.1,endothelial cell,2
+G9.MAA000615.3_10_M.1.1,oligodendrocyte,15
+G9.MAA000926.3_9_M.1.1,oligodendrocyte,15
+G9.MAA001894.3_39_F.1.1,astrocyte,11
+H1.MAA000560.3_10_M.1.1,oligodendrocyte,1
+H1.MAA000581.3_10_M.1.1,oligodendrocyte,15
+H1.MAA000638.3_9_M.1.1,neuron,7
+H1.MAA000926.3_9_M.1.1,oligodendrocyte,1
+H1.MAA000932.3_11_M.1.1,endothelial cell,10
+H1.MAA000944.3_9_M.1.1,oligodendrocyte,15
+H1.MAA001856.3_39_F.1.1,oligodendrocyte,1
+H10.B003275.3_38_F.1.1,endothelial cell,10
+H10.MAA000553.3_10_M.1.1,oligodendrocyte precursor cell,4
+H10.MAA000560.3_10_M.1.1,oligodendrocyte,15
+H10.MAA000564.3_10_M.1.1,oligodendrocyte,15
+H10.MAA000578.3_10_M.1.1,oligodendrocyte,15
+H10.MAA000615.3_10_M.1.1,oligodendrocyte,15
+H10.MAA000926.3_9_M.1.1,oligodendrocyte,15
+H10.MAA000942.3_8_M.1.1,neuron,0
+H10.MAA000944.3_9_M.1.1,oligodendrocyte,15
+H10.MAA001894.3_39_F.1.1,oligodendrocyte,1
+H11.B003728.3_56_F.1.1,astrocyte,11
+H11.MAA000538.3_8_M.1.1,neuron,7
+H11.MAA000560.3_10_M.1.1,oligodendrocyte,1
+H11.MAA000561.3_10_M.1.1,oligodendrocyte,15
+H11.MAA000615.3_10_M.1.1,oligodendrocyte,15
+H11.MAA000923.3_9_M.1.1,brain pericyte,3
+H11.MAA000944.3_9_M.1.1,oligodendrocyte,15
+H11.MAA000947.3_9_M.1.1,oligodendrocyte,15
+H12.B003275.3_38_F.1.1,endothelial cell,16
+H12.MAA000560.3_10_M.1.1,oligodendrocyte precursor cell,4
+H12.MAA000561.3_10_M.1.1,endothelial cell,2
+H12.MAA000581.3_10_M.1.1,endothelial cell,2
+H12.MAA000638.3_9_M.1.1,neuron,7
+H12.MAA000926.3_9_M.1.1,astrocyte,11
+H12.MAA000941.3_8_M.1.1,endothelial cell,16
+H12.MAA000944.3_9_M.1.1,oligodendrocyte precursor cell,4
+H12.MAA000947.3_9_M.1.1,oligodendrocyte precursor cell,4
+H12.MAA001894.3_39_F.1.1,oligodendrocyte precursor cell,4
+H13.B003275.3_38_F.1.1,endothelial cell,16
+H13.B003290.3_38_F.1.1,endothelial cell,2
+H13.MAA000550.3_10_M.1.1,oligodendrocyte,15
+H13.MAA000553.3_10_M.1.1,oligodendrocyte,15
+H13.MAA000561.3_10_M.1.1,brain pericyte,3
+H13.MAA000564.3_10_M.1.1,oligodendrocyte,14
+H13.MAA000581.3_10_M.1.1,endothelial cell,10
+H13.MAA000926.3_9_M.1.1,oligodendrocyte,15
+H13.MAA001853.3_38_F.1.1,endothelial cell,16
+H13.MAA001894.3_39_F.1.1,oligodendrocyte,15
+H14.B000404.3_56_F.1.1,oligodendrocyte,15
+H14.B003275.3_38_F.1.1,endothelial cell,16
+H14.B003277.3_39_F.1.1,oligodendrocyte precursor cell,4
+H14.MAA000560.3_10_M.1.1,astrocyte,11
+H14.MAA000561.3_10_M.1.1,neuron,7
+H14.MAA000581.3_10_M.1.1,endothelial cell,10
+H14.MAA000615.3_10_M.1.1,neuron,19
+H14.MAA000926.3_9_M.1.1,endothelial cell,16
+H14.MAA000935.3_8_M.1.1,oligodendrocyte,15
+H14.MAA000942.3_8_M.1.1,oligodendrocyte,15
+H14.MAA000944.3_9_M.1.1,oligodendrocyte,15
+H14.MAA000947.3_9_M.1.1,oligodendrocyte,15
+H14.MAA001894.3_39_F.1.1,astrocyte,11
+H15.B003275.3_38_F.1.1,endothelial cell,2
+H15.B003728.3_56_F.1.1,oligodendrocyte,15
+H15.MAA000560.3_10_M.1.1,astrocyte,1
+H15.MAA000561.3_10_M.1.1,endothelial cell,16
+H15.MAA000581.3_10_M.1.1,brain pericyte,3
+H15.MAA000925.3_9_M.1.1,oligodendrocyte,15
+H15.MAA000932.3_11_M.1.1,oligodendrocyte,1
+H15.MAA000935.3_8_M.1.1,oligodendrocyte,1
+H15.MAA000941.3_8_M.1.1,oligodendrocyte,15
+H15.MAA000944.3_9_M.1.1,oligodendrocyte,15
+H15.MAA000947.3_9_M.1.1,endothelial cell,16
+H16.B001688.3_38_F.1.1,oligodendrocyte,15
+H16.MAA000550.3_10_M.1.1,oligodendrocyte,15
+H16.MAA000553.3_10_M.1.1,endothelial cell,16
+H16.MAA000561.3_10_M.1.1,brain pericyte,3
+H16.MAA000563.3_10_M.1.1,oligodendrocyte precursor cell,4
+H16.MAA000564.3_10_M.1.1,neuron,19
+H16.MAA000581.3_10_M.1.1,neuron,7
+H16.MAA000638.3_9_M.1.1,neuron,7
+H16.MAA000926.3_9_M.1.1,oligodendrocyte,15
+H16.MAA000935.3_8_M.1.1,astrocyte,11
+H16.MAA000941.3_8_M.1.1,oligodendrocyte precursor cell,4
+H16.MAA000942.3_8_M.1.1,neuron,0
+H16.MAA000944.3_9_M.1.1,neuron,19
+H16.MAA001894.3_39_F.1.1,oligodendrocyte precursor cell,12
+H17.B003728.3_56_F.1.1,astrocyte,6
+H17.MAA000560.3_10_M.1.1,astrocyte,11
+H17.MAA000581.3_10_M.1.1,endothelial cell,16
+H17.MAA000942.3_8_M.1.1,oligodendrocyte,12
+H17.MAA000947.3_9_M.1.1,oligodendrocyte,15
+H18.MAA000424.3_11_M.1.1,neuron,7
+H18.MAA000560.3_10_M.1.1,oligodendrocyte,15
+H18.MAA000581.3_10_M.1.1,brain pericyte,3
+H18.MAA000902.3_11_M.1.1,oligodendrocyte,15
+H18.MAA000926.3_9_M.1.1,endothelial cell,16
+H18.MAA000942.3_8_M.1.1,oligodendrocyte,15
+H18.MAA000944.3_9_M.1.1,oligodendrocyte,15
+H18.MAA001894.3_39_F.1.1,astrocyte,11
+H19.B003277.3_39_F.1.1,oligodendrocyte,6
+H19.MAA000561.3_10_M.1.1,neuron,7
+H19.MAA000564.3_10_M.1.1,oligodendrocyte,15
+H19.MAA000581.3_10_M.1.1,endothelial cell,2
+H19.MAA000641.3_9_M.1.1,neuron,7
+H19.MAA000926.3_9_M.1.1,astrocyte,11
+H19.MAA000928.3_9_M.1.1,Bergmann glial cell,5
+H19.MAA000935.3_8_M.1.1,oligodendrocyte,15
+H19.MAA000941.3_8_M.1.1,oligodendrocyte,15
+H19.MAA000944.3_9_M.1.1,oligodendrocyte,15
+H2.B000404.3_56_F.1.1,Bergmann glial cell,5
+H2.B003275.3_38_F.1.1,endothelial cell,16
+H2.MAA000560.3_10_M.1.1,oligodendrocyte,15
+H2.MAA000564.3_10_M.1.1,oligodendrocyte,15
+H2.MAA000925.3_9_M.1.1,oligodendrocyte,15
+H2.MAA000932.3_11_M.1.1,endothelial cell,10
+H2.MAA000935.3_8_M.1.1,oligodendrocyte,1
+H2.MAA000942.3_8_M.1.1,oligodendrocyte precursor cell,4
+H2.MAA000944.3_9_M.1.1,oligodendrocyte,7
+H2.MAA000947.3_9_M.1.1,oligodendrocyte,15
+H2.MAA001853.3_38_F.1.1,endothelial cell,2
+H20.B000621.3_56_F.1.1,oligodendrocyte precursor cell,4
+H20.B003277.3_39_F.1.1,oligodendrocyte,9
+H20.B003290.3_38_F.1.1,neuron,0
+H20.B003728.3_56_F.1.1,astrocyte,11
+H20.MAA000560.3_10_M.1.1,oligodendrocyte precursor cell,12
+H20.MAA000564.3_10_M.1.1,oligodendrocyte,15
+H20.MAA000581.3_10_M.1.1,endothelial cell,2
+H20.MAA000926.3_9_M.1.1,astrocyte,11
+H20.MAA000928.3_9_M.1.1,neuron,7
+H20.MAA000940.3_8_M.1.1,neuron,0
+H20.MAA001894.3_39_F.1.1,oligodendrocyte,15
+H21.B000404.3_56_F.1.1,oligodendrocyte,5
+H21.B000621.3_56_F.1.1,oligodendrocyte,4
+H21.B003290.3_38_F.1.1,endothelial cell,18
+H21.MAA000560.3_10_M.1.1,astrocyte,11
+H21.MAA000563.3_10_M.1.1,oligodendrocyte,15
+H21.MAA000581.3_10_M.1.1,endothelial cell,16
+H21.MAA000930.3_8_M.1.1,oligodendrocyte,14
+H21.MAA000932.3_11_M.1.1,endothelial cell,16
+H21.MAA000944.3_9_M.1.1,oligodendrocyte,1
+H21.MAA001853.3_38_F.1.1,neuron,7
+H21.MAA001854.3_38_F.1.1,neuron,7
+H22.B003290.3_38_F.1.1,oligodendrocyte,13
+H22.B003728.3_56_F.1.1,oligodendrocyte,6
+H22.MAA000561.3_10_M.1.1,brain pericyte,3
+H22.MAA000564.3_10_M.1.1,oligodendrocyte,1
+H22.MAA000581.3_10_M.1.1,brain pericyte,3
+H22.MAA000926.3_9_M.1.1,oligodendrocyte,15
+H22.MAA000944.3_9_M.1.1,astrocyte,6
+H3.MAA000560.3_10_M.1.1,astrocyte,11
+H3.MAA000615.3_10_M.1.1,oligodendrocyte,15
+H3.MAA000926.3_9_M.1.1,oligodendrocyte precursor cell,4
+H3.MAA000932.3_11_M.1.1,endothelial cell,16
+H3.MAA000942.3_8_M.1.1,oligodendrocyte,15
+H3.MAA000944.3_9_M.1.1,oligodendrocyte,15
+H3.MAA001853.3_38_F.1.1,neuron,7
+H3.MAA001894.3_39_F.1.1,astrocyte,11
+H4.MAA000560.3_10_M.1.1,oligodendrocyte,15
+H4.MAA000563.3_10_M.1.1,oligodendrocyte,12
+H4.MAA000564.3_10_M.1.1,oligodendrocyte precursor cell,4
+H4.MAA000581.3_10_M.1.1,oligodendrocyte,15
+H4.MAA000615.3_10_M.1.1,oligodendrocyte,15
+H4.MAA000923.3_9_M.1.1,oligodendrocyte,15
+H4.MAA000925.3_9_M.1.1,oligodendrocyte,1
+H4.MAA000926.3_9_M.1.1,oligodendrocyte,15
+H4.MAA000932.3_11_M.1.1,oligodendrocyte precursor cell,4
+H4.MAA000935.3_8_M.1.1,astrocyte,11
+H4.MAA000941.3_8_M.1.1,brain pericyte,3
+H4.MAA000942.3_8_M.1.1,oligodendrocyte,1
+H4.MAA000944.3_9_M.1.1,oligodendrocyte,15
+H4.MAA001853.3_38_F.1.1,endothelial cell,2
+H5.MAA000550.3_10_M.1.1,neuron,7
+H5.MAA000560.3_10_M.1.1,oligodendrocyte,15
+H5.MAA000578.3_10_M.1.1,oligodendrocyte precursor cell,4
+H5.MAA000581.3_10_M.1.1,endothelial cell,16
+H5.MAA000926.3_9_M.1.1,oligodendrocyte,15
+H5.MAA000932.3_11_M.1.1,endothelial cell,16
+H5.MAA000942.3_8_M.1.1,oligodendrocyte,15
+H5.MAA000947.3_9_M.1.1,oligodendrocyte,1
+H5.MAA001894.3_39_F.1.1,oligodendrocyte,15
+H6.B003275.3_38_F.1.1,oligodendrocyte precursor cell,4
+H6.MAA000424.3_11_M.1.1,oligodendrocyte,1
+H6.MAA000560.3_10_M.1.1,oligodendrocyte,15
+H6.MAA000563.3_10_M.1.1,oligodendrocyte,15
+H6.MAA000564.3_10_M.1.1,oligodendrocyte,15
+H6.MAA000615.3_10_M.1.1,oligodendrocyte precursor cell,4
+H6.MAA000923.3_9_M.1.1,oligodendrocyte,15
+H6.MAA000926.3_9_M.1.1,oligodendrocyte,15
+H6.MAA000932.3_11_M.1.1,endothelial cell,2
+H6.MAA000941.3_8_M.1.1,endothelial cell,16
+H6.MAA000944.3_9_M.1.1,oligodendrocyte,15
+H6.MAA001894.3_39_F.1.1,oligodendrocyte,1
+H7.B003275.3_38_F.1.1,endothelial cell,16
+H7.MAA000560.3_10_M.1.1,oligodendrocyte,15
+H7.MAA000926.3_9_M.1.1,oligodendrocyte,15
+H7.MAA000942.3_8_M.1.1,oligodendrocyte,15
+H8.B003275.3_38_F.1.1,endothelial cell,16
+H8.B003277.3_39_F.1.1,oligodendrocyte,6
+H8.MAA000560.3_10_M.1.1,oligodendrocyte precursor cell,4
+H8.MAA000923.3_9_M.1.1,oligodendrocyte,15
+H8.MAA000926.3_9_M.1.1,astrocyte,11
+H8.MAA000932.3_11_M.1.1,oligodendrocyte precursor cell,4
+H8.MAA000935.3_8_M.1.1,oligodendrocyte,15
+H8.MAA000944.3_9_M.1.1,oligodendrocyte precursor cell,4
+H8.MAA001894.3_39_F.1.1,oligodendrocyte,15
+H9.B003275.3_38_F.1.1,endothelial cell,16
+H9.B003277.3_39_F.1.1,endothelial cell,6
+H9.MAA000560.3_10_M.1.1,astrocyte,11
+H9.MAA000615.3_10_M.1.1,oligodendrocyte,15
+H9.MAA000638.3_9_M.1.1,neuron,7
+H9.MAA000925.3_9_M.1.1,oligodendrocyte,15
+H9.MAA000926.3_9_M.1.1,astrocyte,11
+H9.MAA000932.3_11_M.1.1,endothelial cell,2
+H9.MAA000942.3_8_M.1.1,oligodendrocyte,15
+H9.MAA000944.3_9_M.1.1,astrocyte,11
+H9.MAA000947.3_9_M.1.1,oligodendrocyte,15
+I1.B000404.3_56_F.1.1,oligodendrocyte,1
+I1.MAA000926.3_9_M.1.1,endothelial cell,16
+I1.MAA000932.3_11_M.1.1,brain pericyte,3
+I1.MAA000935.3_8_M.1.1,oligodendrocyte,15
+I1.MAA000941.3_8_M.1.1,oligodendrocyte,15
+I1.MAA000944.3_9_M.1.1,oligodendrocyte,15
+I1.MAA001854.3_38_F.1.1,oligodendrocyte,17
+I10.B000621.3_56_F.1.1,oligodendrocyte precursor cell,4
+I10.B001688.3_38_F.1.1,oligodendrocyte,15
+I10.MAA000926.3_9_M.1.1,astrocyte,11
+I10.MAA000935.3_8_M.1.1,oligodendrocyte precursor cell,4
+I10.MAA000944.3_9_M.1.1,oligodendrocyte precursor cell,4
+I11.B001688.3_38_F.1.1,oligodendrocyte,1
+I11.B003275.3_38_F.1.1,endothelial cell,16
+I11.MAA000553.3_10_M.1.1,oligodendrocyte precursor cell,4
+I11.MAA000615.3_10_M.1.1,oligodendrocyte precursor cell,4
+I11.MAA000902.3_11_M.1.1,oligodendrocyte,15
+I11.MAA000926.3_9_M.1.1,oligodendrocyte,15
+I11.MAA000935.3_8_M.1.1,endothelial cell,16
+I11.MAA000944.3_9_M.1.1,oligodendrocyte,15
+I11.MAA000947.3_9_M.1.1,astrocyte,11
+I11.MAA001853.3_38_F.1.1,endothelial cell,3
+I11.MAA001894.3_39_F.1.1,oligodendrocyte,1
+I12.B003275.3_38_F.1.1,endothelial cell,16
+I12.B003277.3_39_F.1.1,endothelial cell,9
+I12.MAA000560.3_10_M.1.1,endothelial cell,16
+I12.MAA000581.3_10_M.1.1,brain pericyte,3
+I12.MAA000923.3_9_M.1.1,oligodendrocyte,15
+I12.MAA000926.3_9_M.1.1,oligodendrocyte,15
+I12.MAA000942.3_8_M.1.1,oligodendrocyte,15
+I12.MAA000947.3_9_M.1.1,oligodendrocyte,15
+I12.MAA001854.3_38_F.1.1,Bergmann glial cell,5
+I13.B003275.3_38_F.1.1,endothelial cell,2
+I13.MAA000560.3_10_M.1.1,oligodendrocyte,19
+I13.MAA000563.3_10_M.1.1,oligodendrocyte precursor cell,4
+I13.MAA000581.3_10_M.1.1,endothelial cell,16
+I13.MAA000615.3_10_M.1.1,brain pericyte,3
+I13.MAA000641.3_9_M.1.1,neuron,7
+I13.MAA000902.3_11_M.1.1,oligodendrocyte,15
+I13.MAA000930.3_8_M.1.1,oligodendrocyte,15
+I13.MAA000932.3_11_M.1.1,oligodendrocyte,15
+I13.MAA000942.3_8_M.1.1,oligodendrocyte,15
+I13.MAA000944.3_9_M.1.1,oligodendrocyte,15
+I13.MAA001894.3_39_F.1.1,oligodendrocyte,15
+I14.B003275.3_38_F.1.1,brain pericyte,3
+I14.MAA000560.3_10_M.1.1,oligodendrocyte,1
+I14.MAA000926.3_9_M.1.1,endothelial cell,10
+I14.MAA000942.3_8_M.1.1,oligodendrocyte,1
+I14.MAA000944.3_9_M.1.1,neuron,0
+I15.B001688.3_38_F.1.1,oligodendrocyte,15
+I15.B003275.3_38_F.1.1,endothelial cell,16
+I15.MAA000560.3_10_M.1.1,oligodendrocyte,15
+I15.MAA000561.3_10_M.1.1,neuron,0
+I15.MAA000581.3_10_M.1.1,brain pericyte,3
+I15.MAA000638.3_9_M.1.1,neuron,7
+I15.MAA000641.3_9_M.1.1,neuron,7
+I15.MAA000923.3_9_M.1.1,oligodendrocyte,15
+I15.MAA000924.3_8_M.1.1,oligodendrocyte,1
+I15.MAA000926.3_9_M.1.1,oligodendrocyte,15
+I15.MAA000928.3_9_M.1.1,oligodendrocyte,15
+I15.MAA000935.3_8_M.1.1,oligodendrocyte,1
+I15.MAA000944.3_9_M.1.1,brain pericyte,3
+I15.MAA000947.3_9_M.1.1,oligodendrocyte precursor cell,4
+I15.MAA001894.3_39_F.1.1,oligodendrocyte,15
+I16.B000404.3_56_F.1.1,oligodendrocyte,15
+I16.B000621.3_56_F.1.1,neuron,7
+I16.B001688.3_38_F.1.1,oligodendrocyte,12
+I16.MAA000560.3_10_M.1.1,oligodendrocyte,15
+I16.MAA000561.3_10_M.1.1,neuron,0
+I16.MAA000564.3_10_M.1.1,oligodendrocyte,15
+I16.MAA000581.3_10_M.1.1,endothelial cell,2
+I16.MAA000926.3_9_M.1.1,endothelial cell,16
+I16.MAA000935.3_8_M.1.1,oligodendrocyte,1
+I17.MAA000560.3_10_M.1.1,oligodendrocyte,15
+I17.MAA000564.3_10_M.1.1,oligodendrocyte,15
+I17.MAA000581.3_10_M.1.1,neuron,7
+I17.MAA000926.3_9_M.1.1,oligodendrocyte,15
+I17.MAA000935.3_8_M.1.1,oligodendrocyte,15
+I17.MAA000941.3_8_M.1.1,oligodendrocyte,15
+I17.MAA000944.3_9_M.1.1,oligodendrocyte,15
+I18.B003275.3_38_F.1.1,endothelial cell,10
+I18.MAA000560.3_10_M.1.1,oligodendrocyte,15
+I18.MAA000581.3_10_M.1.1,brain pericyte,3
+I18.MAA000924.3_8_M.1.1,neuron,5
+I18.MAA000925.3_9_M.1.1,neuron,19
+I18.MAA000926.3_9_M.1.1,endothelial cell,16
+I18.MAA000947.3_9_M.1.1,oligodendrocyte precursor cell,4
+I18.MAA001894.3_39_F.1.1,oligodendrocyte,15
+I19.MAA000560.3_10_M.1.1,oligodendrocyte,15
+I19.MAA000561.3_10_M.1.1,neuron,0
+I19.MAA000563.3_10_M.1.1,oligodendrocyte,15
+I19.MAA000581.3_10_M.1.1,brain pericyte,3
+I19.MAA000902.3_11_M.1.1,neuron,19
+I19.MAA000923.3_9_M.1.1,astrocyte,11
+I19.MAA000924.3_8_M.1.1,neuron,7
+I19.MAA000926.3_9_M.1.1,oligodendrocyte precursor cell,4
+I2.B003277.3_39_F.1.1,oligodendrocyte,15
+I2.MAA000560.3_10_M.1.1,astrocyte,11
+I2.MAA000581.3_10_M.1.1,oligodendrocyte,15
+I2.MAA000923.3_9_M.1.1,oligodendrocyte,15
+I2.MAA000926.3_9_M.1.1,oligodendrocyte,15
+I2.MAA000930.3_8_M.1.1,oligodendrocyte,15
+I2.MAA000932.3_11_M.1.1,neuron,4
+I2.MAA000941.3_8_M.1.1,oligodendrocyte precursor cell,4
+I2.MAA000942.3_8_M.1.1,oligodendrocyte,14
+I2.MAA000944.3_9_M.1.1,neuron,0
+I2.MAA001894.3_39_F.1.1,astrocyte,11
+I20.B003274.3_38_F.1.1,astrocyte,6
+I20.B003728.3_56_F.1.1,oligodendrocyte,14
+I20.MAA000560.3_10_M.1.1,oligodendrocyte,15
+I20.MAA000561.3_10_M.1.1,brain pericyte,3
+I20.MAA000564.3_10_M.1.1,endothelial cell,16
+I20.MAA000581.3_10_M.1.1,endothelial cell,10
+I20.MAA000641.3_9_M.1.1,oligodendrocyte,15
+I20.MAA000926.3_9_M.1.1,oligodendrocyte,15
+I20.MAA000940.3_8_M.1.1,neuron,0
+I20.MAA000944.3_9_M.1.1,oligodendrocyte,15
+I20.MAA001894.3_39_F.1.1,oligodendrocyte precursor cell,4
+I21.B003275.3_38_F.1.1,endothelial cell,18
+I21.MAA000581.3_10_M.1.1,endothelial cell,2
+I21.MAA000926.3_9_M.1.1,astrocyte,6
+I21.MAA000932.3_11_M.1.1,oligodendrocyte,15
+I21.MAA000935.3_8_M.1.1,oligodendrocyte,1
+I21.MAA000944.3_9_M.1.1,oligodendrocyte,15
+I22.B003277.3_39_F.1.1,oligodendrocyte,9
+I22.MAA000560.3_10_M.1.1,oligodendrocyte,15
+I22.MAA000561.3_10_M.1.1,endothelial cell,16
+I22.MAA000581.3_10_M.1.1,endothelial cell,16
+I22.MAA000926.3_9_M.1.1,astrocyte,11
+I22.MAA000935.3_8_M.1.1,oligodendrocyte,15
+I22.MAA000944.3_9_M.1.1,oligodendrocyte,1
+I22.MAA000947.3_9_M.1.1,astrocyte,11
+I22.MAA001894.3_39_F.1.1,endothelial cell,10
+I3.MAA000560.3_10_M.1.1,oligodendrocyte precursor cell,4
+I3.MAA000923.3_9_M.1.1,oligodendrocyte,15
+I3.MAA000925.3_9_M.1.1,oligodendrocyte,1
+I3.MAA000926.3_9_M.1.1,oligodendrocyte,15
+I3.MAA000932.3_11_M.1.1,endothelial cell,10
+I3.MAA000940.3_8_M.1.1,neuron,0
+I3.MAA000941.3_8_M.1.1,oligodendrocyte,15
+I3.MAA000944.3_9_M.1.1,oligodendrocyte,15
+I3.MAA001853.3_38_F.1.1,endothelial cell,2
+I4.MAA000560.3_10_M.1.1,oligodendrocyte,15
+I4.MAA000563.3_10_M.1.1,oligodendrocyte,15
+I4.MAA000564.3_10_M.1.1,astrocyte,11
+I4.MAA000578.3_10_M.1.1,Bergmann glial cell,19
+I4.MAA000638.3_9_M.1.1,oligodendrocyte,15
+I4.MAA000923.3_9_M.1.1,astrocyte,6
+I4.MAA000926.3_9_M.1.1,oligodendrocyte,15
+I4.MAA000935.3_8_M.1.1,endothelial cell,10
+I4.MAA000940.3_8_M.1.1,neuron,0
+I4.MAA000944.3_9_M.1.1,oligodendrocyte,15
+I5.MAA000560.3_10_M.1.1,oligodendrocyte,15
+I5.MAA000564.3_10_M.1.1,neuron,19
+I5.MAA000923.3_9_M.1.1,oligodendrocyte,15
+I5.MAA000940.3_8_M.1.1,oligodendrocyte,14
+I5.MAA000944.3_9_M.1.1,astrocyte,11
+I5.MAA000947.3_9_M.1.1,astrocyte,11
+I5.MAA001894.3_39_F.1.1,oligodendrocyte,1
+I6.MAA000560.3_10_M.1.1,oligodendrocyte,15
+I6.MAA000564.3_10_M.1.1,brain pericyte,3
+I6.MAA000923.3_9_M.1.1,oligodendrocyte,15
+I6.MAA000932.3_11_M.1.1,oligodendrocyte precursor cell,4
+I6.MAA000935.3_8_M.1.1,oligodendrocyte,15
+I6.MAA000944.3_9_M.1.1,oligodendrocyte precursor cell,4
+I6.MAA001894.3_39_F.1.1,oligodendrocyte,15
+I7.B003728.3_56_F.1.1,astrocyte,11
+I7.MAA000560.3_10_M.1.1,oligodendrocyte,14
+I7.MAA000564.3_10_M.1.1,oligodendrocyte,15
+I7.MAA000638.3_9_M.1.1,oligodendrocyte,1
+I7.MAA000932.3_11_M.1.1,endothelial cell,2
+I7.MAA000935.3_8_M.1.1,oligodendrocyte,15
+I7.MAA000947.3_9_M.1.1,oligodendrocyte,1
+I7.MAA001894.3_39_F.1.1,oligodendrocyte,1
+I8.MAA000560.3_10_M.1.1,oligodendrocyte,15
+I8.MAA000564.3_10_M.1.1,neuron,19
+I8.MAA000615.3_10_M.1.1,oligodendrocyte,15
+I8.MAA000924.3_8_M.1.1,oligodendrocyte,1
+I8.MAA000932.3_11_M.1.1,endothelial cell,16
+I8.MAA000940.3_8_M.1.1,neuron,0
+I8.MAA000942.3_8_M.1.1,oligodendrocyte,15
+I8.MAA000944.3_9_M.1.1,oligodendrocyte,15
+I8.MAA001853.3_38_F.1.1,endothelial cell,10
+I9.B003275.3_38_F.1.1,endothelial cell,16
+I9.MAA000560.3_10_M.1.1,oligodendrocyte,15
+I9.MAA000563.3_10_M.1.1,oligodendrocyte,15
+I9.MAA000564.3_10_M.1.1,oligodendrocyte,15
+I9.MAA000641.3_9_M.1.1,endothelial cell,16
+I9.MAA000926.3_9_M.1.1,oligodendrocyte,1
+I9.MAA000928.3_9_M.1.1,oligodendrocyte,15
+I9.MAA000932.3_11_M.1.1,endothelial cell,16
+I9.MAA000935.3_8_M.1.1,astrocyte,11
+I9.MAA000944.3_9_M.1.1,endothelial cell,16
+I9.MAA000947.3_9_M.1.1,oligodendrocyte,15
+I9.MAA001856.3_39_F.1.1,oligodendrocyte,15
+J1.MAA000932.3_11_M.1.1,brain pericyte,3
+J1.MAA000942.3_8_M.1.1,endothelial cell,16
+J1.MAA000944.3_9_M.1.1,endothelial cell,16
+J1.MAA000947.3_9_M.1.1,oligodendrocyte,1
+J1.MAA001894.3_39_F.1.1,oligodendrocyte precursor cell,4
+J10.B001688.3_38_F.1.1,oligodendrocyte,14
+J10.MAA000560.3_10_M.1.1,oligodendrocyte,1
+J10.MAA000615.3_10_M.1.1,oligodendrocyte,15
+J10.MAA000641.3_9_M.1.1,endothelial cell,2
+J10.MAA000923.3_9_M.1.1,oligodendrocyte,15
+J10.MAA000930.3_8_M.1.1,oligodendrocyte,15
+J10.MAA000932.3_11_M.1.1,brain pericyte,3
+J10.MAA001853.3_38_F.1.1,endothelial cell,2
+J10.MAA001856.3_39_F.1.1,oligodendrocyte precursor cell,4
+J10.MAA001894.3_39_F.1.1,astrocyte,6
+J11.B003277.3_39_F.1.1,oligodendrocyte,9
+J11.MAA000560.3_10_M.1.1,oligodendrocyte,15
+J11.MAA000564.3_10_M.1.1,oligodendrocyte precursor cell,4
+J11.MAA000615.3_10_M.1.1,astrocyte,11
+J11.MAA000923.3_9_M.1.1,oligodendrocyte,15
+J11.MAA000926.3_9_M.1.1,oligodendrocyte,15
+J11.MAA000932.3_11_M.1.1,endothelial cell,2
+J11.MAA000935.3_8_M.1.1,oligodendrocyte,15
+J11.MAA000941.3_8_M.1.1,brain pericyte,18
+J11.MAA000942.3_8_M.1.1,oligodendrocyte,15
+J11.MAA000944.3_9_M.1.1,astrocyte,11
+J11.MAA001894.3_39_F.1.1,oligodendrocyte precursor cell,4
+J12.MAA000560.3_10_M.1.1,oligodendrocyte,15
+J12.MAA000581.3_10_M.1.1,neuron,7
+J12.MAA000641.3_9_M.1.1,astrocyte,8
+J12.MAA000923.3_9_M.1.1,oligodendrocyte,15
+J12.MAA000941.3_8_M.1.1,oligodendrocyte,15
+J12.MAA000942.3_8_M.1.1,neuron,0
+J12.MAA000944.3_9_M.1.1,oligodendrocyte,15
+J12.MAA000947.3_9_M.1.1,oligodendrocyte precursor cell,4
+J13.B001688.3_38_F.1.1,oligodendrocyte,15
+J13.B003274.3_38_F.1.1,oligodendrocyte,0
+J13.MAA000424.3_11_M.1.1,endothelial cell,16
+J13.MAA000550.3_10_M.1.1,astrocyte,6
+J13.MAA000560.3_10_M.1.1,oligodendrocyte,15
+J13.MAA000581.3_10_M.1.1,endothelial cell,2
+J13.MAA000615.3_10_M.1.1,neuron,19
+J13.MAA000923.3_9_M.1.1,oligodendrocyte,15
+J13.MAA000926.3_9_M.1.1,endothelial cell,10
+J13.MAA000941.3_8_M.1.1,brain pericyte,3
+J14.MAA000560.3_10_M.1.1,astrocyte,11
+J14.MAA000581.3_10_M.1.1,endothelial cell,2
+J14.MAA000641.3_9_M.1.1,oligodendrocyte,15
+J14.MAA000925.3_9_M.1.1,oligodendrocyte,15
+J14.MAA000926.3_9_M.1.1,endothelial cell,16
+J14.MAA000941.3_8_M.1.1,endothelial cell,16
+J14.MAA000942.3_8_M.1.1,astrocyte,11
+J14.MAA000947.3_9_M.1.1,neuron,7
+J15.MAA000560.3_10_M.1.1,oligodendrocyte,15
+J15.MAA000561.3_10_M.1.1,neuron,7
+J15.MAA000581.3_10_M.1.1,brain pericyte,3
+J15.MAA000925.3_9_M.1.1,oligodendrocyte,15
+J15.MAA000926.3_9_M.1.1,endothelial cell,16
+J15.MAA000930.3_8_M.1.1,oligodendrocyte,1
+J15.MAA000942.3_8_M.1.1,oligodendrocyte precursor cell,12
+J15.MAA000947.3_9_M.1.1,oligodendrocyte,15
+J15.MAA001894.3_39_F.1.1,oligodendrocyte,15
+J16.B001688.3_38_F.1.1,oligodendrocyte,12
+J16.MAA000560.3_10_M.1.1,oligodendrocyte,15
+J16.MAA000561.3_10_M.1.1,neuron,7
+J16.MAA000564.3_10_M.1.1,endothelial cell,16
+J16.MAA000581.3_10_M.1.1,endothelial cell,2
+J16.MAA000925.3_9_M.1.1,astrocyte,11
+J16.MAA000941.3_8_M.1.1,oligodendrocyte precursor cell,4
+J16.MAA000942.3_8_M.1.1,neuron,0
+J16.MAA000947.3_9_M.1.1,oligodendrocyte,15
+J16.MAA001894.3_39_F.1.1,astrocyte,11
+J17.B003728.3_56_F.1.1,oligodendrocyte,15
+J17.MAA000560.3_10_M.1.1,endothelial cell,2
+J17.MAA000578.3_10_M.1.1,Bergmann glial cell,5
+J17.MAA000581.3_10_M.1.1,oligodendrocyte,17
+J17.MAA000925.3_9_M.1.1,oligodendrocyte,15
+J17.MAA000926.3_9_M.1.1,oligodendrocyte,15
+J17.MAA000935.3_8_M.1.1,oligodendrocyte,15
+J17.MAA000941.3_8_M.1.1,oligodendrocyte,15
+J17.MAA000942.3_8_M.1.1,oligodendrocyte,15
+J17.MAA000944.3_9_M.1.1,endothelial cell,2
+J17.MAA000947.3_9_M.1.1,oligodendrocyte precursor cell,4
+J17.MAA001894.3_39_F.1.1,oligodendrocyte,15
+J18.B001688.3_38_F.1.1,oligodendrocyte,15
+J18.MAA000560.3_10_M.1.1,oligodendrocyte,15
+J18.MAA000561.3_10_M.1.1,brain pericyte,3
+J18.MAA000581.3_10_M.1.1,endothelial cell,2
+J18.MAA000923.3_9_M.1.1,astrocyte,11
+J18.MAA000925.3_9_M.1.1,oligodendrocyte,15
+J18.MAA000926.3_9_M.1.1,oligodendrocyte,1
+J18.MAA000932.3_11_M.1.1,astrocyte,6
+J18.MAA000935.3_8_M.1.1,oligodendrocyte,6
+J18.MAA000942.3_8_M.1.1,oligodendrocyte,15
+J18.MAA000947.3_9_M.1.1,oligodendrocyte,15
+J19.B003277.3_39_F.1.1,oligodendrocyte,9
+J19.MAA000560.3_10_M.1.1,oligodendrocyte,1
+J19.MAA000561.3_10_M.1.1,neuron,19
+J19.MAA000564.3_10_M.1.1,oligodendrocyte,15
+J19.MAA000581.3_10_M.1.1,endothelial cell,2
+J19.MAA000902.3_11_M.1.1,oligodendrocyte,15
+J19.MAA000925.3_9_M.1.1,oligodendrocyte,15
+J19.MAA000935.3_8_M.1.1,oligodendrocyte,9
+J19.MAA001894.3_39_F.1.1,oligodendrocyte,15
+J2.B003277.3_39_F.1.1,oligodendrocyte precursor cell,4
+J2.MAA000560.3_10_M.1.1,oligodendrocyte,1
+J2.MAA000932.3_11_M.1.1,endothelial cell,2
+J2.MAA000944.3_9_M.1.1,oligodendrocyte,15
+J2.MAA001894.3_39_F.1.1,endothelial cell,2
+J20.B003728.3_56_F.1.1,oligodendrocyte,19
+J20.MAA000553.3_10_M.1.1,oligodendrocyte,1
+J20.MAA000560.3_10_M.1.1,oligodendrocyte,15
+J20.MAA000561.3_10_M.1.1,brain pericyte,3
+J20.MAA000564.3_10_M.1.1,oligodendrocyte,15
+J20.MAA000581.3_10_M.1.1,endothelial cell,10
+J20.MAA000925.3_9_M.1.1,oligodendrocyte,15
+J20.MAA000926.3_9_M.1.1,oligodendrocyte,15
+J20.MAA000932.3_11_M.1.1,endothelial cell,2
+J20.MAA000935.3_8_M.1.1,oligodendrocyte,15
+J20.MAA000941.3_8_M.1.1,oligodendrocyte,15
+J20.MAA000944.3_9_M.1.1,astrocyte,11
+J21.MAA000560.3_10_M.1.1,oligodendrocyte,15
+J21.MAA000641.3_9_M.1.1,neuron,7
+J21.MAA000925.3_9_M.1.1,oligodendrocyte,14
+J21.MAA000926.3_9_M.1.1,oligodendrocyte precursor cell,4
+J21.MAA000935.3_8_M.1.1,oligodendrocyte,1
+J21.MAA000944.3_9_M.1.1,oligodendrocyte,15
+J21.MAA000947.3_9_M.1.1,oligodendrocyte precursor cell,4
+J22.B000404.3_56_F.1.1,Bergmann glial cell,11
+J22.MAA000424.3_11_M.1.1,neuron,7
+J22.MAA000560.3_10_M.1.1,astrocyte,11
+J22.MAA000561.3_10_M.1.1,brain pericyte,3
+J22.MAA000564.3_10_M.1.1,oligodendrocyte,15
+J22.MAA000926.3_9_M.1.1,astrocyte,11
+J22.MAA000930.3_8_M.1.1,oligodendrocyte,15
+J22.MAA000944.3_9_M.1.1,astrocyte,11
+J22.MAA001894.3_39_F.1.1,oligodendrocyte,1
+J3.MAA000560.3_10_M.1.1,astrocyte,11
+J3.MAA000615.3_10_M.1.1,oligodendrocyte,15
+J3.MAA000925.3_9_M.1.1,endothelial cell,16
+J3.MAA000932.3_11_M.1.1,endothelial cell,2
+J3.MAA000942.3_8_M.1.1,oligodendrocyte precursor cell,4
+J3.MAA000944.3_9_M.1.1,endothelial cell,6
+J3.MAA001853.3_38_F.1.1,endothelial cell,2
+J3.MAA001894.3_39_F.1.1,astrocyte,11
+J4.B003277.3_39_F.1.1,oligodendrocyte,9
+J4.MAA000560.3_10_M.1.1,oligodendrocyte,15
+J4.MAA000564.3_10_M.1.1,endothelial cell,10
+J4.MAA000615.3_10_M.1.1,oligodendrocyte,12
+J4.MAA000641.3_9_M.1.1,oligodendrocyte,15
+J4.MAA000926.3_9_M.1.1,brain pericyte,3
+J4.MAA000932.3_11_M.1.1,endothelial cell,16
+J4.MAA000941.3_8_M.1.1,oligodendrocyte,15
+J5.B003277.3_39_F.1.1,oligodendrocyte,9
+J5.B003728.3_56_F.1.1,oligodendrocyte,15
+J5.MAA000424.3_11_M.1.1,oligodendrocyte,15
+J5.MAA000560.3_10_M.1.1,oligodendrocyte,15
+J5.MAA000615.3_10_M.1.1,astrocyte,11
+J5.MAA000923.3_9_M.1.1,oligodendrocyte,15
+J5.MAA000926.3_9_M.1.1,neuron,7
+J5.MAA000930.3_8_M.1.1,oligodendrocyte,15
+J5.MAA000932.3_11_M.1.1,endothelial cell,16
+J5.MAA000935.3_8_M.1.1,oligodendrocyte,1
+J5.MAA000940.3_8_M.1.1,neuron,0
+J5.MAA000941.3_8_M.1.1,astrocyte,11
+J5.MAA000944.3_9_M.1.1,endothelial cell,16
+J5.MAA000947.3_9_M.1.1,oligodendrocyte,15
+J5.MAA001894.3_39_F.1.1,oligodendrocyte,14
+J6.MAA000563.3_10_M.1.1,oligodendrocyte,15
+J6.MAA000564.3_10_M.1.1,oligodendrocyte,15
+J6.MAA000615.3_10_M.1.1,oligodendrocyte,15
+J6.MAA000930.3_8_M.1.1,oligodendrocyte,15
+J6.MAA000932.3_11_M.1.1,endothelial cell,16
+J6.MAA000935.3_8_M.1.1,oligodendrocyte,1
+J6.MAA000940.3_8_M.1.1,neuron,0
+J6.MAA000941.3_8_M.1.1,oligodendrocyte,1
+J6.MAA000944.3_9_M.1.1,oligodendrocyte,15
+J6.MAA000947.3_9_M.1.1,neuron,7
+J6.MAA001853.3_38_F.1.1,endothelial cell,16
+J7.MAA000538.3_8_M.1.1,oligodendrocyte,17
+J7.MAA000615.3_10_M.1.1,oligodendrocyte,1
+J7.MAA000926.3_9_M.1.1,oligodendrocyte,15
+J7.MAA000932.3_11_M.1.1,endothelial cell,16
+J7.MAA000935.3_8_M.1.1,oligodendrocyte,15
+J7.MAA000941.3_8_M.1.1,oligodendrocyte,15
+J7.MAA000942.3_8_M.1.1,oligodendrocyte,15
+J7.MAA000944.3_9_M.1.1,oligodendrocyte,15
+J7.MAA001853.3_38_F.1.1,endothelial cell,2
+J8.MAA000560.3_10_M.1.1,astrocyte,11
+J8.MAA000563.3_10_M.1.1,oligodendrocyte,15
+J8.MAA000638.3_9_M.1.1,neuron,7
+J8.MAA000926.3_9_M.1.1,oligodendrocyte,15
+J8.MAA000930.3_8_M.1.1,oligodendrocyte,15
+J8.MAA000932.3_11_M.1.1,endothelial cell,2
+J8.MAA000935.3_8_M.1.1,oligodendrocyte,1
+J8.MAA000942.3_8_M.1.1,oligodendrocyte,15
+J9.MAA000553.3_10_M.1.1,endothelial cell,16
+J9.MAA000560.3_10_M.1.1,oligodendrocyte,15
+J9.MAA000563.3_10_M.1.1,oligodendrocyte,15
+J9.MAA000564.3_10_M.1.1,neuron,0
+J9.MAA000638.3_9_M.1.1,brain pericyte,3
+J9.MAA000902.3_11_M.1.1,astrocyte,11
+J9.MAA000926.3_9_M.1.1,oligodendrocyte,15
+J9.MAA000932.3_11_M.1.1,endothelial cell,2
+J9.MAA000935.3_8_M.1.1,oligodendrocyte,15
+J9.MAA000941.3_8_M.1.1,oligodendrocyte,15
+J9.MAA000944.3_9_M.1.1,oligodendrocyte,15
+J9.MAA001894.3_39_F.1.1,oligodendrocyte precursor cell,4
+K1.MAA000538.3_8_M.1.1,oligodendrocyte,1
+K1.MAA000550.3_10_M.1.1,endothelial cell,2
+K1.MAA000564.3_10_M.1.1,endothelial cell,2
+K1.MAA000923.3_9_M.1.1,oligodendrocyte,15
+K1.MAA000926.3_9_M.1.1,oligodendrocyte,14
+K1.MAA000930.3_8_M.1.1,oligodendrocyte,15
+K1.MAA000941.3_8_M.1.1,oligodendrocyte,15
+K1.MAA000944.3_9_M.1.1,oligodendrocyte,15
+K1.MAA001853.3_38_F.1.1,endothelial cell,16
+K1.MAA001854.3_38_F.1.1,oligodendrocyte,1
+K1.MAA001894.3_39_F.1.1,neuron,4
+K10.B003277.3_39_F.1.1,neuron,7
+K10.MAA000424.3_11_M.1.1,Bergmann glial cell,5
+K10.MAA000553.3_10_M.1.1,endothelial cell,2
+K10.MAA000564.3_10_M.1.1,oligodendrocyte,15
+K10.MAA000615.3_10_M.1.1,oligodendrocyte,15
+K10.MAA000925.3_9_M.1.1,oligodendrocyte,15
+K10.MAA000940.3_8_M.1.1,oligodendrocyte,15
+K10.MAA001894.3_39_F.1.1,oligodendrocyte,15
+K11.MAA000553.3_10_M.1.1,endothelial cell,16
+K11.MAA000560.3_10_M.1.1,astrocyte,11
+K11.MAA000564.3_10_M.1.1,endothelial cell,10
+K11.MAA000578.3_10_M.1.1,oligodendrocyte,15
+K11.MAA000638.3_9_M.1.1,neuron,7
+K11.MAA000641.3_9_M.1.1,Bergmann glial cell,5
+K11.MAA000902.3_11_M.1.1,oligodendrocyte precursor cell,4
+K11.MAA000923.3_9_M.1.1,oligodendrocyte,15
+K11.MAA000928.3_9_M.1.1,oligodendrocyte,15
+K11.MAA000932.3_11_M.1.1,endothelial cell,10
+K11.MAA000941.3_8_M.1.1,oligodendrocyte,15
+K11.MAA000942.3_8_M.1.1,oligodendrocyte,15
+K11.MAA000944.3_9_M.1.1,endothelial cell,16
+K12.B000404.3_56_F.1.1,oligodendrocyte precursor cell,4
+K12.MAA000560.3_10_M.1.1,oligodendrocyte,15
+K12.MAA000581.3_10_M.1.1,endothelial cell,2
+K12.MAA000615.3_10_M.1.1,neuron,0
+K12.MAA000924.3_8_M.1.1,oligodendrocyte,17
+K12.MAA000926.3_9_M.1.1,neuron,7
+K12.MAA000935.3_8_M.1.1,neuron,19
+K12.MAA000941.3_8_M.1.1,endothelial cell,16
+K12.MAA000942.3_8_M.1.1,oligodendrocyte,15
+K12.MAA000944.3_9_M.1.1,oligodendrocyte,15
+K12.MAA000947.3_9_M.1.1,oligodendrocyte precursor cell,4
+K13.MAA000550.3_10_M.1.1,astrocyte,11
+K13.MAA000560.3_10_M.1.1,oligodendrocyte,15
+K13.MAA000564.3_10_M.1.1,endothelial cell,16
+K13.MAA000581.3_10_M.1.1,endothelial cell,2
+K13.MAA000615.3_10_M.1.1,neuron,0
+K13.MAA000638.3_9_M.1.1,oligodendrocyte,9
+K13.MAA000926.3_9_M.1.1,oligodendrocyte,15
+K13.MAA000930.3_8_M.1.1,astrocyte,11
+K13.MAA000935.3_8_M.1.1,oligodendrocyte,15
+K13.MAA000941.3_8_M.1.1,endothelial cell,16
+K13.MAA000942.3_8_M.1.1,neuron,0
+K13.MAA000944.3_9_M.1.1,oligodendrocyte,1
+K13.MAA001894.3_39_F.1.1,oligodendrocyte,15
+K14.B003728.3_56_F.1.1,oligodendrocyte precursor cell,4
+K14.MAA000550.3_10_M.1.1,oligodendrocyte,14
+K14.MAA000560.3_10_M.1.1,astrocyte,11
+K14.MAA000564.3_10_M.1.1,oligodendrocyte,15
+K14.MAA000581.3_10_M.1.1,endothelial cell,2
+K14.MAA000926.3_9_M.1.1,oligodendrocyte,15
+K14.MAA000930.3_8_M.1.1,oligodendrocyte,15
+K14.MAA000932.3_11_M.1.1,brain pericyte,3
+K14.MAA000942.3_8_M.1.1,endothelial cell,2
+K14.MAA001894.3_39_F.1.1,oligodendrocyte,15
+K15.B001688.3_38_F.1.1,endothelial cell,2
+K15.B003728.3_56_F.1.1,oligodendrocyte,1
+K15.MAA000560.3_10_M.1.1,astrocyte,11
+K15.MAA000564.3_10_M.1.1,oligodendrocyte,1
+K15.MAA000581.3_10_M.1.1,endothelial cell,10
+K15.MAA000638.3_9_M.1.1,oligodendrocyte,15
+K15.MAA000902.3_11_M.1.1,oligodendrocyte,15
+K15.MAA000923.3_9_M.1.1,oligodendrocyte,15
+K15.MAA000926.3_9_M.1.1,oligodendrocyte,15
+K15.MAA000928.3_9_M.1.1,oligodendrocyte,17
+K15.MAA000935.3_8_M.1.1,oligodendrocyte,15
+K15.MAA000940.3_8_M.1.1,neuron,0
+K15.MAA000941.3_8_M.1.1,oligodendrocyte precursor cell,4
+K15.MAA000947.3_9_M.1.1,oligodendrocyte precursor cell,4
+K16.B003728.3_56_F.1.1,oligodendrocyte,15
+K16.MAA000560.3_10_M.1.1,oligodendrocyte,15
+K16.MAA000564.3_10_M.1.1,oligodendrocyte,15
+K16.MAA000581.3_10_M.1.1,brain pericyte,3
+K16.MAA000638.3_9_M.1.1,neuron,7
+K16.MAA000923.3_9_M.1.1,oligodendrocyte,15
+K16.MAA000926.3_9_M.1.1,oligodendrocyte,1
+K16.MAA000930.3_8_M.1.1,neuron,7
+K16.MAA000944.3_9_M.1.1,astrocyte,11
+K17.B003728.3_56_F.1.1,oligodendrocyte,1
+K17.MAA000424.3_11_M.1.1,neuron,7
+K17.MAA000560.3_10_M.1.1,oligodendrocyte,15
+K17.MAA000578.3_10_M.1.1,oligodendrocyte,1
+K17.MAA000581.3_10_M.1.1,neuron,18
+K17.MAA000926.3_9_M.1.1,endothelial cell,10
+K17.MAA000940.3_8_M.1.1,oligodendrocyte,15
+K17.MAA000942.3_8_M.1.1,oligodendrocyte,15
+K17.MAA000947.3_9_M.1.1,oligodendrocyte precursor cell,4
+K18.B003274.3_38_F.1.1,astrocyte,11
+K18.B003277.3_39_F.1.1,astrocyte,11
+K18.MAA000560.3_10_M.1.1,oligodendrocyte,15
+K18.MAA000581.3_10_M.1.1,neuron,7
+K18.MAA000941.3_8_M.1.1,endothelial cell,16
+K18.MAA001894.3_39_F.1.1,astrocyte,8
+K19.B003728.3_56_F.1.1,astrocyte,6
+K19.MAA000564.3_10_M.1.1,oligodendrocyte,15
+K19.MAA000581.3_10_M.1.1,endothelial cell,2
+K19.MAA000925.3_9_M.1.1,oligodendrocyte,15
+K19.MAA000926.3_9_M.1.1,oligodendrocyte,15
+K19.MAA000944.3_9_M.1.1,oligodendrocyte,15
+K19.MAA001894.3_39_F.1.1,oligodendrocyte,1
+K2.B003274.3_38_F.1.1,oligodendrocyte,6
+K2.MAA000550.3_10_M.1.1,astrocyte,11
+K2.MAA000560.3_10_M.1.1,oligodendrocyte,15
+K2.MAA000564.3_10_M.1.1,oligodendrocyte,13
+K2.MAA000926.3_9_M.1.1,oligodendrocyte,15
+K2.MAA000932.3_11_M.1.1,endothelial cell,16
+K2.MAA000944.3_9_M.1.1,oligodendrocyte,15
+K20.MAA000560.3_10_M.1.1,astrocyte,11
+K20.MAA000923.3_9_M.1.1,endothelial cell,16
+K20.MAA000926.3_9_M.1.1,oligodendrocyte,15
+K20.MAA000930.3_8_M.1.1,oligodendrocyte,15
+K20.MAA000941.3_8_M.1.1,oligodendrocyte,15
+K20.MAA000947.3_9_M.1.1,oligodendrocyte precursor cell,4
+K21.B000621.3_56_F.1.1,astrocyte,11
+K21.B003277.3_39_F.1.1,oligodendrocyte,6
+K21.MAA000560.3_10_M.1.1,oligodendrocyte,15
+K21.MAA000561.3_10_M.1.1,neuron,7
+K21.MAA000581.3_10_M.1.1,endothelial cell,18
+K21.MAA000923.3_9_M.1.1,oligodendrocyte,1
+K21.MAA000926.3_9_M.1.1,oligodendrocyte,15
+K21.MAA000930.3_8_M.1.1,brain pericyte,3
+K21.MAA000940.3_8_M.1.1,neuron,0
+K21.MAA000941.3_8_M.1.1,endothelial cell,16
+K21.MAA000944.3_9_M.1.1,oligodendrocyte,15
+K21.MAA000947.3_9_M.1.1,oligodendrocyte precursor cell,4
+K22.MAA000560.3_10_M.1.1,astrocyte,11
+K22.MAA000564.3_10_M.1.1,brain pericyte,3
+K22.MAA000926.3_9_M.1.1,astrocyte,6
+K22.MAA000930.3_8_M.1.1,astrocyte,11
+K22.MAA000944.3_9_M.1.1,astrocyte,6
+K22.MAA001894.3_39_F.1.1,astrocyte,11
+K3.MAA000538.3_8_M.1.1,oligodendrocyte,1
+K3.MAA000560.3_10_M.1.1,oligodendrocyte,13
+K3.MAA000564.3_10_M.1.1,endothelial cell,16
+K3.MAA000926.3_9_M.1.1,astrocyte,11
+K3.MAA000932.3_11_M.1.1,endothelial cell,2
+K3.MAA000940.3_8_M.1.1,oligodendrocyte,15
+K3.MAA000944.3_9_M.1.1,astrocyte,11
+K4.B003277.3_39_F.1.1,astrocyte,6
+K4.MAA000560.3_10_M.1.1,oligodendrocyte,15
+K4.MAA000563.3_10_M.1.1,oligodendrocyte precursor cell,4
+K4.MAA000615.3_10_M.1.1,oligodendrocyte,15
+K4.MAA000923.3_9_M.1.1,oligodendrocyte,15
+K4.MAA000925.3_9_M.1.1,oligodendrocyte,15
+K4.MAA000926.3_9_M.1.1,oligodendrocyte,15
+K4.MAA000932.3_11_M.1.1,endothelial cell,10
+K4.MAA000940.3_8_M.1.1,astrocyte,11
+K4.MAA000942.3_8_M.1.1,oligodendrocyte,15
+K4.MAA000944.3_9_M.1.1,astrocyte,19
+K5.MAA000560.3_10_M.1.1,oligodendrocyte,15
+K5.MAA000926.3_9_M.1.1,astrocyte,11
+K5.MAA000930.3_8_M.1.1,oligodendrocyte,15
+K5.MAA000932.3_11_M.1.1,endothelial cell,10
+K6.MAA000560.3_10_M.1.1,astrocyte,11
+K6.MAA000615.3_10_M.1.1,neuron,19
+K6.MAA000638.3_9_M.1.1,neuron,7
+K6.MAA000924.3_8_M.1.1,endothelial cell,2
+K6.MAA000926.3_9_M.1.1,oligodendrocyte,15
+K6.MAA000932.3_11_M.1.1,endothelial cell,16
+K6.MAA000935.3_8_M.1.1,oligodendrocyte,15
+K6.MAA000940.3_8_M.1.1,neuron,0
+K6.MAA000942.3_8_M.1.1,oligodendrocyte,15
+K6.MAA000944.3_9_M.1.1,oligodendrocyte,6
+K7.MAA000560.3_10_M.1.1,oligodendrocyte,15
+K7.MAA000615.3_10_M.1.1,oligodendrocyte,15
+K7.MAA000926.3_9_M.1.1,astrocyte,11
+K7.MAA000932.3_11_M.1.1,endothelial cell,16
+K7.MAA000935.3_8_M.1.1,astrocyte,11
+K7.MAA000944.3_9_M.1.1,oligodendrocyte,15
+K7.MAA000947.3_9_M.1.1,neuron,7
+K8.MAA000560.3_10_M.1.1,astrocyte,11
+K8.MAA000564.3_10_M.1.1,oligodendrocyte,15
+K8.MAA000615.3_10_M.1.1,oligodendrocyte,15
+K8.MAA000638.3_9_M.1.1,oligodendrocyte,19
+K8.MAA000926.3_9_M.1.1,oligodendrocyte,15
+K8.MAA000932.3_11_M.1.1,endothelial cell,16
+K8.MAA000935.3_8_M.1.1,oligodendrocyte,15
+K8.MAA000941.3_8_M.1.1,oligodendrocyte,15
+K8.MAA000944.3_9_M.1.1,oligodendrocyte,1
+K9.B003274.3_38_F.1.1,astrocyte,11
+K9.B003277.3_39_F.1.1,oligodendrocyte,9
+K9.MAA000563.3_10_M.1.1,astrocyte,11
+K9.MAA000564.3_10_M.1.1,oligodendrocyte,15
+K9.MAA000615.3_10_M.1.1,oligodendrocyte,15
+K9.MAA000923.3_9_M.1.1,oligodendrocyte,15
+K9.MAA000924.3_8_M.1.1,Bergmann glial cell,5
+K9.MAA000926.3_9_M.1.1,oligodendrocyte,15
+K9.MAA000941.3_8_M.1.1,oligodendrocyte,15
+K9.MAA000942.3_8_M.1.1,oligodendrocyte,15
+K9.MAA001894.3_39_F.1.1,oligodendrocyte,15
+L1.B003728.3_56_F.1.1,oligodendrocyte,1
+L1.MAA000930.3_8_M.1.1,astrocyte,19
+L1.MAA000932.3_11_M.1.1,brain pericyte,3
+L10.B001688.3_38_F.1.1,astrocyte,11
+L10.MAA000560.3_10_M.1.1,oligodendrocyte,15
+L10.MAA000564.3_10_M.1.1,brain pericyte,3
+L10.MAA000581.3_10_M.1.1,endothelial cell,16
+L10.MAA000615.3_10_M.1.1,oligodendrocyte,1
+L10.MAA000923.3_9_M.1.1,oligodendrocyte,15
+L10.MAA000926.3_9_M.1.1,oligodendrocyte,15
+L10.MAA000932.3_11_M.1.1,endothelial cell,10
+L10.MAA000935.3_8_M.1.1,oligodendrocyte,15
+L10.MAA000940.3_8_M.1.1,oligodendrocyte,1
+L10.MAA001894.3_39_F.1.1,astrocyte,11
+L11.MAA000553.3_10_M.1.1,endothelial cell,16
+L11.MAA000560.3_10_M.1.1,astrocyte,11
+L11.MAA000615.3_10_M.1.1,endothelial cell,2
+L11.MAA000932.3_11_M.1.1,endothelial cell,16
+L11.MAA000935.3_8_M.1.1,oligodendrocyte,15
+L11.MAA000940.3_8_M.1.1,oligodendrocyte,15
+L11.MAA000942.3_8_M.1.1,oligodendrocyte,15
+L11.MAA000944.3_9_M.1.1,oligodendrocyte,15
+L11.MAA000947.3_9_M.1.1,astrocyte,11
+L11.MAA001894.3_39_F.1.1,astrocyte,11
+L12.MAA000560.3_10_M.1.1,oligodendrocyte,15
+L12.MAA000563.3_10_M.1.1,oligodendrocyte,15
+L12.MAA000578.3_10_M.1.1,oligodendrocyte,15
+L12.MAA000581.3_10_M.1.1,brain pericyte,3
+L12.MAA000615.3_10_M.1.1,neuron,19
+L12.MAA000923.3_9_M.1.1,endothelial cell,10
+L12.MAA000926.3_9_M.1.1,endothelial cell,16
+L12.MAA000940.3_8_M.1.1,neuron,7
+L12.MAA000942.3_8_M.1.1,oligodendrocyte,15
+L12.MAA000944.3_9_M.1.1,oligodendrocyte,1
+L12.MAA001854.3_38_F.1.1,Bergmann glial cell,5
+L13.B001688.3_38_F.1.1,oligodendrocyte precursor cell,4
+L13.MAA000560.3_10_M.1.1,oligodendrocyte,14
+L13.MAA000564.3_10_M.1.1,oligodendrocyte,1
+L13.MAA000615.3_10_M.1.1,endothelial cell,10
+L13.MAA000638.3_9_M.1.1,neuron,7
+L13.MAA000923.3_9_M.1.1,oligodendrocyte,15
+L13.MAA000926.3_9_M.1.1,astrocyte,11
+L13.MAA000930.3_8_M.1.1,astrocyte,11
+L13.MAA000935.3_8_M.1.1,astrocyte,11
+L13.MAA000942.3_8_M.1.1,oligodendrocyte,15
+L13.MAA000947.3_9_M.1.1,oligodendrocyte,1
+L13.MAA001894.3_39_F.1.1,astrocyte,11
+L14.B003274.3_38_F.1.1,oligodendrocyte,1
+L14.MAA000424.3_11_M.1.1,neuron,7
+L14.MAA000560.3_10_M.1.1,astrocyte,11
+L14.MAA000581.3_10_M.1.1,endothelial cell,16
+L14.MAA000641.3_9_M.1.1,Bergmann glial cell,5
+L14.MAA000926.3_9_M.1.1,oligodendrocyte,15
+L14.MAA000928.3_9_M.1.1,oligodendrocyte,15
+L14.MAA000930.3_8_M.1.1,oligodendrocyte,15
+L14.MAA000935.3_8_M.1.1,oligodendrocyte,15
+L14.MAA000944.3_9_M.1.1,astrocyte,11
+L14.MAA000947.3_9_M.1.1,oligodendrocyte precursor cell,4
+L15.B001688.3_38_F.1.1,oligodendrocyte,15
+L15.B003277.3_39_F.1.1,oligodendrocyte,4
+L15.MAA000560.3_10_M.1.1,astrocyte,11
+L15.MAA000641.3_9_M.1.1,oligodendrocyte,13
+L15.MAA000930.3_8_M.1.1,oligodendrocyte,15
+L15.MAA000942.3_8_M.1.1,oligodendrocyte,15
+L15.MAA000947.3_9_M.1.1,oligodendrocyte,15
+L16.MAA000560.3_10_M.1.1,oligodendrocyte,15
+L16.MAA000561.3_10_M.1.1,brain pericyte,3
+L16.MAA000564.3_10_M.1.1,oligodendrocyte,15
+L16.MAA000581.3_10_M.1.1,endothelial cell,2
+L16.MAA000638.3_9_M.1.1,oligodendrocyte,1
+L16.MAA000641.3_9_M.1.1,oligodendrocyte,15
+L16.MAA000942.3_8_M.1.1,oligodendrocyte,15
+L16.MAA000944.3_9_M.1.1,astrocyte,11
+L17.MAA000424.3_11_M.1.1,endothelial cell,2
+L17.MAA000560.3_10_M.1.1,oligodendrocyte,1
+L17.MAA000561.3_10_M.1.1,endothelial cell,2
+L17.MAA000581.3_10_M.1.1,endothelial cell,16
+L17.MAA000923.3_9_M.1.1,endothelial cell,10
+L17.MAA000926.3_9_M.1.1,endothelial cell,10
+L17.MAA000935.3_8_M.1.1,endothelial cell,16
+L17.MAA000941.3_8_M.1.1,oligodendrocyte,15
+L17.MAA001894.3_39_F.1.1,oligodendrocyte precursor cell,4
+L18.B003277.3_39_F.1.1,oligodendrocyte,9
+L18.MAA000560.3_10_M.1.1,oligodendrocyte precursor cell,4
+L18.MAA000564.3_10_M.1.1,oligodendrocyte,15
+L18.MAA000581.3_10_M.1.1,neuron,7
+L18.MAA000641.3_9_M.1.1,oligodendrocyte precursor cell,4
+L18.MAA000926.3_9_M.1.1,endothelial cell,2
+L18.MAA000928.3_9_M.1.1,oligodendrocyte,17
+L18.MAA000942.3_8_M.1.1,oligodendrocyte,1
+L18.MAA000947.3_9_M.1.1,endothelial cell,10
+L19.MAA000550.3_10_M.1.1,astrocyte,11
+L19.MAA000560.3_10_M.1.1,oligodendrocyte,1
+L19.MAA000581.3_10_M.1.1,endothelial cell,16
+L19.MAA000638.3_9_M.1.1,oligodendrocyte,1
+L19.MAA000926.3_9_M.1.1,oligodendrocyte,15
+L19.MAA000947.3_9_M.1.1,oligodendrocyte precursor cell,4
+L2.B003277.3_39_F.1.1,oligodendrocyte,9
+L2.MAA000560.3_10_M.1.1,oligodendrocyte,15
+L2.MAA000563.3_10_M.1.1,astrocyte,11
+L2.MAA000564.3_10_M.1.1,astrocyte,6
+L2.MAA000926.3_9_M.1.1,oligodendrocyte,15
+L2.MAA000932.3_11_M.1.1,endothelial cell,16
+L2.MAA000942.3_8_M.1.1,oligodendrocyte,15
+L2.MAA000944.3_9_M.1.1,oligodendrocyte,17
+L2.MAA000947.3_9_M.1.1,oligodendrocyte,15
+L2.MAA001894.3_39_F.1.1,astrocyte,11
+L20.B000621.3_56_F.1.1,oligodendrocyte,12
+L20.MAA000560.3_10_M.1.1,oligodendrocyte,15
+L20.MAA000581.3_10_M.1.1,endothelial cell,18
+L20.MAA000641.3_9_M.1.1,oligodendrocyte,14
+L20.MAA000902.3_11_M.1.1,oligodendrocyte,15
+L20.MAA000926.3_9_M.1.1,endothelial cell,2
+L20.MAA000947.3_9_M.1.1,oligodendrocyte,15
+L20.MAA001894.3_39_F.1.1,oligodendrocyte,15
+L21.B000621.3_56_F.1.1,oligodendrocyte,15
+L21.MAA000424.3_11_M.1.1,endothelial cell,2
+L21.MAA000553.3_10_M.1.1,oligodendrocyte,1
+L21.MAA000560.3_10_M.1.1,astrocyte,11
+L21.MAA000561.3_10_M.1.1,neuron,0
+L21.MAA000581.3_10_M.1.1,endothelial cell,16
+L21.MAA000925.3_9_M.1.1,oligodendrocyte,15
+L21.MAA000930.3_8_M.1.1,oligodendrocyte,15
+L21.MAA000932.3_11_M.1.1,oligodendrocyte,1
+L22.MAA000424.3_11_M.1.1,endothelial cell,16
+L22.MAA000560.3_10_M.1.1,astrocyte,11
+L22.MAA000563.3_10_M.1.1,oligodendrocyte precursor cell,4
+L22.MAA000581.3_10_M.1.1,endothelial cell,16
+L22.MAA000638.3_9_M.1.1,oligodendrocyte,13
+L22.MAA000641.3_9_M.1.1,neuron,7
+L22.MAA000926.3_9_M.1.1,oligodendrocyte,15
+L22.MAA000941.3_8_M.1.1,endothelial cell,16
+L22.MAA001894.3_39_F.1.1,oligodendrocyte,15
+L3.B003274.3_38_F.1.1,oligodendrocyte precursor cell,4
+L3.MAA000563.3_10_M.1.1,oligodendrocyte precursor cell,4
+L3.MAA000564.3_10_M.1.1,oligodendrocyte,15
+L3.MAA000615.3_10_M.1.1,neuron,19
+L3.MAA000932.3_11_M.1.1,brain pericyte,3
+L3.MAA000944.3_9_M.1.1,oligodendrocyte,15
+L4.B003274.3_38_F.1.1,oligodendrocyte,9
+L4.MAA000560.3_10_M.1.1,astrocyte,11
+L4.MAA000563.3_10_M.1.1,oligodendrocyte,14
+L4.MAA000564.3_10_M.1.1,oligodendrocyte,15
+L4.MAA000926.3_9_M.1.1,oligodendrocyte,15
+L4.MAA000932.3_11_M.1.1,oligodendrocyte precursor cell,4
+L4.MAA000942.3_8_M.1.1,endothelial cell,16
+L4.MAA000944.3_9_M.1.1,astrocyte,11
+L5.B003277.3_39_F.1.1,oligodendrocyte precursor cell,4
+L5.MAA000560.3_10_M.1.1,oligodendrocyte,15
+L5.MAA000638.3_9_M.1.1,neuron,7
+L5.MAA000902.3_11_M.1.1,oligodendrocyte,15
+L5.MAA000926.3_9_M.1.1,endothelial cell,16
+L5.MAA000932.3_11_M.1.1,endothelial cell,10
+L5.MAA000935.3_8_M.1.1,oligodendrocyte,1
+L5.MAA000941.3_8_M.1.1,oligodendrocyte,15
+L5.MAA000942.3_8_M.1.1,oligodendrocyte precursor cell,4
+L5.MAA000944.3_9_M.1.1,astrocyte,11
+L5.MAA000947.3_9_M.1.1,astrocyte,11
+L5.MAA001894.3_39_F.1.1,oligodendrocyte,15
+L6.B003277.3_39_F.1.1,oligodendrocyte,9
+L6.MAA000560.3_10_M.1.1,oligodendrocyte,15
+L6.MAA000578.3_10_M.1.1,oligodendrocyte,15
+L6.MAA000615.3_10_M.1.1,oligodendrocyte,15
+L6.MAA000641.3_9_M.1.1,oligodendrocyte,17
+L6.MAA000926.3_9_M.1.1,oligodendrocyte,15
+L6.MAA000942.3_8_M.1.1,oligodendrocyte,15
+L6.MAA000944.3_9_M.1.1,oligodendrocyte,15
+L6.MAA001894.3_39_F.1.1,oligodendrocyte,14
+L7.B003728.3_56_F.1.1,astrocyte,6
+L7.MAA000538.3_8_M.1.1,oligodendrocyte,1
+L7.MAA000560.3_10_M.1.1,oligodendrocyte,15
+L7.MAA000638.3_9_M.1.1,neuron,7
+L7.MAA000926.3_9_M.1.1,astrocyte,11
+L7.MAA000932.3_11_M.1.1,endothelial cell,10
+L7.MAA000935.3_8_M.1.1,oligodendrocyte,15
+L7.MAA000941.3_8_M.1.1,oligodendrocyte,1
+L7.MAA000942.3_8_M.1.1,oligodendrocyte precursor cell,4
+L7.MAA000944.3_9_M.1.1,astrocyte,11
+L7.MAA001894.3_39_F.1.1,astrocyte,11
+L8.MAA000424.3_11_M.1.1,Bergmann glial cell,11
+L8.MAA000561.3_10_M.1.1,neuron,0
+L8.MAA000564.3_10_M.1.1,oligodendrocyte,15
+L8.MAA000615.3_10_M.1.1,oligodendrocyte,15
+L8.MAA000641.3_9_M.1.1,endothelial cell,16
+L8.MAA000923.3_9_M.1.1,endothelial cell,16
+L8.MAA000926.3_9_M.1.1,oligodendrocyte,15
+L8.MAA000930.3_8_M.1.1,oligodendrocyte,15
+L8.MAA000932.3_11_M.1.1,brain pericyte,3
+L8.MAA000944.3_9_M.1.1,oligodendrocyte,15
+L8.MAA000947.3_9_M.1.1,oligodendrocyte,1
+L9.MAA000560.3_10_M.1.1,oligodendrocyte,15
+L9.MAA000932.3_11_M.1.1,endothelial cell,16
+L9.MAA000941.3_8_M.1.1,oligodendrocyte,15
+L9.MAA000942.3_8_M.1.1,neuron,19
+L9.MAA000944.3_9_M.1.1,brain pericyte,3
+L9.MAA001894.3_39_F.1.1,oligodendrocyte precursor cell,4
+M1.B003728.3_56_F.1.1,oligodendrocyte,6
+M1.MAA000560.3_10_M.1.1,oligodendrocyte,15
+M1.MAA000563.3_10_M.1.1,astrocyte,11
+M1.MAA000578.3_10_M.1.1,oligodendrocyte,15
+M1.MAA000926.3_9_M.1.1,astrocyte,11
+M1.MAA000928.3_9_M.1.1,Bergmann glial cell,5
+M1.MAA000930.3_8_M.1.1,oligodendrocyte,15
+M1.MAA000932.3_11_M.1.1,endothelial cell,16
+M1.MAA001894.3_39_F.1.1,astrocyte,11
+M10.MAA000560.3_10_M.1.1,oligodendrocyte,15
+M10.MAA000564.3_10_M.1.1,astrocyte,8
+M10.MAA000581.3_10_M.1.1,oligodendrocyte,15
+M10.MAA000615.3_10_M.1.1,astrocyte,11
+M10.MAA000923.3_9_M.1.1,oligodendrocyte,1
+M10.MAA000926.3_9_M.1.1,oligodendrocyte,15
+M10.MAA000932.3_11_M.1.1,endothelial cell,10
+M10.MAA000941.3_8_M.1.1,oligodendrocyte,15
+M10.MAA000947.3_9_M.1.1,oligodendrocyte,15
+M10.MAA001894.3_39_F.1.1,astrocyte,11
+M11.B003277.3_39_F.1.1,oligodendrocyte,15
+M11.MAA000553.3_10_M.1.1,endothelial cell,10
+M11.MAA000560.3_10_M.1.1,oligodendrocyte,15
+M11.MAA000925.3_9_M.1.1,oligodendrocyte,1
+M11.MAA000926.3_9_M.1.1,oligodendrocyte,15
+M11.MAA000935.3_8_M.1.1,oligodendrocyte,15
+M11.MAA000940.3_8_M.1.1,neuron,0
+M11.MAA000941.3_8_M.1.1,oligodendrocyte,15
+M11.MAA000942.3_8_M.1.1,oligodendrocyte precursor cell,4
+M11.MAA000947.3_9_M.1.1,oligodendrocyte,15
+M11.MAA001854.3_38_F.1.1,neuron,7
+M11.MAA001894.3_39_F.1.1,endothelial cell,10
+M12.B003277.3_39_F.1.1,oligodendrocyte,9
+M12.MAA000560.3_10_M.1.1,oligodendrocyte,15
+M12.MAA000561.3_10_M.1.1,neuron,7
+M12.MAA000581.3_10_M.1.1,brain pericyte,3
+M12.MAA000935.3_8_M.1.1,oligodendrocyte,15
+M12.MAA000940.3_8_M.1.1,oligodendrocyte,15
+M12.MAA000942.3_8_M.1.1,oligodendrocyte,15
+M12.MAA001894.3_39_F.1.1,oligodendrocyte,15
+M13.B003728.3_56_F.1.1,astrocyte,11
+M13.MAA000550.3_10_M.1.1,oligodendrocyte,15
+M13.MAA000563.3_10_M.1.1,astrocyte,11
+M13.MAA000581.3_10_M.1.1,endothelial cell,2
+M13.MAA000638.3_9_M.1.1,neuron,7
+M13.MAA000641.3_9_M.1.1,oligodendrocyte,15
+M13.MAA000926.3_9_M.1.1,astrocyte,11
+M13.MAA000940.3_8_M.1.1,neuron,0
+M13.MAA000942.3_8_M.1.1,oligodendrocyte,15
+M13.MAA001856.3_39_F.1.1,oligodendrocyte precursor cell,4
+M14.MAA000561.3_10_M.1.1,brain pericyte,3
+M14.MAA000564.3_10_M.1.1,oligodendrocyte,15
+M14.MAA000581.3_10_M.1.1,endothelial cell,16
+M14.MAA000615.3_10_M.1.1,neuron,19
+M14.MAA000902.3_11_M.1.1,oligodendrocyte,14
+M14.MAA000926.3_9_M.1.1,oligodendrocyte,15
+M14.MAA000930.3_8_M.1.1,oligodendrocyte,15
+M14.MAA000941.3_8_M.1.1,oligodendrocyte precursor cell,4
+M14.MAA000942.3_8_M.1.1,endothelial cell,16
+M14.MAA001894.3_39_F.1.1,astrocyte,11
+M15.B003728.3_56_F.1.1,oligodendrocyte,9
+M15.MAA000560.3_10_M.1.1,astrocyte,11
+M15.MAA000561.3_10_M.1.1,brain pericyte,3
+M15.MAA000638.3_9_M.1.1,neuron,7
+M15.MAA000902.3_11_M.1.1,oligodendrocyte,15
+M15.MAA000923.3_9_M.1.1,astrocyte,11
+M15.MAA000926.3_9_M.1.1,neuron,7
+M15.MAA000940.3_8_M.1.1,oligodendrocyte,15
+M15.MAA000941.3_8_M.1.1,oligodendrocyte,15
+M15.MAA000942.3_8_M.1.1,oligodendrocyte,15
+M16.B003728.3_56_F.1.1,oligodendrocyte,9
+M16.MAA000560.3_10_M.1.1,oligodendrocyte,15
+M16.MAA000561.3_10_M.1.1,endothelial cell,16
+M16.MAA000564.3_10_M.1.1,endothelial cell,2
+M16.MAA000581.3_10_M.1.1,endothelial cell,2
+M16.MAA000925.3_9_M.1.1,astrocyte,11
+M16.MAA000926.3_9_M.1.1,astrocyte,11
+M16.MAA000932.3_11_M.1.1,astrocyte,6
+M16.MAA000935.3_8_M.1.1,neuron,7
+M16.MAA000941.3_8_M.1.1,endothelial cell,2
+M16.MAA000942.3_8_M.1.1,oligodendrocyte,15
+M16.MAA001894.3_39_F.1.1,oligodendrocyte,1
+M17.MAA000560.3_10_M.1.1,oligodendrocyte,15
+M17.MAA000564.3_10_M.1.1,oligodendrocyte precursor cell,4
+M17.MAA000581.3_10_M.1.1,endothelial cell,2
+M17.MAA000926.3_9_M.1.1,endothelial cell,16
+M17.MAA000940.3_8_M.1.1,oligodendrocyte,12
+M17.MAA000942.3_8_M.1.1,oligodendrocyte,15
+M17.MAA000947.3_9_M.1.1,oligodendrocyte precursor cell,4
+M17.MAA001894.3_39_F.1.1,neuron,7
+M18.B003277.3_39_F.1.1,oligodendrocyte,6
+M18.B003728.3_56_F.1.1,oligodendrocyte,6
+M18.MAA000424.3_11_M.1.1,endothelial cell,18
+M18.MAA000564.3_10_M.1.1,oligodendrocyte,15
+M18.MAA000581.3_10_M.1.1,neuron,7
+M18.MAA000902.3_11_M.1.1,oligodendrocyte precursor cell,4
+M18.MAA000923.3_9_M.1.1,oligodendrocyte,15
+M18.MAA000925.3_9_M.1.1,oligodendrocyte,1
+M18.MAA000926.3_9_M.1.1,endothelial cell,2
+M18.MAA000940.3_8_M.1.1,neuron,0
+M18.MAA001894.3_39_F.1.1,endothelial cell,2
+M19.B001688.3_38_F.1.1,oligodendrocyte,15
+M19.B003277.3_39_F.1.1,oligodendrocyte precursor cell,2
+M19.MAA000560.3_10_M.1.1,astrocyte,11
+M19.MAA000561.3_10_M.1.1,neuron,0
+M19.MAA000578.3_10_M.1.1,oligodendrocyte,15
+M19.MAA000581.3_10_M.1.1,endothelial cell,2
+M19.MAA000638.3_9_M.1.1,neuron,7
+M19.MAA000641.3_9_M.1.1,neuron,7
+M19.MAA000925.3_9_M.1.1,oligodendrocyte,15
+M19.MAA000932.3_11_M.1.1,oligodendrocyte precursor cell,4
+M19.MAA000941.3_8_M.1.1,endothelial cell,16
+M19.MAA000947.3_9_M.1.1,oligodendrocyte,15
+M19.MAA001894.3_39_F.1.1,oligodendrocyte,15
+M2.MAA000560.3_10_M.1.1,oligodendrocyte,15
+M2.MAA000902.3_11_M.1.1,oligodendrocyte,15
+M2.MAA000930.3_8_M.1.1,oligodendrocyte,15
+M2.MAA000932.3_11_M.1.1,endothelial cell,10
+M2.MAA000941.3_8_M.1.1,oligodendrocyte,15
+M2.MAA000942.3_8_M.1.1,oligodendrocyte,15
+M2.MAA001894.3_39_F.1.1,astrocyte,11
+M20.MAA000553.3_10_M.1.1,oligodendrocyte,15
+M20.MAA000560.3_10_M.1.1,astrocyte,11
+M20.MAA000561.3_10_M.1.1,neuron,7
+M20.MAA000564.3_10_M.1.1,oligodendrocyte,15
+M20.MAA000581.3_10_M.1.1,endothelial cell,10
+M20.MAA000925.3_9_M.1.1,oligodendrocyte,15
+M20.MAA000926.3_9_M.1.1,oligodendrocyte,1
+M20.MAA000930.3_8_M.1.1,oligodendrocyte,15
+M20.MAA000940.3_8_M.1.1,oligodendrocyte,15
+M20.MAA000947.3_9_M.1.1,oligodendrocyte,15
+M20.MAA001894.3_39_F.1.1,astrocyte,11
+M21.B000404.3_56_F.1.1,oligodendrocyte,4
+M21.B000621.3_56_F.1.1,oligodendrocyte,12
+M21.B003728.3_56_F.1.1,oligodendrocyte,15
+M21.MAA000424.3_11_M.1.1,brain pericyte,3
+M21.MAA000550.3_10_M.1.1,oligodendrocyte,14
+M21.MAA000553.3_10_M.1.1,oligodendrocyte,1
+M21.MAA000560.3_10_M.1.1,oligodendrocyte,15
+M21.MAA000561.3_10_M.1.1,endothelial cell,16
+M21.MAA000564.3_10_M.1.1,oligodendrocyte,15
+M21.MAA000581.3_10_M.1.1,neuron,7
+M21.MAA000925.3_9_M.1.1,oligodendrocyte,15
+M21.MAA000926.3_9_M.1.1,astrocyte,11
+M21.MAA000930.3_8_M.1.1,oligodendrocyte precursor cell,4
+M21.MAA000932.3_11_M.1.1,endothelial cell,16
+M21.MAA001894.3_39_F.1.1,brain pericyte,3
+M22.B003728.3_56_F.1.1,oligodendrocyte,9
+M22.MAA000560.3_10_M.1.1,oligodendrocyte,15
+M22.MAA000561.3_10_M.1.1,brain pericyte,3
+M22.MAA000638.3_9_M.1.1,neuron,7
+M22.MAA000926.3_9_M.1.1,brain pericyte,3
+M22.MAA000930.3_8_M.1.1,endothelial cell,16
+M22.MAA000947.3_9_M.1.1,endothelial cell,10
+M3.MAA000560.3_10_M.1.1,oligodendrocyte,15
+M3.MAA000564.3_10_M.1.1,brain pericyte,3
+M3.MAA000581.3_10_M.1.1,oligodendrocyte,15
+M3.MAA000641.3_9_M.1.1,oligodendrocyte,17
+M3.MAA000923.3_9_M.1.1,oligodendrocyte,15
+M3.MAA000932.3_11_M.1.1,brain pericyte,3
+M3.MAA001894.3_39_F.1.1,oligodendrocyte,15
+M4.MAA000560.3_10_M.1.1,oligodendrocyte,15
+M4.MAA000564.3_10_M.1.1,oligodendrocyte precursor cell,4
+M4.MAA000581.3_10_M.1.1,oligodendrocyte,15
+M4.MAA000615.3_10_M.1.1,oligodendrocyte,1
+M4.MAA000926.3_9_M.1.1,endothelial cell,16
+M4.MAA000932.3_11_M.1.1,endothelial cell,16
+M4.MAA000935.3_8_M.1.1,astrocyte,6
+M4.MAA000941.3_8_M.1.1,oligodendrocyte,15
+M4.MAA000947.3_9_M.1.1,brain pericyte,3
+M4.MAA001894.3_39_F.1.1,oligodendrocyte,14
+M5.MAA000560.3_10_M.1.1,oligodendrocyte precursor cell,4
+M5.MAA000564.3_10_M.1.1,endothelial cell,16
+M5.MAA000641.3_9_M.1.1,oligodendrocyte,5
+M5.MAA000926.3_9_M.1.1,astrocyte,11
+M5.MAA000932.3_11_M.1.1,endothelial cell,10
+M5.MAA000935.3_8_M.1.1,oligodendrocyte precursor cell,4
+M6.B003274.3_38_F.1.1,oligodendrocyte,1
+M6.MAA000560.3_10_M.1.1,oligodendrocyte,19
+M6.MAA000563.3_10_M.1.1,oligodendrocyte,9
+M6.MAA000564.3_10_M.1.1,oligodendrocyte,15
+M6.MAA000615.3_10_M.1.1,oligodendrocyte,15
+M6.MAA000902.3_11_M.1.1,oligodendrocyte precursor cell,4
+M6.MAA000926.3_9_M.1.1,astrocyte,11
+M6.MAA000932.3_11_M.1.1,brain pericyte,3
+M6.MAA000940.3_8_M.1.1,neuron,0
+M6.MAA000942.3_8_M.1.1,astrocyte,6
+M6.MAA001894.3_39_F.1.1,endothelial cell,10
+M7.MAA000563.3_10_M.1.1,oligodendrocyte,15
+M7.MAA000564.3_10_M.1.1,astrocyte,11
+M7.MAA000578.3_10_M.1.1,Bergmann glial cell,5
+M7.MAA000615.3_10_M.1.1,oligodendrocyte,15
+M7.MAA000926.3_9_M.1.1,oligodendrocyte,15
+M7.MAA000928.3_9_M.1.1,oligodendrocyte,15
+M7.MAA000932.3_11_M.1.1,brain pericyte,3
+M7.MAA000947.3_9_M.1.1,oligodendrocyte,15
+M8.MAA000560.3_10_M.1.1,oligodendrocyte,15
+M8.MAA000564.3_10_M.1.1,astrocyte,11
+M8.MAA000615.3_10_M.1.1,oligodendrocyte,15
+M8.MAA000923.3_9_M.1.1,oligodendrocyte,15
+M8.MAA000926.3_9_M.1.1,astrocyte,11
+M8.MAA000932.3_11_M.1.1,endothelial cell,16
+M8.MAA000940.3_8_M.1.1,astrocyte,11
+M8.MAA000942.3_8_M.1.1,neuron,0
+M9.MAA000560.3_10_M.1.1,oligodendrocyte,15
+M9.MAA000902.3_11_M.1.1,oligodendrocyte,1
+M9.MAA000926.3_9_M.1.1,oligodendrocyte,15
+M9.MAA000932.3_11_M.1.1,endothelial cell,10
+M9.MAA000935.3_8_M.1.1,oligodendrocyte,15
+M9.MAA000941.3_8_M.1.1,oligodendrocyte,15
+M9.MAA000942.3_8_M.1.1,oligodendrocyte,15
+N1.MAA000560.3_10_M.1.1,oligodendrocyte,1
+N1.MAA000581.3_10_M.1.1,oligodendrocyte,15
+N1.MAA000641.3_9_M.1.1,oligodendrocyte,17
+N1.MAA000926.3_9_M.1.1,oligodendrocyte,1
+N1.MAA000930.3_8_M.1.1,oligodendrocyte,15
+N1.MAA000932.3_11_M.1.1,endothelial cell,16
+N1.MAA000942.3_8_M.1.1,oligodendrocyte,15
+N10.B001688.3_38_F.1.1,astrocyte,8
+N10.MAA000553.3_10_M.1.1,endothelial cell,16
+N10.MAA000560.3_10_M.1.1,oligodendrocyte,15
+N10.MAA000581.3_10_M.1.1,brain pericyte,3
+N10.MAA000638.3_9_M.1.1,neuron,7
+N10.MAA000926.3_9_M.1.1,oligodendrocyte,15
+N10.MAA000932.3_11_M.1.1,endothelial cell,10
+N11.B000404.3_56_F.1.1,oligodendrocyte,15
+N11.MAA000550.3_10_M.1.1,oligodendrocyte,15
+N11.MAA000553.3_10_M.1.1,endothelial cell,10
+N11.MAA000560.3_10_M.1.1,astrocyte,11
+N11.MAA000564.3_10_M.1.1,endothelial cell,10
+N11.MAA000578.3_10_M.1.1,neuron,7
+N11.MAA000923.3_9_M.1.1,oligodendrocyte precursor cell,4
+N11.MAA000930.3_8_M.1.1,oligodendrocyte,15
+N11.MAA000932.3_11_M.1.1,endothelial cell,2
+N11.MAA000947.3_9_M.1.1,oligodendrocyte,15
+N11.MAA001856.3_39_F.1.1,oligodendrocyte,15
+N12.B001688.3_38_F.1.1,oligodendrocyte,15
+N12.MAA000560.3_10_M.1.1,astrocyte,11
+N12.MAA000561.3_10_M.1.1,endothelial cell,16
+N12.MAA000564.3_10_M.1.1,oligodendrocyte,15
+N12.MAA000581.3_10_M.1.1,endothelial cell,2
+N12.MAA000928.3_9_M.1.1,Bergmann glial cell,5
+N12.MAA000932.3_11_M.1.1,oligodendrocyte,1
+N12.MAA000935.3_8_M.1.1,astrocyte,11
+N12.MAA000942.3_8_M.1.1,oligodendrocyte,15
+N13.B003728.3_56_F.1.1,astrocyte,11
+N13.MAA000550.3_10_M.1.1,astrocyte,6
+N13.MAA000553.3_10_M.1.1,brain pericyte,3
+N13.MAA000564.3_10_M.1.1,oligodendrocyte,15
+N13.MAA000581.3_10_M.1.1,endothelial cell,10
+N13.MAA000615.3_10_M.1.1,brain pericyte,3
+N13.MAA000925.3_9_M.1.1,astrocyte,9
+N13.MAA000926.3_9_M.1.1,astrocyte,11
+N13.MAA000935.3_8_M.1.1,oligodendrocyte,15
+N13.MAA000941.3_8_M.1.1,endothelial cell,16
+N13.MAA000942.3_8_M.1.1,oligodendrocyte,15
+N13.MAA000947.3_9_M.1.1,astrocyte,11
+N14.MAA000560.3_10_M.1.1,oligodendrocyte,15
+N14.MAA000581.3_10_M.1.1,endothelial cell,2
+N14.MAA000925.3_9_M.1.1,oligodendrocyte,15
+N14.MAA000926.3_9_M.1.1,endothelial cell,16
+N14.MAA000928.3_9_M.1.1,neuron,7
+N14.MAA000930.3_8_M.1.1,oligodendrocyte,15
+N14.MAA000942.3_8_M.1.1,oligodendrocyte,14
+N14.MAA001856.3_39_F.1.1,oligodendrocyte precursor cell,4
+N14.MAA001894.3_39_F.1.1,astrocyte,11
+N15.B003728.3_56_F.1.1,oligodendrocyte,9
+N15.MAA000553.3_10_M.1.1,oligodendrocyte precursor cell,4
+N15.MAA000560.3_10_M.1.1,astrocyte,11
+N15.MAA000578.3_10_M.1.1,oligodendrocyte,15
+N15.MAA000581.3_10_M.1.1,endothelial cell,16
+N15.MAA000926.3_9_M.1.1,oligodendrocyte,15
+N15.MAA000928.3_9_M.1.1,oligodendrocyte,15
+N15.MAA000935.3_8_M.1.1,astrocyte,11
+N15.MAA000940.3_8_M.1.1,oligodendrocyte,15
+N15.MAA000942.3_8_M.1.1,oligodendrocyte,15
+N15.MAA000944.3_9_M.1.1,astrocyte,11
+N15.MAA000947.3_9_M.1.1,oligodendrocyte,15
+N16.MAA000564.3_10_M.1.1,oligodendrocyte,14
+N16.MAA000581.3_10_M.1.1,endothelial cell,16
+N16.MAA000641.3_9_M.1.1,oligodendrocyte,15
+N16.MAA000923.3_9_M.1.1,oligodendrocyte,14
+N16.MAA000925.3_9_M.1.1,oligodendrocyte,15
+N16.MAA000926.3_9_M.1.1,endothelial cell,16
+N16.MAA000941.3_8_M.1.1,oligodendrocyte precursor cell,4
+N17.B003277.3_39_F.1.1,oligodendrocyte,12
+N17.MAA000560.3_10_M.1.1,astrocyte,11
+N17.MAA000564.3_10_M.1.1,brain pericyte,3
+N17.MAA000581.3_10_M.1.1,endothelial cell,16
+N17.MAA000925.3_9_M.1.1,astrocyte,11
+N17.MAA001894.3_39_F.1.1,oligodendrocyte,15
+N18.B003277.3_39_F.1.1,oligodendrocyte,9
+N18.MAA000560.3_10_M.1.1,astrocyte,11
+N18.MAA000561.3_10_M.1.1,oligodendrocyte,13
+N18.MAA000564.3_10_M.1.1,endothelial cell,18
+N18.MAA000581.3_10_M.1.1,endothelial cell,16
+N18.MAA000923.3_9_M.1.1,oligodendrocyte,15
+N18.MAA000926.3_9_M.1.1,oligodendrocyte,15
+N18.MAA000928.3_9_M.1.1,endothelial cell,16
+N18.MAA000942.3_8_M.1.1,oligodendrocyte,15
+N18.MAA000944.3_9_M.1.1,oligodendrocyte,15
+N19.B003728.3_56_F.1.1,oligodendrocyte,9
+N19.MAA000560.3_10_M.1.1,astrocyte,11
+N19.MAA000563.3_10_M.1.1,oligodendrocyte,15
+N19.MAA000581.3_10_M.1.1,neuron,7
+N19.MAA000638.3_9_M.1.1,oligodendrocyte,1
+N19.MAA000923.3_9_M.1.1,oligodendrocyte,15
+N19.MAA000944.3_9_M.1.1,oligodendrocyte,15
+N19.MAA000947.3_9_M.1.1,oligodendrocyte precursor cell,4
+N19.MAA001854.3_38_F.1.1,oligodendrocyte,1
+N19.MAA001894.3_39_F.1.1,oligodendrocyte,15
+N2.B003728.3_56_F.1.1,oligodendrocyte,9
+N2.MAA000560.3_10_M.1.1,astrocyte,11
+N2.MAA000564.3_10_M.1.1,endothelial cell,2
+N2.MAA000641.3_9_M.1.1,oligodendrocyte,17
+N2.MAA000923.3_9_M.1.1,oligodendrocyte,15
+N2.MAA000932.3_11_M.1.1,endothelial cell,16
+N2.MAA001894.3_39_F.1.1,oligodendrocyte,1
+N20.MAA000561.3_10_M.1.1,neuron,7
+N20.MAA000578.3_10_M.1.1,oligodendrocyte,15
+N20.MAA000581.3_10_M.1.1,endothelial cell,10
+N20.MAA000925.3_9_M.1.1,astrocyte,1
+N20.MAA000935.3_8_M.1.1,oligodendrocyte,15
+N20.MAA000940.3_8_M.1.1,oligodendrocyte,15
+N20.MAA000947.3_9_M.1.1,oligodendrocyte,15
+N20.MAA001894.3_39_F.1.1,astrocyte,11
+N21.MAA000560.3_10_M.1.1,oligodendrocyte,1
+N21.MAA000561.3_10_M.1.1,endothelial cell,2
+N21.MAA000564.3_10_M.1.1,endothelial cell,18
+N21.MAA000581.3_10_M.1.1,endothelial cell,2
+N21.MAA000641.3_9_M.1.1,oligodendrocyte,15
+N21.MAA000923.3_9_M.1.1,oligodendrocyte,15
+N21.MAA000926.3_9_M.1.1,oligodendrocyte,15
+N21.MAA000930.3_8_M.1.1,oligodendrocyte,15
+N21.MAA000941.3_8_M.1.1,oligodendrocyte,12
+N21.MAA000947.3_9_M.1.1,oligodendrocyte,15
+N22.MAA000424.3_11_M.1.1,endothelial cell,2
+N22.MAA000560.3_10_M.1.1,oligodendrocyte,15
+N22.MAA000561.3_10_M.1.1,neuron,7
+N22.MAA000564.3_10_M.1.1,oligodendrocyte,15
+N22.MAA000581.3_10_M.1.1,endothelial cell,2
+N22.MAA000923.3_9_M.1.1,astrocyte,11
+N22.MAA000926.3_9_M.1.1,endothelial cell,2
+N22.MAA000930.3_8_M.1.1,endothelial cell,16
+N22.MAA000941.3_8_M.1.1,endothelial cell,2
+N22.MAA000947.3_9_M.1.1,oligodendrocyte,15
+N22.MAA001856.3_39_F.1.1,oligodendrocyte,1
+N3.B003728.3_56_F.1.1,astrocyte,19
+N3.MAA000560.3_10_M.1.1,oligodendrocyte,15
+N3.MAA000563.3_10_M.1.1,oligodendrocyte,15
+N3.MAA000564.3_10_M.1.1,oligodendrocyte precursor cell,4
+N3.MAA000641.3_9_M.1.1,endothelial cell,2
+N3.MAA000902.3_11_M.1.1,oligodendrocyte precursor cell,4
+N3.MAA000923.3_9_M.1.1,oligodendrocyte,15
+N3.MAA000932.3_11_M.1.1,oligodendrocyte,13
+N3.MAA000935.3_8_M.1.1,oligodendrocyte,15
+N3.MAA000941.3_8_M.1.1,oligodendrocyte,15
+N3.MAA000942.3_8_M.1.1,oligodendrocyte,1
+N3.MAA001894.3_39_F.1.1,oligodendrocyte precursor cell,12
+N4.MAA000550.3_10_M.1.1,astrocyte,11
+N4.MAA000560.3_10_M.1.1,oligodendrocyte,15
+N4.MAA000902.3_11_M.1.1,oligodendrocyte,15
+N4.MAA000928.3_9_M.1.1,oligodendrocyte,17
+N4.MAA000932.3_11_M.1.1,oligodendrocyte precursor cell,4
+N4.MAA000940.3_8_M.1.1,neuron,0
+N4.MAA000941.3_8_M.1.1,oligodendrocyte,15
+N4.MAA000942.3_8_M.1.1,oligodendrocyte,15
+N4.MAA000947.3_9_M.1.1,oligodendrocyte,15
+N4.MAA001894.3_39_F.1.1,oligodendrocyte,15
+N5.B003728.3_56_F.1.1,oligodendrocyte,15
+N5.MAA000560.3_10_M.1.1,oligodendrocyte precursor cell,4
+N5.MAA000563.3_10_M.1.1,oligodendrocyte,9
+N5.MAA000564.3_10_M.1.1,endothelial cell,16
+N5.MAA000581.3_10_M.1.1,Bergmann glial cell,5
+N5.MAA000615.3_10_M.1.1,astrocyte,11
+N5.MAA000641.3_9_M.1.1,oligodendrocyte,15
+N5.MAA000926.3_9_M.1.1,astrocyte,11
+N5.MAA000930.3_8_M.1.1,oligodendrocyte,15
+N5.MAA000932.3_11_M.1.1,endothelial cell,2
+N5.MAA000935.3_8_M.1.1,oligodendrocyte,15
+N5.MAA001854.3_38_F.1.1,oligodendrocyte,17
+N6.MAA000560.3_10_M.1.1,oligodendrocyte,15
+N6.MAA000564.3_10_M.1.1,endothelial cell,10
+N6.MAA000578.3_10_M.1.1,neuron,7
+N6.MAA000926.3_9_M.1.1,oligodendrocyte,1
+N6.MAA000928.3_9_M.1.1,Bergmann glial cell,5
+N6.MAA000932.3_11_M.1.1,endothelial cell,10
+N6.MAA000941.3_8_M.1.1,oligodendrocyte precursor cell,4
+N6.MAA000947.3_9_M.1.1,oligodendrocyte,15
+N6.MAA001894.3_39_F.1.1,oligodendrocyte,1
+N7.MAA000560.3_10_M.1.1,oligodendrocyte,15
+N7.MAA000563.3_10_M.1.1,oligodendrocyte,15
+N7.MAA000615.3_10_M.1.1,oligodendrocyte,15
+N7.MAA000638.3_9_M.1.1,neuron,7
+N7.MAA000926.3_9_M.1.1,oligodendrocyte,15
+N7.MAA000935.3_8_M.1.1,astrocyte,11
+N7.MAA000941.3_8_M.1.1,oligodendrocyte,15
+N7.MAA000942.3_8_M.1.1,oligodendrocyte precursor cell,4
+N7.MAA001894.3_39_F.1.1,oligodendrocyte,1
+N8.B000621.3_56_F.1.1,astrocyte,6
+N8.B003274.3_38_F.1.1,astrocyte,11
+N8.MAA000560.3_10_M.1.1,oligodendrocyte,15
+N8.MAA000564.3_10_M.1.1,oligodendrocyte,15
+N8.MAA000902.3_11_M.1.1,oligodendrocyte precursor cell,4
+N8.MAA000926.3_9_M.1.1,neuron,7
+N8.MAA000928.3_9_M.1.1,neuron,17
+N8.MAA000932.3_11_M.1.1,endothelial cell,10
+N8.MAA000935.3_8_M.1.1,oligodendrocyte precursor cell,4
+N8.MAA000941.3_8_M.1.1,astrocyte,11
+N9.MAA000560.3_10_M.1.1,oligodendrocyte,15
+N9.MAA000615.3_10_M.1.1,oligodendrocyte,15
+N9.MAA000641.3_9_M.1.1,oligodendrocyte,17
+N9.MAA000923.3_9_M.1.1,astrocyte,11
+N9.MAA000926.3_9_M.1.1,astrocyte,11
+N9.MAA000932.3_11_M.1.1,oligodendrocyte,19
+N9.MAA000935.3_8_M.1.1,oligodendrocyte,1
+N9.MAA000942.3_8_M.1.1,oligodendrocyte,1
+O1.MAA000560.3_10_M.1.1,astrocyte,19
+O1.MAA000563.3_10_M.1.1,oligodendrocyte,1
+O1.MAA000564.3_10_M.1.1,oligodendrocyte,1
+O1.MAA000926.3_9_M.1.1,astrocyte,11
+O1.MAA000932.3_11_M.1.1,endothelial cell,16
+O1.MAA000944.3_9_M.1.1,endothelial cell,2
+O1.MAA001894.3_39_F.1.1,oligodendrocyte,1
+O10.MAA000424.3_11_M.1.1,oligodendrocyte,15
+O10.MAA000553.3_10_M.1.1,endothelial cell,2
+O10.MAA000560.3_10_M.1.1,oligodendrocyte,15
+O10.MAA000641.3_9_M.1.1,oligodendrocyte precursor cell,4
+O10.MAA000930.3_8_M.1.1,oligodendrocyte,14
+O10.MAA000932.3_11_M.1.1,endothelial cell,16
+O11.B000404.3_56_F.1.1,Bergmann glial cell,5
+O11.MAA000550.3_10_M.1.1,oligodendrocyte,15
+O11.MAA000553.3_10_M.1.1,brain pericyte,3
+O11.MAA000560.3_10_M.1.1,oligodendrocyte,15
+O11.MAA000564.3_10_M.1.1,endothelial cell,10
+O11.MAA000930.3_8_M.1.1,oligodendrocyte,15
+O11.MAA000932.3_11_M.1.1,endothelial cell,2
+O11.MAA000935.3_8_M.1.1,endothelial cell,16
+O11.MAA000940.3_8_M.1.1,oligodendrocyte,14
+O12.B000621.3_56_F.1.1,oligodendrocyte,1
+O12.B003274.3_38_F.1.1,oligodendrocyte,14
+O12.MAA000560.3_10_M.1.1,oligodendrocyte,15
+O12.MAA000564.3_10_M.1.1,oligodendrocyte,15
+O12.MAA000581.3_10_M.1.1,brain pericyte,3
+O12.MAA000926.3_9_M.1.1,endothelial cell,16
+O12.MAA001894.3_39_F.1.1,oligodendrocyte,1
+O13.MAA000561.3_10_M.1.1,neuron,0
+O13.MAA000581.3_10_M.1.1,endothelial cell,10
+O13.MAA000941.3_8_M.1.1,endothelial cell,16
+O13.MAA000947.3_9_M.1.1,endothelial cell,10
+O14.MAA000538.3_8_M.1.1,oligodendrocyte,15
+O14.MAA000560.3_10_M.1.1,oligodendrocyte,15
+O14.MAA000581.3_10_M.1.1,endothelial cell,16
+O14.MAA000923.3_9_M.1.1,endothelial cell,10
+O14.MAA000926.3_9_M.1.1,oligodendrocyte,6
+O14.MAA000942.3_8_M.1.1,astrocyte,11
+O14.MAA000947.3_9_M.1.1,oligodendrocyte,15
+O15.B001688.3_38_F.1.1,oligodendrocyte,1
+O15.MAA000560.3_10_M.1.1,astrocyte,1
+O15.MAA000561.3_10_M.1.1,neuron,19
+O15.MAA000564.3_10_M.1.1,endothelial cell,16
+O15.MAA000581.3_10_M.1.1,endothelial cell,2
+O15.MAA000923.3_9_M.1.1,oligodendrocyte,1
+O15.MAA000926.3_9_M.1.1,astrocyte,6
+O15.MAA000930.3_8_M.1.1,astrocyte,11
+O15.MAA000941.3_8_M.1.1,oligodendrocyte,15
+O15.MAA000947.3_9_M.1.1,oligodendrocyte,1
+O16.MAA000561.3_10_M.1.1,endothelial cell,16
+O16.MAA000564.3_10_M.1.1,astrocyte,11
+O16.MAA000581.3_10_M.1.1,endothelial cell,2
+O16.MAA000926.3_9_M.1.1,astrocyte,11
+O16.MAA000928.3_9_M.1.1,Bergmann glial cell,11
+O16.MAA000941.3_8_M.1.1,endothelial cell,10
+O16.MAA000942.3_8_M.1.1,oligodendrocyte,14
+O16.MAA000947.3_9_M.1.1,oligodendrocyte precursor cell,4
+O16.MAA001894.3_39_F.1.1,astrocyte,11
+O17.B003274.3_38_F.1.1,oligodendrocyte,1
+O17.MAA000560.3_10_M.1.1,astrocyte,6
+O17.MAA000561.3_10_M.1.1,oligodendrocyte,15
+O17.MAA000564.3_10_M.1.1,astrocyte,11
+O17.MAA000581.3_10_M.1.1,endothelial cell,2
+O17.MAA000926.3_9_M.1.1,astrocyte,6
+O17.MAA000935.3_8_M.1.1,oligodendrocyte,15
+O17.MAA000942.3_8_M.1.1,neuron,0
+O17.MAA001894.3_39_F.1.1,oligodendrocyte precursor cell,4
+O18.B000404.3_56_F.1.1,Bergmann glial cell,5
+O18.MAA000553.3_10_M.1.1,endothelial cell,2
+O18.MAA000560.3_10_M.1.1,oligodendrocyte,15
+O18.MAA000561.3_10_M.1.1,endothelial cell,2
+O18.MAA000581.3_10_M.1.1,endothelial cell,16
+O18.MAA000926.3_9_M.1.1,astrocyte,11
+O18.MAA000940.3_8_M.1.1,oligodendrocyte,12
+O18.MAA000941.3_8_M.1.1,oligodendrocyte,15
+O18.MAA001894.3_39_F.1.1,oligodendrocyte,15
+O19.B000404.3_56_F.1.1,Bergmann glial cell,5
+O19.MAA000538.3_8_M.1.1,oligodendrocyte,1
+O19.MAA000560.3_10_M.1.1,astrocyte,11
+O19.MAA000561.3_10_M.1.1,neuron,7
+O19.MAA000581.3_10_M.1.1,endothelial cell,2
+O19.MAA000923.3_9_M.1.1,astrocyte,11
+O19.MAA000925.3_9_M.1.1,oligodendrocyte,15
+O19.MAA000926.3_9_M.1.1,endothelial cell,16
+O19.MAA000930.3_8_M.1.1,oligodendrocyte,15
+O19.MAA000941.3_8_M.1.1,brain pericyte,3
+O2.MAA000560.3_10_M.1.1,oligodendrocyte,1
+O2.MAA000581.3_10_M.1.1,endothelial cell,16
+O2.MAA000641.3_9_M.1.1,Bergmann glial cell,5
+O2.MAA000926.3_9_M.1.1,astrocyte,11
+O2.MAA001894.3_39_F.1.1,oligodendrocyte,15
+O20.MAA000424.3_11_M.1.1,endothelial cell,10
+O20.MAA000560.3_10_M.1.1,oligodendrocyte,15
+O20.MAA000561.3_10_M.1.1,brain pericyte,3
+O20.MAA000581.3_10_M.1.1,brain pericyte,3
+O20.MAA000923.3_9_M.1.1,oligodendrocyte,15
+O20.MAA000926.3_9_M.1.1,endothelial cell,10
+O20.MAA000935.3_8_M.1.1,astrocyte,6
+O20.MAA000941.3_8_M.1.1,oligodendrocyte,15
+O20.MAA001894.3_39_F.1.1,astrocyte,11
+O21.MAA000424.3_11_M.1.1,neuron,7
+O21.MAA000550.3_10_M.1.1,astrocyte,11
+O21.MAA000553.3_10_M.1.1,oligodendrocyte precursor cell,4
+O21.MAA000560.3_10_M.1.1,oligodendrocyte,15
+O21.MAA000561.3_10_M.1.1,brain pericyte,3
+O21.MAA000564.3_10_M.1.1,endothelial cell,10
+O21.MAA000581.3_10_M.1.1,endothelial cell,16
+O21.MAA000923.3_9_M.1.1,oligodendrocyte,15
+O22.B003277.3_39_F.1.1,oligodendrocyte,9
+O22.MAA000560.3_10_M.1.1,astrocyte,6
+O22.MAA000561.3_10_M.1.1,brain pericyte,3
+O22.MAA000563.3_10_M.1.1,oligodendrocyte,15
+O22.MAA000578.3_10_M.1.1,oligodendrocyte,15
+O22.MAA000581.3_10_M.1.1,endothelial cell,10
+O22.MAA000926.3_9_M.1.1,astrocyte,11
+O22.MAA000930.3_8_M.1.1,endothelial cell,2
+O22.MAA001894.3_39_F.1.1,astrocyte,11
+O3.MAA000550.3_10_M.1.1,oligodendrocyte,15
+O3.MAA000563.3_10_M.1.1,oligodendrocyte,15
+O3.MAA000564.3_10_M.1.1,endothelial cell,18
+O3.MAA000932.3_11_M.1.1,endothelial cell,16
+O3.MAA000935.3_8_M.1.1,oligodendrocyte,15
+O3.MAA000941.3_8_M.1.1,oligodendrocyte,15
+O3.MAA000942.3_8_M.1.1,oligodendrocyte precursor cell,4
+O3.MAA000947.3_9_M.1.1,oligodendrocyte,12
+O4.B000404.3_56_F.1.1,astrocyte,6
+O4.MAA000560.3_10_M.1.1,oligodendrocyte,15
+O4.MAA000564.3_10_M.1.1,oligodendrocyte,15
+O4.MAA000926.3_9_M.1.1,oligodendrocyte,15
+O4.MAA000932.3_11_M.1.1,endothelial cell,2
+O4.MAA000941.3_8_M.1.1,oligodendrocyte,15
+O4.MAA001894.3_39_F.1.1,oligodendrocyte,15
+O5.B001688.3_38_F.1.1,oligodendrocyte,15
+O5.MAA000560.3_10_M.1.1,astrocyte,11
+O5.MAA000930.3_8_M.1.1,oligodendrocyte,15
+O6.B000404.3_56_F.1.1,oligodendrocyte precursor cell,4
+O6.B003277.3_39_F.1.1,oligodendrocyte,9
+O6.MAA000560.3_10_M.1.1,oligodendrocyte,19
+O6.MAA000578.3_10_M.1.1,oligodendrocyte,15
+O6.MAA000581.3_10_M.1.1,endothelial cell,10
+O6.MAA000615.3_10_M.1.1,oligodendrocyte,1
+O6.MAA000926.3_9_M.1.1,oligodendrocyte,15
+O6.MAA000930.3_8_M.1.1,astrocyte,11
+O6.MAA000932.3_11_M.1.1,brain pericyte,3
+O6.MAA000942.3_8_M.1.1,neuron,0
+O6.MAA001894.3_39_F.1.1,astrocyte,6
+O7.B001688.3_38_F.1.1,astrocyte,11
+O7.MAA000560.3_10_M.1.1,oligodendrocyte,15
+O7.MAA000563.3_10_M.1.1,oligodendrocyte,1
+O7.MAA000641.3_9_M.1.1,oligodendrocyte,17
+O7.MAA000902.3_11_M.1.1,oligodendrocyte,15
+O7.MAA000923.3_9_M.1.1,oligodendrocyte,15
+O7.MAA000932.3_11_M.1.1,endothelial cell,10
+O7.MAA000942.3_8_M.1.1,oligodendrocyte precursor cell,4
+O8.MAA000560.3_10_M.1.1,oligodendrocyte,15
+O8.MAA000581.3_10_M.1.1,oligodendrocyte,15
+O8.MAA000641.3_9_M.1.1,oligodendrocyte,15
+O8.MAA000925.3_9_M.1.1,oligodendrocyte,15
+O8.MAA000926.3_9_M.1.1,oligodendrocyte,15
+O8.MAA000930.3_8_M.1.1,oligodendrocyte,15
+O8.MAA000932.3_11_M.1.1,brain pericyte,3
+O8.MAA000935.3_8_M.1.1,oligodendrocyte precursor cell,4
+O8.MAA000947.3_9_M.1.1,astrocyte,11
+O8.MAA001894.3_39_F.1.1,oligodendrocyte,1
+O9.B001688.3_38_F.1.1,oligodendrocyte,1
+O9.B003728.3_56_F.1.1,oligodendrocyte,15
+O9.MAA000560.3_10_M.1.1,neuron,7
+O9.MAA000564.3_10_M.1.1,oligodendrocyte,1
+O9.MAA000926.3_9_M.1.1,astrocyte,11
+O9.MAA000932.3_11_M.1.1,endothelial cell,16
+O9.MAA000940.3_8_M.1.1,oligodendrocyte,15
+O9.MAA000942.3_8_M.1.1,oligodendrocyte,15
+O9.MAA000947.3_9_M.1.1,astrocyte,11
+O9.MAA001894.3_39_F.1.1,oligodendrocyte precursor cell,4
+P1.B003277.3_39_F.1.1,oligodendrocyte,15
+P1.B003728.3_56_F.1.1,oligodendrocyte,1
+P1.MAA000560.3_10_M.1.1,astrocyte,6
+P1.MAA000581.3_10_M.1.1,endothelial cell,2
+P1.MAA000930.3_8_M.1.1,oligodendrocyte,1
+P1.MAA000932.3_11_M.1.1,endothelial cell,10
+P1.MAA000940.3_8_M.1.1,oligodendrocyte,1
+P1.MAA001894.3_39_F.1.1,endothelial cell,10
+P10.B001688.3_38_F.1.1,oligodendrocyte precursor cell,4
+P10.MAA000553.3_10_M.1.1,endothelial cell,16
+P10.MAA000926.3_9_M.1.1,oligodendrocyte precursor cell,4
+P10.MAA000930.3_8_M.1.1,oligodendrocyte,1
+P10.MAA000932.3_11_M.1.1,brain pericyte,3
+P10.MAA000942.3_8_M.1.1,neuron,0
+P10.MAA001854.3_38_F.1.1,oligodendrocyte,1
+P10.MAA001894.3_39_F.1.1,oligodendrocyte,1
+P11.B001688.3_38_F.1.1,oligodendrocyte,1
+P11.MAA000560.3_10_M.1.1,oligodendrocyte,1
+P11.MAA000563.3_10_M.1.1,brain pericyte,3
+P11.MAA000564.3_10_M.1.1,endothelial cell,18
+P11.MAA000581.3_10_M.1.1,brain pericyte,3
+P11.MAA000923.3_9_M.1.1,oligodendrocyte,1
+P11.MAA000942.3_8_M.1.1,oligodendrocyte,15
+P11.MAA000947.3_9_M.1.1,oligodendrocyte,15
+P12.MAA000560.3_10_M.1.1,astrocyte,11
+P12.MAA000561.3_10_M.1.1,brain pericyte,3
+P12.MAA000564.3_10_M.1.1,oligodendrocyte,15
+P12.MAA000581.3_10_M.1.1,endothelial cell,16
+P12.MAA000925.3_9_M.1.1,oligodendrocyte,1
+P12.MAA000941.3_8_M.1.1,oligodendrocyte,1
+P12.MAA000942.3_8_M.1.1,astrocyte,11
+P12.MAA001894.3_39_F.1.1,oligodendrocyte precursor cell,4
+P13.MAA000560.3_10_M.1.1,astrocyte,11
+P13.MAA000581.3_10_M.1.1,endothelial cell,2
+P13.MAA000615.3_10_M.1.1,neuron,19
+P13.MAA000926.3_9_M.1.1,oligodendrocyte,15
+P13.MAA000930.3_8_M.1.1,oligodendrocyte,15
+P13.MAA000932.3_11_M.1.1,oligodendrocyte,1
+P13.MAA000940.3_8_M.1.1,oligodendrocyte,1
+P13.MAA000942.3_8_M.1.1,oligodendrocyte,15
+P13.MAA000947.3_9_M.1.1,oligodendrocyte,15
+P14.B003728.3_56_F.1.1,oligodendrocyte,15
+P14.MAA000553.3_10_M.1.1,oligodendrocyte precursor cell,4
+P14.MAA000560.3_10_M.1.1,brain pericyte,3
+P14.MAA000561.3_10_M.1.1,brain pericyte,3
+P14.MAA000578.3_10_M.1.1,oligodendrocyte,15
+P14.MAA000581.3_10_M.1.1,oligodendrocyte,19
+P14.MAA000615.3_10_M.1.1,neuron,19
+P14.MAA000926.3_9_M.1.1,oligodendrocyte,15
+P14.MAA000928.3_9_M.1.1,oligodendrocyte,15
+P14.MAA000935.3_8_M.1.1,oligodendrocyte,15
+P14.MAA000942.3_8_M.1.1,oligodendrocyte,15
+P14.MAA000947.3_9_M.1.1,endothelial cell,16
+P14.MAA001894.3_39_F.1.1,oligodendrocyte,1
+P15.MAA000424.3_11_M.1.1,endothelial cell,2
+P15.MAA000560.3_10_M.1.1,oligodendrocyte,15
+P15.MAA000561.3_10_M.1.1,neuron,7
+P15.MAA000581.3_10_M.1.1,brain pericyte,3
+P15.MAA000925.3_9_M.1.1,oligodendrocyte,15
+P15.MAA000926.3_9_M.1.1,endothelial cell,10
+P15.MAA000941.3_8_M.1.1,oligodendrocyte precursor cell,4
+P15.MAA000942.3_8_M.1.1,endothelial cell,2
+P15.MAA001894.3_39_F.1.1,oligodendrocyte,1
+P16.MAA000560.3_10_M.1.1,astrocyte,11
+P16.MAA000561.3_10_M.1.1,brain pericyte,3
+P16.MAA000564.3_10_M.1.1,oligodendrocyte,15
+P16.MAA000581.3_10_M.1.1,brain pericyte,3
+P16.MAA000926.3_9_M.1.1,oligodendrocyte,15
+P17.MAA000560.3_10_M.1.1,astrocyte,11
+P17.MAA000561.3_10_M.1.1,neuron,0
+P17.MAA000581.3_10_M.1.1,brain pericyte,3
+P17.MAA000641.3_9_M.1.1,oligodendrocyte precursor cell,4
+P17.MAA000902.3_11_M.1.1,oligodendrocyte,15
+P17.MAA000923.3_9_M.1.1,astrocyte,11
+P17.MAA000926.3_9_M.1.1,oligodendrocyte,15
+P17.MAA000942.3_8_M.1.1,oligodendrocyte,15
+P17.MAA001894.3_39_F.1.1,oligodendrocyte precursor cell,4
+P18.B001688.3_38_F.1.1,oligodendrocyte,1
+P18.MAA000550.3_10_M.1.1,oligodendrocyte,15
+P18.MAA000560.3_10_M.1.1,oligodendrocyte,15
+P18.MAA000561.3_10_M.1.1,brain pericyte,3
+P18.MAA000581.3_10_M.1.1,endothelial cell,10
+P18.MAA000641.3_9_M.1.1,oligodendrocyte,17
+P18.MAA000923.3_9_M.1.1,oligodendrocyte,15
+P18.MAA000925.3_9_M.1.1,oligodendrocyte,1
+P18.MAA000926.3_9_M.1.1,oligodendrocyte,15
+P18.MAA000928.3_9_M.1.1,Bergmann glial cell,5
+P18.MAA000930.3_8_M.1.1,oligodendrocyte,15
+P18.MAA000941.3_8_M.1.1,oligodendrocyte,15
+P18.MAA001894.3_39_F.1.1,astrocyte,11
+P19.MAA000560.3_10_M.1.1,astrocyte,11
+P19.MAA000561.3_10_M.1.1,brain pericyte,3
+P19.MAA000581.3_10_M.1.1,neuron,7
+P19.MAA000926.3_9_M.1.1,endothelial cell,2
+P19.MAA000928.3_9_M.1.1,oligodendrocyte,15
+P19.MAA000930.3_8_M.1.1,oligodendrocyte precursor cell,4
+P19.MAA000935.3_8_M.1.1,astrocyte,11
+P19.MAA000940.3_8_M.1.1,neuron,0
+P2.MAA000560.3_10_M.1.1,oligodendrocyte,15
+P2.MAA000564.3_10_M.1.1,oligodendrocyte precursor cell,12
+P2.MAA000641.3_9_M.1.1,oligodendrocyte,17
+P2.MAA000926.3_9_M.1.1,oligodendrocyte,15
+P2.MAA000930.3_8_M.1.1,oligodendrocyte,1
+P2.MAA000932.3_11_M.1.1,endothelial cell,10
+P2.MAA000942.3_8_M.1.1,oligodendrocyte,15
+P2.MAA001894.3_39_F.1.1,oligodendrocyte,1
+P20.B000621.3_56_F.1.1,endothelial cell,16
+P20.B003728.3_56_F.1.1,oligodendrocyte,9
+P20.MAA000424.3_11_M.1.1,neuron,7
+P20.MAA000560.3_10_M.1.1,astrocyte,11
+P20.MAA000561.3_10_M.1.1,neuron,7
+P20.MAA000564.3_10_M.1.1,oligodendrocyte,1
+P20.MAA000578.3_10_M.1.1,astrocyte,5
+P20.MAA000581.3_10_M.1.1,endothelial cell,10
+P20.MAA000923.3_9_M.1.1,oligodendrocyte precursor cell,4
+P20.MAA000926.3_9_M.1.1,astrocyte,11
+P20.MAA000932.3_11_M.1.1,endothelial cell,10
+P20.MAA000940.3_8_M.1.1,oligodendrocyte,15
+P20.MAA001894.3_39_F.1.1,astrocyte,11
+P21.MAA000560.3_10_M.1.1,oligodendrocyte,1
+P21.MAA000561.3_10_M.1.1,brain pericyte,3
+P21.MAA000581.3_10_M.1.1,endothelial cell,2
+P21.MAA000926.3_9_M.1.1,endothelial cell,10
+P21.MAA000935.3_8_M.1.1,oligodendrocyte,15
+P21.MAA000941.3_8_M.1.1,endothelial cell,2
+P21.MAA000947.3_9_M.1.1,oligodendrocyte,15
+P21.MAA001854.3_38_F.1.1,oligodendrocyte,1
+P21.MAA001894.3_39_F.1.1,endothelial cell,10
+P22.B000621.3_56_F.1.1,astrocyte,11
+P22.MAA000560.3_10_M.1.1,oligodendrocyte,15
+P22.MAA000561.3_10_M.1.1,endothelial cell,16
+P22.MAA000581.3_10_M.1.1,endothelial cell,2
+P22.MAA000641.3_9_M.1.1,oligodendrocyte,15
+P22.MAA000926.3_9_M.1.1,astrocyte,11
+P22.MAA000941.3_8_M.1.1,oligodendrocyte,1
+P22.MAA001894.3_39_F.1.1,astrocyte,11
+P3.MAA000560.3_10_M.1.1,oligodendrocyte,15
+P3.MAA000564.3_10_M.1.1,endothelial cell,2
+P3.MAA000923.3_9_M.1.1,astrocyte,11
+P3.MAA000932.3_11_M.1.1,endothelial cell,10
+P3.MAA000940.3_8_M.1.1,neuron,0
+P3.MAA000941.3_8_M.1.1,oligodendrocyte,15
+P3.MAA001894.3_39_F.1.1,oligodendrocyte,15
+P4.MAA000564.3_10_M.1.1,astrocyte,11
+P4.MAA000581.3_10_M.1.1,endothelial cell,16
+P4.MAA000641.3_9_M.1.1,oligodendrocyte,0
+P4.MAA000923.3_9_M.1.1,astrocyte,11
+P4.MAA000926.3_9_M.1.1,oligodendrocyte precursor cell,4
+P4.MAA000930.3_8_M.1.1,astrocyte,11
+P4.MAA000935.3_8_M.1.1,oligodendrocyte,15
+P4.MAA000940.3_8_M.1.1,oligodendrocyte,1
+P5.MAA000641.3_9_M.1.1,oligodendrocyte,17
+P5.MAA000926.3_9_M.1.1,astrocyte,11
+P5.MAA000930.3_8_M.1.1,astrocyte,11
+P5.MAA000932.3_11_M.1.1,endothelial cell,10
+P5.MAA000935.3_8_M.1.1,oligodendrocyte,15
+P5.MAA000940.3_8_M.1.1,neuron,0
+P5.MAA000947.3_9_M.1.1,oligodendrocyte,15
+P5.MAA001894.3_39_F.1.1,astrocyte,11
+P6.B003274.3_38_F.1.1,oligodendrocyte,9
+P6.MAA000560.3_10_M.1.1,astrocyte,11
+P6.MAA000564.3_10_M.1.1,oligodendrocyte precursor cell,4
+P6.MAA000581.3_10_M.1.1,endothelial cell,16
+P6.MAA000902.3_11_M.1.1,oligodendrocyte,15
+P6.MAA000926.3_9_M.1.1,endothelial cell,16
+P6.MAA000928.3_9_M.1.1,oligodendrocyte,17
+P6.MAA000932.3_11_M.1.1,endothelial cell,16
+P6.MAA000941.3_8_M.1.1,oligodendrocyte,15
+P6.MAA000942.3_8_M.1.1,astrocyte,11
+P7.B000404.3_56_F.1.1,neuron,7
+P7.MAA000560.3_10_M.1.1,oligodendrocyte,15
+P7.MAA000563.3_10_M.1.1,endothelial cell,2
+P7.MAA000564.3_10_M.1.1,astrocyte,11
+P7.MAA000925.3_9_M.1.1,neuron,0
+P7.MAA000926.3_9_M.1.1,oligodendrocyte,15
+P7.MAA000932.3_11_M.1.1,endothelial cell,2
+P7.MAA000935.3_8_M.1.1,oligodendrocyte,15
+P7.MAA000947.3_9_M.1.1,astrocyte,11
+P7.MAA001894.3_39_F.1.1,oligodendrocyte precursor cell,4
+P8.B000404.3_56_F.1.1,neuron,7
+P8.B001688.3_38_F.1.1,oligodendrocyte,1
+P8.MAA000560.3_10_M.1.1,astrocyte,11
+P8.MAA000564.3_10_M.1.1,oligodendrocyte,15
+P8.MAA000923.3_9_M.1.1,endothelial cell,16
+P8.MAA000926.3_9_M.1.1,endothelial cell,16
+P8.MAA000932.3_11_M.1.1,endothelial cell,16
+P9.MAA000560.3_10_M.1.1,oligodendrocyte,15
+P9.MAA000564.3_10_M.1.1,oligodendrocyte,1
+P9.MAA000926.3_9_M.1.1,oligodendrocyte precursor cell,4
+P9.MAA000930.3_8_M.1.1,astrocyte,6
+P9.MAA000932.3_11_M.1.1,endothelial cell,2
+P9.MAA000935.3_8_M.1.1,oligodendrocyte,15
+P9.MAA001894.3_39_F.1.1,astrocyte,11
