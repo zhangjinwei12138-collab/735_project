@@ -1,8 +1,0 @@
-panel,column,ari_vs_true,n_clusters_displayed
-true_label,label,,7
-PCA + GMM,pca_gmm,0.8193375714737539,7
-PCA + DP,pca_dp,0.7864595868376476,20
-UMAP + GMM,umap_gmm,0.8211210614153089,7
-UMAP + DP,umap_dp,0.5125819166129371,13
-AE + GMM,ae_gmm,0.7719902527612019,7
-AE + DP,ae_dp,0.5619546906522697,20
